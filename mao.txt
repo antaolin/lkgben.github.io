@@ -2186,7 +2186,7 @@
                     "name":"mediacodec-hevc",
                     "value":"1"
                 }
-            ]
+            ],
         }
     
 
