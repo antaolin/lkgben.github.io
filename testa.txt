@@ -188,10 +188,10 @@ ru sport tv,https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m
 EDGEsport,https://csm-e-stv.tls1.yospace.com/csm/live/195300285.m3u8#https://dai2.xumo.com/amagi_hls_data_xumo1212A-edgesportxumo/CDN/master.m3u8#https://edgesport-samsungus.amagi.tv/playlist.m3u8
 
 $c_start马新/MalSin$c_end
-AEC-1,https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37352#P2p://ns2.hellotvvod.com:9906/672202f697ea4e77943f6898754f0c1e
-AEC-2,P2p://ns2.hellotvvod.com:9906/672202f697ea4e77943f6898754f0c1e#p2p://livefccs.looktvb.com:16888/5f45ffd00004f729042c81851ab49b02.ts
-AEC-3,P2p://ns2.hellotvvod.com:9906/ba54a1fee32c4b159e953cc9f2632857#p2p://fccseuro.pvbox.live:18912/5d65046a0003ac636bf6a3af1b1f31d8#p2p://fccseuro.pvbox.live:18912/5e649e1c000aa68a6c99c6e37b5c2136#p2p://fccsovh.pvbox.live:18912/5d65046a0003ac636bf6a3af1b1f31d8#p2p://fccseuro.pvbox.live:18912/5b909942000bb565068e122594052611#p2p://fccsovh.pvbox.live:18912/5b909942000bb565068e122594052611
-AEC-4,mitv://51.81.90.178:9906/ba54a1fee32c4b159e953cc9f2632857#mitv://51.81.90.178:9906/672202f697ea4e77943f6898754f0c1e
+AEC-1,mitv://51.81.90.178:9906/672202f697ea4e77943f6898754f0c1e#p2p://livefccs.looktvb.com:16888/5f45ffd00004f729042c81851ab49b02.ts
+AEC-2,mitv://51.81.90.178:9906/ba54a1fee32c4b159e953cc9f2632857#mitv://51.81.90.178:9906/672202f697ea4e77943f6898754f0c1e
+AEC-3,P2p://ns2.hellotvvod.com:9906/672202f697ea4e77943f6898754f0c1e#P2p://ns2.hellotvvod.com:9906/ba54a1fee32c4b159e953cc9f2632857#p2p://fccseuro.pvbox.live:18912/5e649e1c000aa68a6c99c6e37b5c2136#p2p://fccsovh.pvbox.live:18912/5d65046a0003ac636bf6a3af1b1f31d8#p2p://fccseuro.pvbox.live:18912/5b909942000bb565068e122594052611#p2p://fccsovh.pvbox.live:18912/5b909942000bb565068e122594052611
+AEC-4,https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37352#P2p://ns2.hellotvvod.com:9906/672202f697ea4e77943f6898754f0c1e
 91 NRJ MUSIC,http://tv.nrg91.gr:1935/onweb/live/master.m3u8
 Astro-25,http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/8676
 李小龙,http://bd.hls.huya.com/huyalive/1449588725-1449588725-6225936166525337600-3048959678-10057-A-0-1.m3u8?wsSecret=ed821304d90d641344832186ef0a7ede&wsTime=611e19e1&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Afz1%3B&fs=bgct
