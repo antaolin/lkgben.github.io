@@ -1,447 +1,918 @@
-香港,#genre#
+台湾頻道,#genre#
+民視,mitv://ns2.hellotvvod.com:9906/44cf4d1e73cc4c34843382f2bf89d49f
+人間衛視,mitv://ns2.hellotvvod.com:9906/eec8f95a22de4a0ea2907a53ad0e62d2
+台視,mitv://ns2.hellotvvod.com:9906/0cde14d20638479189443549d1b1005f
+大愛,mitv://ns2.hellotvvod.com:9906/47e0000522814c6aac7d54c8bec91445
+中視,mitv://ns2.hellotvvod.com:9906/21fe3c316a13445a8a5b1f4afd39a5b1
+霹靂台灣台,mitv://ns2.hellotvvod.com:9906/85d6caf44ce4449e8600dc86d1c7be21
+華視,mitv://ns2.hellotvvod.com:9906/fd73b217be314cf198807cc5d1d911b6
+公視,mitv://ns2.hellotvvod.com:9906/a1c2ecbcd3b64f3eb72ac9191b337cda
+公視台語台,mitv://ns2.hellotvvod.com:9906/cc76c2a0dc1f4fe0b4ca8f0c0f6e31d9
+好消息,mitv://ns2.hellotvvod.com:9906/7df332eeb26546bf94a972d4c2d1ad4e
+原住民電視台,mitv://ns2.hellotvvod.com:9906/aa08defb0c824c2286623855624a0e07
+客家電視台,mitv://ns2.hellotvvod.com:9906/bcf16a66476d4c88a5ea6b7d40a56e7c
+國家地理頻道,mitv://ns2.hellotvvod.com:9906/cbf2e0c0e1ed4e11a564047614cb962d
+探索頻道,mitv://ns2.hellotvvod.com:9906/9c0a057219044213ac643c8a8e5d50c0
+TLC旅遊生活,mitv://ns2.hellotvvod.com:9906/785e9237d2864f23b3fbf5e72b645812
+動物星球,mitv://ns2.hellotvvod.com:9906/8df6a02edb7946eebae8115ab6fd8ec7
+CN卡通頻道,mitv://ns2.hellotvvod.com:9906/51e593fae95f48968c181b6a47179526
+迪士尼頻道,mitv://ns2.hellotvvod.com:9906/d24a14f362fb47d8a603b41462ad0f9b
+MOMO親子台,mitv://ns2.hellotvvod.com:9906/d3ae733f3d61464e8f240d812c0b1516
+東森幼幼台,mitv://ns2.hellotvvod.com:9906/a5729018eb3d44c4b4033e72ea4af060
+緯來綜合台,mitv://ns2.hellotvvod.com:9906/30dab7cccf3842838ef7edfdabcf57c2
+八大第一台,mitv://ns2.hellotvvod.com:9906/7826fa652c474b55888ef85c30901584
+八大綜合台,mitv://ns2.hellotvvod.com:9906/578cc70bac494161901e5c735312762c
+三立台灣台,mitv://ns2.hellotvvod.com:9906/ba70eb94fd0e4b2aae6fb9ece2203391
+三立都會台,mitv://ns2.hellotvvod.com:9906/24f879b52a0d45d886005e8acdd9a8ab
+東森綜合台,mitv://ns2.hellotvvod.com:9906/8c962bcce29840f4a4f0109bfd7fe5c0
+超視,mitv://ns2.hellotvvod.com:9906/941259e9297d4a229c678f08b19f60f1
+中天綜合台,mitv://ns2.hellotvvod.com:9906/a23f89fde21341f3b172046c02ad688c
+中天娛樂台,mitv://ns2.hellotvvod.com:9906/c23914b1e52c44a9b665e51f535d5b37
+東森戲劇台,mitv://ns2.hellotvvod.com:9906/8ad6da5302064e3a8b67ccc9848614e5
+八大戲劇台,mitv://ns2.hellotvvod.com:9906/ea7f77bf68254477b2a29793cf65f55a
+TVBS歡樂台,mitv://ns2.hellotvvod.com:9906/b4b85eca20d7462fae595d8033c6a9ce
+緯來戲劇台,mitv://ns2.hellotvvod.com:9906/c4d3341645874d9fab6329a7f83f5121
+高點綜合台,mitv://ns2.hellotvvod.com:9906/ab09bd3fc7f3412ea9d38b3cf68302b0
+壹電視新聞台,mitv://ns2.hellotvvod.com:9906/c111818e11e8420aaad164543387473c
+年代新聞,mitv://ns2.hellotvvod.com:9906/a412a974b1c24427ba506b9fcd95d77b
+東森新聞台,mitv://ns2.hellotvvod.com:9906/d98879e5737d4c44b3dd85bc349775e0
+中天新聞台,mitv://ns2.hellotvvod.com:9906/f2b61bbfc05e47f8916dcd2513b3a0f5
+民視新聞台,mitv://ns2.hellotvvod.com:9906/f2f4daa81a39490396bc2eea99fd9fd9
+三立新聞台,mitv://ns2.hellotvvod.com:9906/3fc8adf766954da4bc9908ecb81184bc
+TVBS新聞台,mitv://ns2.hellotvvod.com:9906/4c700aa999594ea5893d7eab1519f187
+TVBS,mitv://ns2.hellotvvod.com:9906/95ef54ef56944f0a947ea0e87f6f15bc
+東森財經新聞台,mitv://ns2.hellotvvod.com:9906/e992de48ddda440ebc55984766d0ab8f
+非凡新聞台,mitv://ns2.hellotvvod.com:9906/3801d29839174353a940a8c0cfae6e47
+衛視電影台,mitv://ns2.hellotvvod.com:9906/e7682ac33dfd41fc8f028f1652b6117f
+東森電影台,mitv://ns2.hellotvvod.com:9906/e40a4dbcfc66445a83f8c06d53ac3b53
+緯來電影台,mitv://ns2.hellotvvod.com:9906/67d49ff2fc594674a3969022f0c55ded
+龍祥電影,mitv://ns2.hellotvvod.com:9906/2c5a71766368419ca7a962ce66cf5da3
+HBO,mitv://ns2.hellotvvod.com:9906/8e83048c82a8449a93265fa063baa48d
+東森洋片台,mitv://ns2.hellotvvod.com:9906/ab1aa48cd1a34f488845642592c39418
+AXN,mitv://ns2.hellotvvod.com:9906/5c910d743fe847e8b406bf7d180130a0
+好萊塢電影台,mitv://ns2.hellotvvod.com:9906/fb9f46f4cb454b13a15aac8e025f8477
+CINEMAX,mitv://ns2.hellotvvod.com:9906/3d4d75d8f386474d8dbb84c7a3704a7f
+緯來育樂台,mitv://ns2.hellotvvod.com:9906/ed2847f9731a48e19afc2ba479a73939
+緯來體育台,mitv://ns2.hellotvvod.com:9906/cd64bcebb70d4b489bf734c5b3369002
+ELEVEN體育1台,mitv://ns2.hellotvvod.com:9906/0c9c4a9fc07c41bb8537828dd9162e81
+ELEVEN體育2台,mitv://ns2.hellotvvod.com:9906/a610acb66f3749bb953d78899b7205d2
+緯來日本,mitv://ns2.hellotvvod.com:9906/f89c51e091594bb1bcce0ba7b3e17973
+國興衛視,mitv://ns2.hellotvvod.com:9906/7ed90f5183e64e4f8b422c951ff275b0
+FOX,mitv://ns2.hellotvvod.com:9906/f769b6fdc80742349bd8214c8839d9d3
+Z頻道,mitv://ns2.hellotvvod.com:9906/653db001ea4a4599ad4be5a98f9adf8c
+Animax,mitv://ns2.hellotvvod.com:9906/10d8ae908a354513b09e38e7116b7b33
+MTV,mitv://ns2.hellotvvod.com:9906/aad098bade95418a8046acceb0558aa3
+八大娛樂台,mitv://ns2.hellotvvod.com:9906/cdb80c12a4854752b4cfb570d448ac05
+三立iNEWS,mitv://ns2.hellotvvod.com:9906/49035f1ad8b84fa7822c0ff660d89f09
+非凡商業台,mitv://ns2.hellotvvod.com:9906/ab4d36f3d889496a92747157c7e4c732
+公視3台,mitv://ns2.hellotvvod.com:9906/6ba6fe3a051e4113b82eb6d32fbb7114
+大愛2台,mitv://ns2.hellotvvod.com:9906/4523b0956bb34141bfb61460ea9494ed
+ELTV生活英語台,mitv://ns2.hellotvvod.com:9906/fd64478e967b43f79c151425ad75030f
+靖洋卡通Nice Bingo,mitv://ns2.hellotvvod.com:9906/f356d20c5a374fef82a196fadfe38a77
+靖天卡通台,mitv://ns2.hellotvvod.com:9906/bb214f3596dd4b1c8bae816edff835be
+Cbeebies,mitv://ns2.hellotvvod.com:9906/65758ebebbb5437cbfdb4b5c88597bf9
+達文西頻道,mitv://ns2.hellotvvod.com:9906/191725f8a02546c1bec1bb92aab127ab
+Nick Jr.,mitv://ns2.hellotvvod.com:9906/89ac75b06f7f4721be3f6a4d12eb71d3
+國會頻道1,mitv://ns2.hellotvvod.com:9906/3b86853022324c3da4928922ba545877
+國會頻道2,mitv://ns2.hellotvvod.com:9906/7350ee5ff93341a08945bc1c8d95cd1c
+MTV Live,mitv://ns2.hellotvvod.com:9906/5b5d21a03d37495aac99f37ee515efab
+Mezzo Live,mitv://ns2.hellotvvod.com:9906/5a39267c43dd41b1821aef0622730115
+CLASSICA 古典樂,mitv://ns2.hellotvvod.com:9906/391c8cb09e224e84ab588144e0632a30
+CMusic,mitv://ns2.hellotvvod.com:9906/0914d00bdeb748778ea50ce5c008a18b
+愛爾達體育1台,mitv://ns2.hellotvvod.com:9906/db6bd5a732984d83a8fdb9d0536886c8
+愛爾達體育2台,mitv://ns2.hellotvvod.com:9906/bc49344900a546d39b5083025db6243f
+愛爾達體育3台,mitv://ns2.hellotvvod.com:9906/4f3f4387a8174b8f8aaed89e2901442c
+TRACE Sport Stars,mitv://ns2.hellotvvod.com:9906/57536d1b23f34f28bb4d8c065d2e67e5
+博斯高球,mitv://ns2.hellotvvod.com:9906/9eb73e0317034672b4e2bdb0d695387f
+博斯高球二台,mitv://ns2.hellotvvod.com:9906/c612218b5c0d4349a1b4049e89913c75
+博斯網球台,mitv://ns2.hellotvvod.com:9906/47176ac49fed4e74a62d30b037ce81d3
+博斯魅力網,mitv://ns2.hellotvvod.com:9906/8f1d2f23e9964ef6b99f7b7228c199dc
+博斯無限台,mitv://ns2.hellotvvod.com:9906/91e038793b5f45f194ab304ab843b741
+博斯無限二台,mitv://ns2.hellotvvod.com:9906/3367cde8bd924944b2b7bbbaef5be87e
+博斯運動,mitv://ns2.hellotvvod.com:9906/b57a5306d5da4dcea75af2d436968097
+智林體育台,mitv://ns2.hellotvvod.com:9906/8b30925a0d704bcd8286add181bafdb9
+博斯運動二台,mitv://ns2.hellotvvod.com:9906/d4f401d6d6e144dfbb8c944a41b15772
+OUTDOOR,mitv://ns2.hellotvvod.com:9906/ed9355bc07124e1e8a1c5dae6d87c300
+HBO Family,mitv://ns2.hellotvvod.com:9906/2230c4128071467e8e995408f20c1c3c
+HBO強檔鉅獻,mitv://ns2.hellotvvod.com:9906/670c07900c5c4e49b6df5306bc18bff0
+HBO原創鉅獻,mitv://ns2.hellotvvod.com:9906/9b18147e7f454392b7eb1d204235b314
+國家地理高畫質野生頻道,mitv://ns2.hellotvvod.com:9906/56543494b4f64682b1cf6a1aa771c34c
+BBC Earth,mitv://ns2.hellotvvod.com:9906/555289b9056947f18bb9658c62299697
+Discovery Asia,mitv://ns2.hellotvvod.com:9906/8338adb9ba1541929a6106de04cfdec5
+中國频道,#genre#
+CCTV1,mitv://ns2.hellotvvod.com:9906/916670281cae4113bd5b2dfd948e138f
+CCTV2,mitv://ns2.hellotvvod.com:9906/ac9600048e3a4ca2acc668ed58a9a17e
+CCTV3,mitv://ns2.hellotvvod.com:9906/b4c58672af364a3786e2223e19762069
+CCTV4,mitv://ns2.hellotvvod.com:9906/e16d963658d6473baa18da038cd4610a
+CCTV5,mitv://ns2.hellotvvod.com:9906/f07ab39fdf354c7cb4a34fbaaa3659c7
+CCTV5+,mitv://ns2.hellotvvod.com:9906/7a3a7027352546228475d2691cce06d8
+CCTV6,mitv://ns2.hellotvvod.com:9906/fcb1a15023a1447c88064e0e21c1bf4c
+CCTV7,mitv://ns2.hellotvvod.com:9906/0cf70aad5ee1484c903173763e88ab81
+CCTV8,mitv://ns2.hellotvvod.com:9906/9683c3d5ea5a421f95bc35b740fd36c3
+CCTV9,mitv://ns2.hellotvvod.com:9906/57cbe284a7a94ccf8621a50752c61a16
+CCTV10,mitv://ns2.hellotvvod.com:9906/61370e56f54148a0a70cab36a6808341
+CCTV11,mitv://ns2.hellotvvod.com:9906/a32ab88f60864c9ca139bab67d739d50
+CCTV12,mitv://ns2.hellotvvod.com:9906/b5f0607462ff45ac9866b0be8c6b28eb
+CCTV13,mitv://ns2.hellotvvod.com:9906/2c8380f15a894dbdb84f2f757700bcb4
+CCTV14,mitv://ns2.hellotvvod.com:9906/6ee2ee86a5154416880be4c97254d93a
+CCTV15,mitv://ns2.hellotvvod.com:9906/e59ce5187941465684254cd07f4f8b73
+北京衛視,mitv://ns2.hellotvvod.com:9906/a25d233c7ec749b0acd28dca0caec947
+天津衛視,mitv://ns2.hellotvvod.com:9906/67f708999fd94021a5d4b9c1ba091612
+河北衛視,mitv://ns2.hellotvvod.com:9906/315852fe6753422cadbea41e8a77c659
+黑龍江衛視,mitv://ns2.hellotvvod.com:9906/e1fe102c0b7344f499372ff61ff96924
+遼寧衛視,mitv://ns2.hellotvvod.com:9906/6ce28b6978ca46ca9f090dabd53562bd
+東方衛視,mitv://ns2.hellotvvod.com:9906/a4a1a448c3444cc6b5401d4667a139c0
+江蘇衛視,mitv://ns2.hellotvvod.com:9906/09db87c3eecf42789768cb349ecc7207
+浙江衛視,mitv://ns2.hellotvvod.com:9906/7162d9aa3376485b9614e5bf2eeb53c8
+江西衛視,mitv://ns2.hellotvvod.com:9906/51c81d45f5744959880659eeabbc2031
+山東衛視,mitv://ns2.hellotvvod.com:9906/e710a48896a74517b7c08d3b5ed1fdf0
+東南衛視,mitv://ns2.hellotvvod.com:9906/21b1d1d5aaf34e66b37e0e8d49ce893b
+湖北衛視,mitv://ns2.hellotvvod.com:9906/3eec2739d9274b19aac1c7e2021a6a5e
+湖南衛視,mitv://ns2.hellotvvod.com:9906/ab88c7329db34a0a982ecb4ea279486a
+深圳衛視,mitv://ns2.hellotvvod.com:9906/90e5fe3787b747dd98183888237ad33f
+廣東衛視,mitv://ns2.hellotvvod.com:9906/697818dc69f24856b1563b708424acfc
+廣西衛視,mitv://ns2.hellotvvod.com:9906/232f435fcc0547bea4af577183c7d333
+重慶衛視,mitv://ns2.hellotvvod.com:9906/a6e56c3b4ab84d678764ca8d7cff15bf
+雲南衛視,mitv://ns2.hellotvvod.com:9906/1827ef176cc54952baef042a45b58c90
+廣東南方衛視,mitv://ns2.hellotvvod.com:9906/a4e856a9e00243a0bd35a5db27412c65
+珠江台,mitv://ns2.hellotvvod.com:9906/3141766a2e8945f0b516698a206cce24
+星空衛視,mitv://ns2.hellotvvod.com:9906/7c8f26565a5440248863081512363152
+金鷹卡通,mitv://ns2.hellotvvod.com:9906/81c74b1fdbcd469e9bd5c493f4d40e31
+魅力足球,mitv://ns2.hellotvvod.com:9906/1d8773c524fa4ff0a210dd82b5442327
+新視覺,mitv://ns2.hellotvvod.com:9906/9319abc926b54236ad6215e7132c9c11
+廣東體育,mitv://ns2.hellotvvod.com:9906/3faeeb40ba624e64bb63ded82e67a601
+🇭🇰港台秒开,#genre#
+翡翠台,http://fuck.ke22.aihost69.top/play/1.m3u8
+无线新闻,http://fuck.ke22.aihost69.top/play/9.m3u8
+无线财经,http://fuck.ke22.aihost69.top/play/10.m3u8
+J2,http://fuck.ke22.aihost69.top/play/12.m3u8
+明珠台,http://fuck.ke22.aihost69.top/play/13.m3u8
+香港开电视,http://fuck.ke22.aihost69.top/play/7.m3u8
+ViuTV,http://fuck.ke22.aihost69.top/play/8.m3u8
+Now新闻台,http://fuck.ke22.aihost69.top/play/16.m3u8
+RHK31,http://fuck.ke22.aihost69.top/play/20.m3u8
+RHK32,http://fuck.ke22.aihost69.top/play/21.m3u8
+有线新闻台,http://fuck.ke22.aihost69.top/play/24.m3u8
+有线18台,http://fuck.ke22.aihost69.top/play/25.m3u8
+香港603,http://fuck.ke22.aihost69.top/play/26.m3u8
+有线体育台,http://fuck.ke22.aihost69.top/play/27.m3u8
+有线财经资讯台,http://fuck.ke22.aihost69.top/play/28.m3u8
+澳门莲花,http://fuck.ke22.aihost69.top/play/30.m3u8
+🇭🇰港台高清,#genre#
+有线新闻,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH146/146
+翡翠台,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH3/3
+J2,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH4/4
+明珠台,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH5/5
+华丽台,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH6/6
+TVB功夫粤语,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH7/7
+TVB功夫国语,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH8/8
+TVB经典台,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH9/9
+TVB星河台,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH10/10
+TVB星河国语台,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH11/11
+TVB经典台,http://iptv.tvfix.org/hls/tvbjd.m3u8
+TVB为食台,http://iptv.tvfix.org/hls/tvbws.m3u8
+美亚电影台粤语,http://iptv.tvfix.org/hls/mydy.m3u8
+美亚电影台国语,http://iptv.tvfix.org/hls/mydy2.m3u8
+有线新闻,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH146/146
+有线体育台,rtmp://59.124.75.157/sat/hk011
+有线18台,rtmp://59.124.75.157/sat/hk041
+TVBe,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH13/13
+无线新闻台,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH14/14
+无线财经台,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH15/15
+ViuTV,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH16/16
+ViuTV Six,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH17/17
+港台電視31,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH18/18
+港台電視32,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH19/19
+C+,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH20/20
+NOW体育,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH21/21
+NOW直播,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH22/22
+NOW财经,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH23/23
+民视新闻,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH24/24
+中视新闻,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH25/25
+台视新闻,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH26/26
+东森财经,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH30/30
+华视新闻,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH31/31
+TVBS新闻,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH32/32
+SET新闻,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH34/34
+三立新闻,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH35/35
+一新闻,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH36/36
+非凡新闻,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH37/37
+年代新闻,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH38/38
+港澳频道,#genre#
+Thrill,mitv://ns2.hellotvvod.com:9906/70b676c4e0f9424991012e9bfcddd4e7
+鳳凰中文台,mitv://ns2.hellotvvod.com:9906/1cca583ce33142c9840bcf53b030e47c
+鳳凰資訊台,mitv://ns2.hellotvvod.com:9906/c94bbe8b3f9044eaa6ef8a2aaba873d4
+鳳凰香港台,mitv://ns2.hellotvvod.com:9906/1e2d62497f71486cb6f1d6bbe1bbdb4f
+陽光衛視,mitv://ns2.hellotvvod.com:9906/ff6e07bcb19740c4b360e3fa958a5f2c
+澳門-MACAU,mitv://ns2.hellotvvod.com:9906/ba43211992f348d6a8b07f1edb894c9b
+澳門蓮花,mitv://ns2.hellotvvod.com:9906/5a534ef41b9647c9aad8facdb5525a2a
+港台电视31,mitv://ns2.hellotvvod.com:9906/26306a6246814adbaec622fd114432ec
+港台電視32,mitv://ns2.hellotvvod.com:9906/dcd3e6336bec46168a990c3331cb8579
+爆谷台,mitv://ns2.hellotvvod.com:9906/1d7e379fa2f04936b9d2dce207efb097
+鳳凰電影台,mitv://ns2.hellotvvod.com:9906/06553799649b45619f5c5ff5467abe0e
+HKC電影台,mitv://ns2.hellotvvod.com:9906/6d83197a57a94c41848d3945e38a8607
+HKC綜合娛樂台,mitv://ns2.hellotvvod.com:9906/a17643cfcae6400d8770e4b89958b706
+香港開電視,mitv://ns2.hellotvvod.com:9906/ae5366f93aa942ddb49b19c9492f5d72
+翡翠台,mitv://ns2.hellotvvod.com:9906/9e2a8fd74a5242f3b2e2621cb384ec84
+?翡翠台(備),mitv://ns2.hellotvvod.com:9906/279032f76ae6465d9f6aff532770787f
+J2,mitv://ns2.hellotvvod.com:9906/4b20b6d78e904b779ff16c0b10d6c3e4
+無綫新聞台,mitv://ns2.hellotvvod.com:9906/977fac4b93af4ee0a190f38217d79e51
+無綫新聞台(備),mitv://ns2.hellotvvod.com:9906/92b7235ae2a54766a2acb97e5f7a64ef
+無綫財經·資訊台,mitv://ns2.hellotvvod.com:9906/790b3d24875349d8b3118357cb9a5124
+明珠台,mitv://ns2.hellotvvod.com:9906/7a62960513a04dc18339caabbf644cd9
+now新聞台,mitv://ns2.hellotvvod.com:9906/f228f98bc84245ce9b4870364b82b6da
+now直播台,mitv://ns2.hellotvvod.com:9906/185dbf64ed284733a132ae9ec355f263
+HKC新聞台,mitv://ns2.hellotvvod.com:9906/a8429ecad2e446e18c362b031e3d32bf
+HKC直播新聞台,mitv://ns2.hellotvvod.com:9906/eede001be16e4991843619bb8af3f840
+HKC財經資訊台,mitv://ns2.hellotvvod.com:9906/94ecdbe381c54b58bcca74b7b88047a2
+ViuTVsix,mitv://ns2.hellotvvod.com:9906/0a2171b6dcd6420c98ccfb7c7f524504
+ViuTV,mitv://ns2.hellotvvod.com:9906/d7506148214e4b3fae543068f1701ff7
+TVB經典台,mitv://ns2.hellotvvod.com:9906/1c0d8aefa5cd4d009cecff61ebc3e18b
+TVB娛樂新聞台,mitv://ns2.hellotvvod.com:9906/f500497b96b1458a8f9f5da38c6e02d7
+TVB 星河,mitv://ns2.hellotvvod.com:9906/5f99a3cfce824f6da2fd0c3b6797428a
+HKC 18,mitv://ns2.hellotvvod.com:9906/36976aef6f4f4ab2aad06b8ece5aac54
+HKC 603,mitv://ns2.hellotvvod.com:9906/bc32fd90af7d4f4aaa3bd451d9199153
+HKC体育台,mitv://ns2.hellotvvod.com:9906/1f7426398b0248708172875db037edff
+HKC Sports Plus 1,mitv://ns2.hellotvvod.com:9906/947fa69d3ee7421f83b9aae7df4c846d
+港台测试,#genre#
+TVBJ2(备用),http://iptv.tvfix.org/hls/j22.m3u8
+TVBJ2(粤语),http://iptv.tvfix.org/hls/j2.m3u8
+TVB翡翠,http://iptv.tvfix.org/hls/jade.m3u8
+TVB翡翠（备用1）,http://iptv.tvfix.org/hls/jade2.m3u8
+TVB翡翠（备用）2,http://iptv.tvfix.org/hls/jadegd.m3u8
+TVB翡翠海外版(国语),http://iptv.tvfix.org/hls/jadenhk2.m3u8
+TVB翡翠海外版(粤语),http://iptv.tvfix.org/hls/jadenhk.m3u8
+明珠台,http://iptv.tvfix.org/hls/pearl.m3u8
+TVB明珠台,http://iptv.tvfix.org/hls/pearl2.m3u8
+无线新闻,http://iptv.tvfix.org/hls/inews.m3u8
+🇲🇴澳门频道,#genre#
+澳视澳门,http://103.233.191.133:1935/ch1/ch1.live/playlist.m3u8
+澳视澳门,http://103.233.191.134:1935/ch1/ch1.live/playlist.m3u8
+澳视葡文,http://103.233.191.132:1935/ch2/ch2.live/playlist.m3u8
+澳视葡文,http://103.233.191.133:1935/ch2/ch2.live/playlist.m3u8
+澳视葡文,http://103.233.191.134:1935/ch2/ch2.live/playlist.m3u8
+澳视卫星,http://103.233.191.132:1935/ch3/ch3.live/playlist.m3u8
+澳视卫星,http://103.233.191.133:1935/ch3/ch3.live/playlist.m3u8
+澳视卫星,http://103.233.191.134:1935/ch3/ch3.live/playlist.m3u8
+澳视体育,http://103.233.191.132:1935/ch4/sport_ch4.live/playlist.m3u8
+澳视体育,http://103.233.191.133:1935/ch4/sport_ch4.live/playlist.m3u8
+澳视体育,http://103.233.191.134:1935/ch4/sport_ch4.live/playlist.m3u8
+澳视资讯,http://103.233.191.133:1935/ch5/info_ch5.live/playlist.m3u8
+澳视资讯,http://103.233.191.134:1935/ch5/info_ch5.live/playlist.m3u8
+澳视综艺,http://103.233.191.133:1935/ch6/hd_ch6.live/playlist.m3u8
+澳视综艺,http://103.233.191.134:1935/ch6/hd_ch6.live/playlist.m3u8
+澳视综艺,http://103.233.191.132:1935/ch6/hd_ch6.live/playlist.m3u8
+澳视葡文,http://61.244.22.4/ch2/ch2.live/playelist.m3u8
+澳门3,http://61.244.22.4/ch3/ch3.live/playelist.m3u8
+澳视葡文,http://61.244.22.5/ch2/ch2.live/chunklist_w1632175875.m3u8
+澳视葡文,http://61.244.22.4/ch2/ch2.live/index.m3u8
+澳视葡文,http://61.244.22.4/ch2/ch2.live/chunklist_w1632175875.m3u8
+澳门莲花卫视,http://nettvpro.live/hls/lotustv.php
+澳视卫星,http://61.244.22.4/ch3/ch3.live/index.m3u8
+澳亚卫视,http://116.199.5.52:8114/index.m3u8?FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8&Fsv_chan_hls_se_idx=192
+澳亚卫视,http://live.mastvnet.com:800/4rlff1m/live.m3u8
+澳门macau,http://124.238.99.44:808/hls/357/index.m3u8
+澳亚卫视,http://live.mastvnet.com:800/4rlff1m/live.m3u8
+澳亚卫视,http://live.mastvnet.com:800/4rlff1m/1024/live.m3u8
+澳亚卫视,http://live.mastvnet.com:800/4rlff1m/a/live.m3u8
+澳亚卫视,http://124.238.99.44:808/hls/360/index.m3u8
+創世電視,https://cdn.deepcore.online/hlsme/ctv_hk_1080.m3u8
+創世電視,https://cdn.deepcore.online/hlsme/ctv_hk.m3u8
+港开电视,https://cdn.hkdtmb.com/hls/77/index.m3u8
+国际财经,https://cdn.hkdtmb.com/hls/76/index.m3u8
+🇲🇾馬來西亞,#genre#
+TV1,mitv://ns2.hellotvvod.com:9906/ed9fbe35e4c14541bd911379fa366c5e
+TV2,mitv://ns2.hellotvvod.com:9906/930503b892614a558992dee7246ec31f
+TV3,mitv://ns2.hellotvvod.com:9906/bd86602e27b74854961c393b636e570f
+Astro Ria HD,mitv://ns2.hellotvvod.com:9906/c138fff294f2452eb90920d65182fdce
+Astro Prima HD,mitv://ns2.hellotvvod.com:9906/5712b148ea8d4b2da1e83c691cf7490b
+Astro Oasis HD,mitv://ns2.hellotvvod.com:9906/e599d6240fbe444d8a39f34225e40887
+Astro Warna HD,mitv://ns2.hellotvvod.com:9906/1a865f8d00fd497896b0fc1646aa801f
+Astro Citra HD,mitv://ns2.hellotvvod.com:9906/564ec53813704a74b8c4ab042a18463f
+Naura HD,mitv://ns2.hellotvvod.com:9906/e5021a2cb2894b68b5422c254b8b7617
+Astro Rania HD,mitv://ns2.hellotvvod.com:9906/1aae1307c2d04bd2b7ca5aed1469cd02
+Astro Aura HD,mitv://ns2.hellotvvod.com:9906/5e7a3708a99c482390ab8cf0f90a045e
+Al-Hijrah,mitv://ns2.hellotvvod.com:9906/5eb2258beb2044b19d919128b2a65c40
+Colors Hindi,mitv://ns2.hellotvvod.com:9906/dd98f44a969642fd9887c0f14c027977
+TVS,mitv://ns2.hellotvvod.com:9906/831f0c768aa44f38954b00d61d88ecdf
+Awesome TV,mitv://ns2.hellotvvod.com:9906/90eeca11aacd4523a9e896611279e5f5
+TV Okey,mitv://ns2.hellotvvod.com:9906/c81855382ae74d8faa5e8b4b306ab480
+NTV7,mitv://ns2.hellotvvod.com:9906/744ca9a033104420895e9738abdccc0b
+8TV,mitv://ns2.hellotvvod.com:9906/6ca879209e6f487a841f07713bba541a
+TV9,mitv://ns2.hellotvvod.com:9906/54a9ff9815d44b1ca3c479d5c32609bb
+Drama Sangat,mitv://ns2.hellotvvod.com:9906/d873d56d1e5d4b4aa02597ce3ff57a7e
+Astro Vaanavil,mitv://ns2.hellotvvod.com:9906/2aad65d4beaa499cb89ab1e0360d12df
+SUN TV,mitv://ns2.hellotvvod.com:9906/7d10e9aadd1146a3b51757f45e032b5b
+Colors Tamil,mitv://ns2.hellotvvod.com:9906/fb8c72aeee884c1789e905a8da09e2fd
+ABO Movies Thangathirai HD,mitv://ns2.hellotvvod.com:9906/bb6421aa1f9c412ea91e34ab14e52717
+愛奇藝,mitv://ns2.hellotvvod.com:9906/68ef448264ff4275b99f322996e3469a
+TVB經典台,mitv://ns2.hellotvvod.com:9906/1c0d8aefa5cd4d009cecff61ebc3e18b
+Astro小太陽,mitv://ns2.hellotvvod.com:9906/0d5ecafe8f494863ac5bad999b6a1f0f
+Astro AEC,mitv://ns2.hellotvvod.com:9906/672202f697ea4e77943f6898754f0c1e
+Astro AEC(備),mitv://ns2.hellotvvod.com:9906/ba54a1fee32c4b159e953cc9f2632857
+Astro雙星,mitv://ns2.hellotvvod.com:9906/7872926c51f9451fb86342414e0d32f5
+Astro全佳,mitv://ns2.hellotvvod.com:9906/bda13a24baf24436ae722275cbb85345
+天映頻道,mitv://ns2.hellotvvod.com:9906/ec8466ba789143998fb9ed858b7c174e
+翡翠台(華麗台),mitv://ns2.hellotvvod.com:9906/b1b2d6da00de42efa4fe6051d35650d9
+Astro AOD HD 311,mitv://ns2.hellotvvod.com:9906/55fa6310d30d45029c38c2848ffbcb85
+中天亞洲台,mitv://ns2.hellotvvod.com:9906/1c191cbfb24547d7be6f91d352266efa
+TVB娛樂新聞台,mitv://ns2.hellotvvod.com:9906/f500497b96b1458a8f9f5da38c6e02d7
+TVB 星河,mitv://ns2.hellotvvod.com:9906/5f99a3cfce824f6da2fd0c3b6797428a
+天映經典,mitv://ns2.hellotvvod.com:9906/4699a8c6571243a4b5387f6b3c639851
+Astro歡喜台,mitv://ns2.hellotvvod.com:9906/d3f47d1dbb174a9abea701a048928bfb
+KBS World,mitv://ns2.hellotvvod.com:9906/463939cb6a4e429db306ea47d610bbe4
+ONE,mitv://ns2.hellotvvod.com:9906/f0c748f67cd84d9bba8c52bd70270496
+Oh!K,mitv://ns2.hellotvvod.com:9906/dd451cfea1714921ab274fb40279bf2d
+BOO,mitv://ns2.hellotvvod.com:9906/fd66b38ae9014f8183ac6b160b94548b
+tvN Movies HD,mitv://ns2.hellotvvod.com:9906/93226f918c0a4231bdff4910da8fa8e1
+Berita RTM,mitv://ns2.hellotvvod.com:9906/dd239fe4e13a451c84575310a5dff7a1
+Astro Awani,mitv://ns2.hellotvvod.com:9906/980117810fba40b7b2abbcf116553c43
+BERNAMA,mitv://ns2.hellotvvod.com:9906/522a09ea59664e8ba787c9b28bfef518
+CGTN,mitv://ns2.hellotvvod.com:9906/a837b60759a749d3a04991d3fbfadde3
+CNN,mitv://ns2.hellotvvod.com:9906/608965b9eef84266946ad5598a892db9
+BBC World News,mitv://ns2.hellotvvod.com:9906/a1e038f1cfd74f758f916dc7e17572b5
+Al Jazeera English,mitv://ns2.hellotvvod.com:9906/f24308be3336455bb0f20ddcd641d725
+Sky News,mitv://ns2.hellotvvod.com:9906/9abf41880e9b4ac9a94ea8124203799a
+CNBC,mitv://ns2.hellotvvod.com:9906/52303054ad214adda0129d322912164d
+Bloomberg TV,mitv://ns2.hellotvvod.com:9906/3e4c9ed6b58342fbaa531f02aa120a58
+ABC Australia,mitv://ns2.hellotvvod.com:9906/f7003b714f114b3f8a91d6babf1f9ae2
+France24,mitv://ns2.hellotvvod.com:9906/4742de38085f41d5ae90b7e8f236c153
+DW,mitv://ns2.hellotvvod.com:9906/b957ef1774204c088bb084c051005717
+Nat Geo Wild,mitv://ns2.hellotvvod.com:9906/3a0602f78e5e4c368fbf0d056436ee5d
+Astro Ceria,mitv://ns2.hellotvvod.com:9906/aac054f65a244206b6f782eb3956e130
+Disney Junior,mitv://ns2.hellotvvod.com:9906/e6075b2e8d544804921f5055e4871326
+Cartoon Network,mitv://ns2.hellotvvod.com:9906/44285c9480dc4d0eaa2e09f741531878
+Nickelodeon,mitv://ns2.hellotvvod.com:9906/88de2585472246749d43969d1c03257d
+Nick Jr.,mitv://ns2.hellotvvod.com:9906/0355fc81f0cf4527840ff76e185df41e
+Baby TV,mitv://ns2.hellotvvod.com:9906/86a3e0ba0bed4d6297376b8f57c5752a
+Boomerang,mitv://ns2.hellotvvod.com:9906/e80e0ea046cc4206a9935c6997310ca5
+AXN亞洲,mitv://ns2.hellotvvod.com:9906/91a1fa5c29a849cf897f93f58fd08285
+KIX,mitv://ns2.hellotvvod.com:9906/a462f6ed65944413acdfc059add3686e
+HITS,mitv://ns2.hellotvvod.com:9906/8bc2e742cb57462c924904032624a6fd
+Astro Arena,mitv://ns2.hellotvvod.com:9906/5854587c3f164d0bb0a66626f9ee09d0
+Astro Arena 2,mitv://ns2.hellotvvod.com:9906/ca874a7d7e614ebd832e6e1e9478525b
+Astro SuperSport,mitv://ns2.hellotvvod.com:9906/e12cfed6c3d94f27bd4f480d42b0c7b5
+Astro SuperSport 2,mitv://ns2.hellotvvod.com:9906/5aa28b0759774904a25d7fc12ea233a9
+Astro SuperSport 3,mitv://ns2.hellotvvod.com:9906/68067267b2734dd39032d08bf83db8f0
+Astro SuperSport 4,mitv://ns2.hellotvvod.com:9906/6ba21b7211494ed4ac1456d6ba8cbaa0
+Astro SuperSport 5,mitv://ns2.hellotvvod.com:9906/cc02a88163414af7b4d7479a833f1407
+SPOTV,mitv://ns2.hellotvvod.com:9906/5dedc66ef44242819ee8bf88796a9101
+beIN Sports,mitv://ns2.hellotvvod.com:9906/2f0a1100d8724e7c8fe7f33fef6722cc
+beIN Sports MAX,mitv://ns2.hellotvvod.com:9906/1d28c61387af4ccd847b72b1601415d7
+Eurosport HD,mitv://ns2.hellotvvod.com:9906/047ba1fc376a4ef88c305a659fbb236f
+WWE,mitv://ns2.hellotvvod.com:9906/591deaacdbc247c8be9fb4fc937d6a14
+Astro Cricket,mitv://ns2.hellotvvod.com:9906/d37f8e619e014decb7465d538dc17548
+RTM Sport,mitv://ns2.hellotvvod.com:9906/3b086dcc1106400b8f78e8547d2e3df8
+tvN,mitv://ns2.hellotvvod.com:9906/0a4d0d0c6e164cd093061bc31cf30ae8
 
-港台電視31,p2p://ns2.hellotvvod.com:9906/ca840141eb594b4a97376c352421b936.ts
-港台电视32,p2p://ns2.hellotvvod.com:9906/e1c38fcae2734f35b10e94bdaedf9864.ts
-香港开电视,p2p://ns2.hellotvvod.com:9906/c66e40a27cde4456ada1ff4530f588e7.ts
-翡翠台,p2p://ns2.hellotvvod.com:9906/1fd8aa43e6e44bc58cccf01b1527c0a2.ts
-翡翠台(备),p2p://ns2.hellotvvod.com:9906/0e865c2166484145a2a4e63e68f5a63a.ts
-J2,p2p://ns2.hellotvvod.com:9906/f216866d9dfb427592256997133665a7.ts
-明珠台,p2p://ns2.hellotvvod.com:9906/643917ecd05a4e0fb7132d0a65ab5018.ts
-无线新闻台(备),p2p://ns2.hellotvvod.com:9906/a04781ad7bfa4b95a7ccfa870c7d676f.ts
-无线新闻台,p2p://ns2.hellotvvod.com:9906/b0ab5834fb1c419ba29ee853a33f8d7e.ts
-线财经·资讯台,p2p://ns2.hellotvvod.com:9906/ab6035d5d7e24864a29eb7a5ac1555bd.ts
-ViuTVsix,p2p://ns2.hellotvvod.com:9906/d817605f636748309d0f28d872f8a1d3.ts
-ViuTV,p2p://ns2.hellotvvod.com:9906/fb90dd620fd14044ad15118bbc0b3e58.ts
-凤凰中文台,p2p://ns2.hellotvvod.com:9906/e9e6bc64a3fa46aab067137fb4b4d2e7.ts
-凤凰资讯台,p2p://ns2.hellotvvod.com:9906/7cba1736deb3429e830998dee0be509c.ts
-凤凰香港台,p2p://ns2.hellotvvod.com:9906/fb38ff0bdbd040eb9257d31cb1a5a47d.ts
-TVB 星河,p2p://ns2.hellotvvod.com:9906/16f1ef51441d40d8ae4f6a55e651cd0c.ts
-阳光卫视,p2p://ns2.hellotvvod.com:9906/927ef69466784ccd87b9aaf2225732d4.ts
-澳门-MACAU,p2p://ns2.hellotvvod.com:9906/b6c435139f4146faae9d2e790543ec90.ts
-澳门莲花,p2p://ns2.hellotvvod.com:9906/05a20adb7cff4ae38c3bb5eaae5c092d.ts
-now新闻台,p2p://ns2.hellotvvod.com:9906/e00580b5247e47ac9402475e9b0d776d.ts
-now直播台,p2p://ns2.hellotvvod.com:9906/50edcd8b030849029d6cc8449059c107.ts
-HKC电影台,p2p://ns2.hellotvvod.com:9906/f7ef013ba3a64f039e80cdbdfac7c5a1.ts
-凤凰电影台,p2p://ns2.hellotvvod.com:9906/d122d4e685274dadbd1edba77e0c3712.ts
-卫视卡式台,p2p://ns2.hellotvvod.com:9906/6290106aabf84f48ae21fe8c2de0368e.ts
-HKC beIN Sports 1,p2p://ns2.hellotvvod.com:9906/a4e15610309f4f5c91dbca42a0f2c56a.ts
-HKC beIN Sports 2,p2p://ns2.hellotvvod.com:9906/8fad928ea037406ca06bfcfc1989f0dc.ts
-HKC新闻台,p2p://ns2.hellotvvod.com:9906/f9da396197294117ba5fb55216597d77.ts
-HKC新闻台(备),p2p://ns2.hellotvvod.com:9906/c7f0160a8bbc43c3b9ea133e32469b31.ts
-HKC直播新闻台,p2p://ns2.hellotvvod.com:9906/13e9739533564ac3992982d41fe8b3f8.ts
-HKC财经资讯台,p2p://ns2.hellotvvod.com:9906/2966c63f0d664e3bbea70120f994b3e2.ts
-HKC 18,p2p://ns2.hellotvvod.com:9906/f87e4fd0e95b4fd1940ed520a6c35bb8.ts
-HKC 603,vod.com:9906/32efd3f4f0614fbd873ac0a7a4c0a8c4.ts
-HKC体育,p2p://ns2.hellotvvod.com:9906/ea0086439d424c99a8f639b9c258de6b.ts
-HKC Sports Plus 1,p2p://ns2.hellotvvod.com:9906/3f40e25fa3d644a0aa7e607a6b479282.ts
-HKC Sports Plus 2,p2p://ns2.hellotvvod.com:9906/d6f059dcde824e37a96f9a5fcc5e905c.ts
-KC综合娱乐台,p2p://ns2.hellotvvod.com:9906/ce3622386b334a9591e39834af3a7e55.ts
-福斯动作电影,p2p://ns2.hellotvvod.com:9906/978b82e040f449d68e6837592581c06c.ts
-Thrill,p2p://ns2.hellotvvod.com:9906/c5902e42d3714487ba975108c12fcde1.ts
-
-台湾-1,#genre#
-CNN,p2p://ns2.hellotvvod.com:9906/31fbf987308f4cb9844627709a8704d8.ts
-民视,p2p://ns2.hellotvvod.com:9906/4d234f30950e4a48ad714f5e4444fc9c.ts
-人间卫视,p2p://ns2.hellotvvod.com:9906/8608d8ce774846598e7fcbce66cc03ef.ts
-台视,p2p://ns2.hellotvvod.com:9906/a8e4034af97448abbf9a949dcd40ba62.ts
-大爱,p2p://ns2.hellotvvod.com:9906/6758109776b1467fa9093bfde07940af.ts
-中视,p2p://ns2.hellotvvod.com:9906/e81e9318416a485da78f7a769c3e578d.ts
-霹雳台湾台,p2p://ns2.hellotvvod.com:9906/51dd79597cb84ed4a52da81f10e66dee.ts
-华视,p2p://ns2.hellotvvod.com:9906/266a4f43cdbd4d888d22a97e9200c297.ts
-公视,p2p://ns2.hellotvvod.com:9906/dce86d787bed4a61afbdb1af6e20dfad.ts
-公视台语台,p2p://ns2.hellotvvod.com:9906/37e32c2bb8e64fe69bba30c75f082089.ts
-好消息,p2p://ns2.hellotvvod.com:9906/96b0c9a3e7634a8c9e7a356c78c17688.ts
-原住民电视台,p2p://ns2.hellotvvod.com:9906/e60f72e8aef741988746e7bf45f5e2f2.ts
-客家电视台,p2p://ns2.hellotvvod.com:9906/0b573f78f7bc40d7b164159a386aea93.ts
-国家地理频道,p2p://ns2.hellotvvod.com:9906/290d12dc1ad04d1b8e46f02482b6d459.ts
-探索频道,p2p://ns2.hellotvvod.com:9906/25e3b3973e874e64aa0785b636ee6d1f.ts
-TLC旅游生活,p2p://ns2.hellotvvod.com:9906/a367b9be4f41413c9d4d8ebefaec5da3.ts
-动物星球,p2p://ns2.hellotvvod.com:9906/88b0c850e23149f68226236ffb9ee515.ts
-N卡通频道,p2p://ns2.hellotvvod.com:9906/a2b558eb55354087b97809d595bdd5b9.ts
-迪士尼频道,p2p://ns2.hellotvvod.com:9906/1be7de925c5c4ec5846cc9ef4af66f8b.ts
-MOMO亲子台,p2p://ns2.hellotvvod.com:9906/8438eaecf2db4d29bbffcd8e31746f34.ts
-东森幼幼台,p2p://ns2.hellotvvod.com:9906/2985b588b30547bbb500ebfcf818906c.ts
-纬来综合台,p2p://ns2.hellotvvod.com:9906/dfd54d97978f46b683fc307391ec2e7c.ts
-八大第一台,p2p://ns2.hellotvvod.com:9906/b1beef01ee5c44c88ff40a74790df9f3.ts
-八大综合台,p2p://ns2.hellotvvod.com:9906/485a3c869c214c8f83cff80e9ef65773.ts
-三立台湾台,p2p://ns2.hellotvvod.com:9906/6eb95cc757e14e058a84e96c21aa384c.ts
-三立都会台,p2p://ns2.hellotvvod.com:9906/144070a1cfb043a1be4d17bfea73b7db.ts
-三立台湾台(备),p2p://ns2.hellotvvod.com:9906/4eb0775fb3f4499683152b35c9284e15.ts
-东森综合台,p2p://ns2.hellotvvod.com:9906/c6fba15be71445c48deed9ee0aa4b90f.ts
-超视,p2p://ns2.hellotvvod.com:9906/c4e115f3285a474bb4eaea3e023aa31e.ts
-中天综合台,p2p://ns2.hellotvvod.com:9906/a314d7aba74a435183d029bf598398fb.ts
-中天娱乐台,p2p://ns2.hellotvvod.com:9906/c05b4e4c2d7b4b31b26784f03a277828.ts
-东森戏剧台,p2p://ns2.hellotvvod.com:9906/ed003675040c4f3db60634c8032f765d.ts
-八大戏剧台,p2p://ns2.hellotvvod.com:9906/91862b9bc91144e3bfea796eb3af2950.ts
-TVBS欢乐台,p2p://ns2.hellotvvod.com:9906/e1982f02251d4425810ac3eed35b2959.ts
-纬来戏剧台,p2p://ns2.hellotvvod.com:9906/bfc22e524f324ac5b6cff07c7f63155a.ts
-高点综合台,p2p://ns2.hellotvvod.com:9906/7a0f81ae409e45fb9feffe5e41897c93.ts
-BBC World News,p2p://ns2.hellotvvod.com:9906/2c463ceaafa04ba39edcca70b3cd9724.ts
-Al Jazeera English,p2p://ns2.hellotvvod.com:9906/74693c5b979941318517881517af0a67.ts
-CNBC,p2p://ns2.hellotvvod.com:9906/7e08abab425b4dafbe79845dc135df25.ts
-Bloomberg TV,p2p://ns2.hellotvvod.com:9906/329440afff7c4b22b0dbfe0e276db547.ts
-HITS,p2p://ns2.hellotvvod.com:9906/c957b54c83d84d50a13ea44fd702a27a.ts
-壹电视新闻台,p2p://ns2.hellotvvod.com:9906/64a1bc7da90e46fbb190a736b74ed606.ts
-年代新闻,p2p://ns2.hellotvvod.com:9906/17229d18117f492fa4816d1cda8b8d22.ts
-东森新闻台,p2p://ns2.hellotvvod.com:9906/275068f5218c4c76bac7c2e1e3e814ec.ts
-中天新闻台,p2p://ns2.hellotvvod.com:9906/a6ddc8aa054448e1a1e153163fdae42a.ts
-民视新闻台,p2p://ns2.hellotvvod.com:9906/2f7807b857924d99baef067fbeeeca70.ts
-三立新闻台,p2p://ns2.hellotvvod.com:9906/1a56cd2faaf0455995a125256fd5ff08.ts
-TVBS新闻台,p2p://ns2.hellotvvod.com:9906/9a9c528e37414ca590a39fe9fbb92089.ts
-TVBS,p2p://ns2.hellotvvod.com:9906/ccf873476bd442649be3140fc348adda.ts
-东森财经新闻台,p2p://ns2.hellotvvod.com:9906/459ad64004964e46818f04745d4d81be.ts
-非凡新闻台,p2p://ns2.hellotvvod.com:9906/7b3b485a76ff4ec78869ceca721c5f5b.ts
-卫视电影台,p2p://ns2.hellotvvod.com:9906/554d2bf43fda4285b44b452df70fd9b7.ts
-东森电影台,p2p://ns2.hellotvvod.com:9906/a4f8d298058a4d80a99414208e366619.ts
-纬来电影台,p2p://ns2.hellotvvod.com:9906/71f76a096c7e4f388f4fd29c01bc390d.ts
-龙祥电影,p2p://ns2.hellotvvod.com:9906/303789515f4a42d3a97236a67dd973e5.ts
-HBO,p2p://ns2.hellotvvod.com:9906/5e7379bcf3ce47819dfc195f865adce1.ts
-东森洋片台,p2p://ns2.hellotvvod.com:9906/983909524e3744aeb7baf11c77bb20a7.ts
-AXN,p2p://ns2.hellotvvod.com:9906/fa9861ef64cc4b35a04d3df5a29ed8a2.ts
-好莱坞电影台,p2p://ns2.hellotvvod.com:9906/902a3eb7b9284a9795d56e6be3a23f2a.ts
-CINEMAX,p2p://ns2.hellotvvod.com:9906/06be2c489c0f4352843a174557ccb62f.ts
-纬来育乐台,p2p://ns2.hellotvvod.com:9906/df0bd7ff4cde476391a632172e7d8a65.ts
-纬来体育台,p2p://ns2.hellotvvod.com:9906/0c3e534318b14a6bba836be6f02fec6c.ts
-ELEVEN体育1台,p2p://ns2.hellotvvod.com:9906/a0118b4462124810996155f27e6d4664.ts
-纬来日本,p2p://ns2.hellotvvod.com:9906/1230939519a5423aae83fa12debb85cd.ts
-国兴卫视,p2p://ns2.hellotvvod.com:9906/070ff3fe0b2242e7a59f65aa6b3dbc05.ts
-FOX,p2p://ns2.hellotvvod.com:9906/f104207c44a44e99b68fef2d4eb54a7f.ts
-Z频道,p2p://ns2.hellotvvod.com:9906/59192626213d481f8be513062a6422fd.ts
-Animax,p2p://ns2.hellotvvod.com:9906/c3cdbcd561614cc7a940d14cddf6c64c.ts
-MTV,p2p://ns2.hellotvvod.com:9906/66570c7354744187801387860904fc6f.ts
-八大娱乐台,p2p://ns2.hellotvvod.com:9906/dac24f20c99443edbb8e5bd63806b8ce.ts
-三立iNEWS,p2p://ns2.hellotvvod.com:9906/4cb7ea19008f47908dadbb99c954e74d.ts
-Arirang,p2p://ns2.hellotvvod.com:9906/566a0722114043f1bd81daf655db4aee.ts
-DW,p2p://ns2.hellotvvod.com:9906/15682209151b4336aac6d2d691dda8ed.ts
-France24,p2p://ns2.hellotvvod.com:9906/4082830321a54fc7b01c19535f2ed6c6.ts
-非凡商业台,p2p://ns2.hellotvvod.com:9906/ff4436a436e84760b4ac3ef096bd8772.ts
-公视3台,p2p://ns2.hellotvvod.com:9906/0f916da8f80e4ff295263fcfd0c868fd.ts
-大爱2台,p2p://ns2.hellotvvod.com:9906/d2fd4ddf71d742909f73bcb536f5761e.ts
-LTV生活英语台,p2p://ns2.hellotvvod.com:9906/18428ebf5e5a48a8a15610fe56e1b721.ts
-靖洋卡通Nice Bingo,p2p://ns2.hellotvvod.com:9906/b67349c4f19c4421ac083d487e6ba993.ts
-靖天卡通台,p2p://ns2.hellotvvod.com:9906/23790b161ead422ab492aee3858953a6.ts
-达文西频道,p2p://ns2.hellotvvod.com:9906/e82a693c861a451ca82ad4428b270776.ts
-Nick Jr.,p2p://ns2.hellotvvod.com:9906/50364bc453ad41d4ad6e17499d71bf05.ts
-国会频道1,p2p://ns2.hellotvvod.com:9906/4ddfd2166ed94382a57075a903163f9a.ts
-国会频道2,p2p://ns2.hellotvvod.com:9906/8cf3043f1dbc48c09a4f9603a02be7af.ts
-MTV Live,p2p://ns2.hellotvvod.com:9906/838c1f5e1d2f44a7b576224f8bef1e61.ts
-Mezzo Live,p2p://ns2.hellotvvod.com:9906/e777982e5e044ae8ae038cfb3134b771.ts
-CLASSICA 古典乐,p2p://ns2.hellotvvod.com:9906/514eda7e916a4193b00c2d50147ab08a.ts
-CMusic,p2p://ns2.hellotvvod.com:9906/65724d5d0eca4cd9b149dc5ff996f2aa.tsE
-LTA体育1台,p2p://ns2.hellotvvod.com:9906/faaa6cf52e7f4aeb8cfb7aedd87368a0.ts
-ELTA体育2台,p2p://ns2.hellotvvod.com:9906/f62389197b094689949e0713a5aa731a.tsE
-LTA体育3台,p2p://ns2.hellotvvod.com:9906/47cf4256f9d8495c8f61fd4d4ab9728b.ts
-TRACE Sport Stars,p2p://ns2.hellotvvod.com:9906/5c31ef822cb8465697908c8f8c8f3713.ts
-博斯高球,p2p://ns2.hellotvvod.com:9906/44cbd982a27a4a5aba61fc8a7a545ba0.ts
-博斯高球二台,p2p://ns2.hellotvvod.com:9906/603cbf772da64942b4bacddc7b11938f.ts
-博斯网球台,p2p://ns2.hellotvvod.com:9906/dea662cf3a714745a36398af1600e2eb.ts
-博斯魅力网,p2p://ns2.hellotvvod.com:9906/c857622169dc4057b2ac3246fa236fc0.ts
-博斯无限台,p2p://ns2.hellotvvod.com:9906/c986a5a813a5451ab308d52b7a181ebb.ts
-博斯无限二台,p2p://ns2.hellotvvod.com:9906/393f0f2ff4ae42e4ac87ce78692a9ae1.ts
-FOX SPORTS 3 HD,p2p://ns2.hellotvvod.com:9906/b6febca09834430ba87390f8da8d4264.ts
-博斯运动,p2p://ns2.hellotvvod.com:9906/8508a3c84352449999d3e247542b77d7.ts
-ELEVEN体育2台,p2p://ns2.hellotvvod.com:9906/58732b43fee7424584b966e739d0a3c7.ts
-智林体育台,p2p://ns2.hellotvvod.com:9906/a705950524124a15acd67166c2471b15.ts
-斯运动二台,p2p://ns2.hellotvvod.com:9906/d4c8f2f79cd94126ba0c11f62703ee1e.ts
-OUTDOOR,p2p://ns2.hellotvvod.com:9906/8dfa312313b9454eb6bf1673da978a38.ts
-HBO强档巨献,p2p://ns2.hellotvvod.com:9906/adcd5c76481c4cc88205d068f64b5399.ts
-BO原创巨献,p2p://ns2.hellotvvod.com:9906/3ea0a38d66894025bbf695a3faab446f.ts
-国家地理高画质野生频道,p2p://ns2.hellotvvod.com:9906/a4b527d1be84407cb0c1d4ad2a704df7.ts
-BBC Earth,p2p://ns2.hellotvvod.com:9906/44c08f6c15ba43cc8c3d6f88c38c9cfa.ts
-Discovery Asia,p2p://ns2.hellotvvod.com:9906/c4b0de7c85374b6bb2c450153d4dbd1c.ts
-Discovery科学频道,p2p://ns2.hellotvvod.com:9906/cba4d9a2e1aa4cb8a3ec6311311df3d2.ts
-DMAX,p2p://ns2.hellotvvod.com:9906/0eb3381f75a4487ab87757124c2d272b.ts
-EVE,p2p://ns2.hellotvvod.com:9906/b3a4916c8a9e45bdb986fdf5ea085408.ts
-HISTORY2,p2p://ns2.hellotvvod.com:9906/6162257bd1744c2ca0ba630bc75b481d.ts
-历史频道,p2p://ns2.hellotvvod.com:9906/bb2559f6540844efa927b7d96967f6bc.ts
-罪案侦缉频,p2p://ns2.hellotvvod.com:9906/625fc0e94fe849d3a79c9976e3f94131.ts
-BBC Lifestyle,p2p://ns2.hellotvvod.com:9906/6f2a9abd3e7d449e9a708810c5f4a179.ts
-国家地理高画悠人频道,p2p://ns2.hellotvvod.com:9906/61e7eb933ee5414eb0f7a2ccf7693ca1.ts
-LUXE TV,p2p://ns2.hellotvvod.com:9906/b31ccb97ce1745e6997303552f06e85b.ts
-Lifetime,p2p://ns2.hellotvvod.com:9906/2d16de27e4f642b383c2aa4e75648b03.ts
-KLT-靖天国际台,p2p://ns2.hellotvvod.com:9906/26aed6c59a6642a998e204d02abff9de.ts
-HGTV居家乐活频道,p2p://ns2.helltvvod.com:9906/7b9b8cbc608e4074874c2b771b1fa4d6.ts
-Love Nature,p2p://ns2.hellotvvod.com:9906/f95b5d9ac77247f29c4b1ccff2ceb88f.ts
-美食星球,p2p://ns2.hellotvvod.com:9906/680c7e7122954d3ca2466320646d0c0d.ts
-亚洲美食频道,p2p://ns2.hellotvvod.com:9906/538c83f0e6244b93b709dc0dad5471d4.ts
-亚洲旅游台,p2p://ns2.hellotvvod.com:9906/56c3e51870fb49f39faecf2677911c60.ts
-EYE TV旅游台,p2p://ns2.hellotvvod.com:9906/7e160b509cf44d3e970560b65607c3e8.ts
-时尚频道,p2p://ns2.hellotvvod.com:9906/7d572cefb8b94b0fb6e75f9428ca3aca.ts
-好消息2台,p2p://ns2.hellotvvod.com:9906/e01d6ee75fbf4fea8251ab8384e2a418.ts
-三立综合台,p2p://ns2.hellotvvod.com:9906/3dade6d0054e4703bbf923fa96c6fea9.ts
-靖天资讯台,p2p://ns2.hellotvvod.com:9906/6e016c44d5f94ed185758cd3b9a23f78.ts
-靖天综合台,p2p://ns2.hellotvvod.com:9906/77f994373c7f4a6c962482e471bcacaa.ts
-靖天育乐台,p2p://ns2.hellotvvod.com:9906/e43afa93d2df470fa282c34fb63478da.ts
-中视经典台,p2p://ns2.hellotvvod.com:9906/c766e8f958a7498882abbb15a84e638c.ts
-中视菁采台,p2p://ns2.hellotvvod.com:9906/0ce92dada114478fbf79d191b517d691.ts
-TVBS精采台,p2p://ns2.hellotvvod.com:9906/6a7df7a307f74abd943d03e6cd81a76d.ts
-壹电视综合,p2p://ns2.hellotvvod.com:9906/b5ee6ab03fd548b08a79c5e31898ea71.ts
-纬来精采,p2p://ns2.hellotvvod.com:9906/bbd7bbf186274f53a8fe12007e3fce18.ts
-ETtoday综合台,p2p://ns2.hellotvvod.com:9906/3ccbedb5d0c0444a8a32549a6e3eab99.ts
-民视第一台,p2p://ns2.hellotvvod.com:9906/b8e681c3cbbb4f42b8ecd6181bdb32eb.ts
-民视台湾台,p2p://ns2.hellotvvod.com:9906/2bc1dbd7c4004dd89427e8521d212f25.ts
-Nice TV靖天欢乐台,p2p://ns2.hellotvvod.com:9906/b7fb1205aee2427eb0423ea04eca7500.ts
-新唐人亚太台,p2p://ns2.hellotvvod.com:9906/73c9177238ce455084015697c3893472.ts
-八大优频道,p2p://ns2.hellotvvod.com:9906/4e3d3ae3cdb3415b87afc0f2dda11cab.ts
-三立戏剧台,p2p://ns2.hellotvvod.com:9906/9584a9e4fad64f1bb1db2e76b6aec224.ts
-龙华戏剧,2p://ns2.hellotvvod.com:9906/192391ade04a4f8592ecd41f5ad91a9b.ts
-靖天戏剧台,p2p://ns2.hellotvvod.com:9906/6e087a9f38ff4f4a8a9761fe2b07e6e1.ts
-靖洋戏剧台p2p://ns2.hellotvvod.com:9906/4a0d01943f7b43799e8d28bdd6d56cf6.ts
-靖天日本台,p2p://ns2.hellotvvod.com:9906/0fc291e9891e44e4a07e0af701a6d83e.ts
-i-Fun动漫,p2p://ns2.hellotvvod.com:9906/b79172bac78d4c69b3e9628b82802473.ts
-韩国娱乐台,p2p://ns2.hellotvvod.com:9906/3b53ae4fa2c145b89bef8f11df78124b.ts
-星卫娱乐台,p2p://ns2.hellotvvod.com:9906/e38590f783584243b852356e26f5e970.ts
-BLUE ANT Extreme,p2p://ns2.hellotvvod.com:9906/c2c3c6deb67648048f144e49366eebf4.ts
-中视新闻台,p2p://ns2.hellotvvod.com:9906/f43270df78f649efa56883e4e0bb7e2c.ts
-寰宇新闻台,p2p://ns2.hellotvvod.com:9906/d166d1d12963476583262f371d9bb1bc.ts
-华视新闻,p2p://ns2.hellotvvod.com:9906/ce81f71dc1df49fc98fdfe24f172ac32.ts
-HK新闻资讯台,p2p://ns2.hellotvvod.com:9906/12096ec7dc764c079c88ff075d74dcf3.ts
-美亚电影台HD,p2p://ns2.hellotvvod.com:9906/648824d76252455fad6cfe5d220ece54.ts
-龙华电影,p2p://ns2.hellotvvod.com:9906/057f18a2874e4b8f86d716b0c72ba395.ts
-星卫HD电影台,p2p://ns2.hellotvvod.com:9906/477c348a794747368203c333bc171276.ts
-靖天映画,p2p://ns2.hellotvvod.com:9906/d124c47058dc4f6cb2599f1d9a439109.ts
-靖天电影台,p2p://ns2.hellotvvod.com:9906/8f391def782d4cffa5325cfc03df3046.ts
-ARNER TV,p2p://ns2.hellotvvod.com:9906/81c22f6cc38b4d28b1f4693ea921cd95.ts
-Star Movies HD,p2p://ns2.hellotvvod.com:9906/b138042aff33451ba821f34c5dd681a7.ts
-福斯家庭电影台,p2p://ns2.hellotvvod.com:9906/a3505107cf10450a817c9bccbdfa27ba.ts
-AMC最爱电影,p2p://ns2.hellotvvod.com:9906/53070ec82b984feabd11efa9ee0c24fa.ts
-FOX CRIME,p2p://ns2.hellotvvod.com:9906/8dff56c991b34a38b879be02f01a3035.ts
-CatchPlay电影台,p2p://ns2.hellotvvod.com:9906/6a959d2a65364c05848e6f6c65701336.ts
-CinemaWorld,p2p://ns2.hellotvvod.com:9906/40922ef2ea784548a9568b0b78306882.ts
-壹电视电影台,p2p://ns2.hellotvvod.com:9906/3408b45bda864337822ce0e8191a0ffe.ts
-采昌影剧台,p2p://ns2.hellotvvod.com:9906/44ffb2abac4244148353e54ef2949a6f.ts
-唯心电视台,p2p://ns2.hellotvvod.com:9906/d75488f866914256aa43eb1d38716968.ts
-佛卫慈悲台,p2p://ns2.hellotvvod.com:9906/074eaf59cf144d8fa1753fd1d20b09aa.ts
-TV5Monde,p2p://ns2.hellotvvod.com:9906/bd6dbf2912aa4bb7b5d42eed5d846ad1.ts
-Cbeebies,p2p://ns2.hellotvvod.com:9906/9adef2fff5e549ee971cb76f0daf6363.ts
-EYE TV戏剧台,p2p://ns2.hellotvvod.com:9906/7a7810c2ac4a4d49a7517aef24cc8194.ts
-
-Taiwan-2,#genre#
-民視,p2p://ns2.hellotvvod.com:9906/626b26af5c124482b49c97a602fb7963
-人間衛視,p2p://ns2.hellotvvod.com:9906/af8382f6e2b74ae6a8afc0157bed6b37
-台視,p2p://ns2.hellotvvod.com:9906/b1e1040dcf6441219914efd6fa80880c
-大愛,p2p://ns2.hellotvvod.com:9906/58ee041d57fa471caacc1f14fecd8142
-中視,p2p://ns2.hellotvvod.com:9906/62428ac2e0cf484e9ea72090a8bb3bfb
-霹雳台灣台,p2p://ns2.hellotvvod.com:9906/a03a3eb8eca74b22ac1e8034753261dc
-華視,p2p://ns2.hellotvvod.com:9906/49266888421648ef95f7e068bc4d1080
-公視,p2p://ns2.hellotvvod.com:9906/946fe48bfc764cd2a8df51a1328472ff
-公視台語台,p2p://ns2.hellotvvod.com:9906/e7566bbfbd414900b51d112167066a7d
-好消息,p2p://ns2.hellotvvod.com:9906/64602610ba234821b8fb5feb860a97b9
-CNN,p2p://ns2.hellotvvod.com:9906/f0e0e4fa4e28424388ff9a26ba645d5d
-原住民宿電視台,p2p://ns2.hellotvvod.com:9906/b36807c690224d26b1cfdcfe96c35def
-客家電視台,p2p://ns2.hellotvvod.com:9906/01ba7852bb464c41a5430a28d4392ad3
-國家地理頻道,p2p://ns2.hellotvvod.com:9906/246f38b17e9043218a6ee4c97636a842
-探索頻道,p2p://ns2.hellotvvod.com:9906/08b0957ead7c45519dd66819b53c26d1
-TLC旅遊生活,p2p://ns2.hellotvvod.com:9906/23237a67a8f74e4296903ee05534aa3a
-動物星球,p2p://ns2.hellotvvod.com:9906/05383aa5be89401f9c680b533187bd7d
-CN卡通頻道,p2p://ns2.hellotvvod.com:9906/de3e765e8f6649248741e9a983ae2181
-迪士尼頻道,p2p://ns2.hellotvvod.com:9906/e38d802bff4c440e8008dd3b62b248a8
-MOMO親子台,p2p://ns2.hellotvvod.com:9906/941f3295f3634bdfa035bc377db1d4ae
-東森幼幼台,p2p://ns2.hellotvvod.com:9906/f1bafa0c4fdd4c7b93199e202ada7655
-緯來綜合台,p2p://ns2.hellotvvod.com:9906/a9b4c931cf6747b38e0ab24a93caf36d
-八大第一台,p2p://ns2.hellotvvod.com:9906/38ab3a0929f84fa7898d696dac7b14ad
-八大綜合台,p2p://ns2.hellotvvod.com:9906/8b6e9ae1cf704901bb95f7c12dbca1e7
-三立台灣台,p2p://ns2.hellotvvod.com:9906/13278c870def489b8d563c1e19bc6832
-三立都會台,p2p://ns2.hellotvvod.com:9906/82c3ccffa8f14fb59149226addd72bc4
-衛視中文,p2p://ns2.hellotvvod.com:9906/f4522311cba040b2aefc0a95fd816664
-東森綜合台,p2p://ns2.hellotvvod.com:9906/d93038bcb207401dbe755a38f7f9f4b6
-超視,p2p://ns2.hellotvvod.com:9906/a3007b0bcf68429d9f286fdb31f23755
-中天綜合台,p2p://ns2.hellotvvod.com:9906/74c55fb0e7b24dc7ba28cf195856da3c
-中天娛樂台,p2p://ns2.hellotvvod.com:9906/8845e896ba5341d192d6338a9582e7c0
-東森戲劇台,p2p://ns2.hellotvvod.com:9906/d0bbc613cb2945d2af7882c5d9c4a628
-八大戲劇台,p2p://ns2.hellotvvod.com:9906/0d2cbbc1a0ff4d79ad81626566a089b6
-TVBS歡樂台,p2p://ns2.hellotvvod.com:9906/0c8be39553cd4528a268e2a4f91094b6
-緯來戲劇台,p2p://ns2.hellotvvod.com:9906/8325786aca2c448daf55936f2c29c05c
-高點綜合台,p2p://ns2.hellotvvod.com:9906/55e3938bb06b46e8973270e9a9b375e3
-BBC World News,p2p://ns2.hellotvvod.com:9906/537e11cb82dd40c3915d48ff6a9036ca
-Al Jazeera English,p2p://ns2.hellotvvod.com:9906/4280b69e926d41109f051ae217970115
-CNBC,p2p://ns2.hellotvvod.com:9906/4b00d962a8e34848a42efa377daa2ee5
-Bloomberg TV,p2p://ns2.hellotvvod.com:9906/28d7ca16f6cf404091493594d3c0d7cb
-HITS,p2p://ns2.hellotvvod.com:9906/7cd4d8fb5eb74eb9bea88c83db153c02
-JET綜合台,p2p://ns2.hellotvvod.com:9906/06e57d7ddd2944d6ad8ce2f287bb3266
-壹電視新聞台,p2p://ns2.hellotvvod.com:9906/8232b59bf01f4e88a462ac11b11b6a56
-年代新聞,p2p://ns2.hellotvvod.com:9906/e26d09a65e2e4cfeb18058d774440b46
-東森新聞台,p2p://ns2.hellotvvod.com:9906/86146bc8953c42c8a191b48569db5db5
-中天新聞台,p2p://ns2.hellotvvod.com:9906/07674dd4ad4b49519a8ac1fab95e540a
-民視新聞台,p2p://ns2.hellotvvod.com:9906/853bbb65649a46008d0d8064966ad612
-三立新聞台,p2p://ns2.hellotvvod.com:9906/4477c0eda1d8486f926745990acec46e
-TVBS新聞台,p2p://ns2.hellotvvod.com:9906/dbbd447ccec24e48b91830ff55fbf00c
-TVBS,p2p://ns2.hellotvvod.com:9906/e667e89f1c744e8989f02a7f4ea000ff
-東森財經新聞台,p2p://ns2.hellotvvod.com:9906/e063cbbf3fae4995a9c33032cd592b4b
-非凡新聞台,p2p://ns2.hellotvvod.com:9906/37c841152d264c87b62ca00d46f17b28
-衛視電影台,p2p://ns2.hellotvvod.com:9906/9b86738ece824a4bb00336592c85a323
-東森電影台,p2p://ns2.hellotvvod.com:9906/c240832108c44a52b982318ed8f2126b
-緯來電影台,p2p://ns2.hellotvvod.com:9906/ec68de73635f43689daa6d41278b7517
-龍祥電影,p2p://ns2.hellotvvod.com:9906/506853bcd1454fb28c9bffe73c56e384
-HBO,p2p://ns2.hellotvvod.com:9906/a36ce7cdbf49457381ac095ca3e99a90
-東森洋片台,p2p://ns2.hellotvvod.com:9906/f049793f69a24b609bf0340866481b0e
-AXN,p2p://ns2.hellotvvod.com:9906/85b2591b06f8411a9a8bda41685e139e
-好萊塢電影台,p2p://ns2.hellotvvod.com:9906/a1ef91068c404051bf648b7feb91026e
-CINEMAX,p2p://ns2.hellotvvod.com:9906/3d46b9b79f164bb3b9a79206dd0838ab
-緯來育樂台,p2p://ns2.hellotvvod.com:9906/6dcf1c25255d4908864e9955eb9755f9
-緯來體育台,p2p://ns2.hellotvvod.com:9906/da61fe21ab804782bd75a53d055df4b9
-MOMO追劇台,p2p://147.135.39.171:9906/5e5a0c1500031eca3b4f80701a63557e
-ELEVEN體育1台,p2p://ns2.hellotvvod.com:9906/f7b6b876ff80440cafbcc358eb50a8c7
-緯來日本,p2p://ns2.hellotvvod.com:9906/136e78bf9b974a9097dedea92c70d60b
-國興衛視,p2p://ns2.hellotvvod.com:9906/90092f5da5be441ca42abc14fc39229a
-FOX,p2p://ns2.hellotvvod.com:9906/761126f38ac14603b5da1f02cfbc1708
-Z頻道,p2p://ns2.hellotvvod.com:9906/888d064fd8b74e788abea2a44ac2e7b5
-Animax,p2p://ns2.hellotvvod.com:9906/3f8c65abdb234366b2d90bd1c70ab228
-MTV,p2p://ns2.hellotvvod.com:9906/d5db25d130d44be383add4836769eeba
-八大娛樂台,p2p://ns2.hellotvvod.com:9906/905bd55ddadb47c4b0c42579a7b20921
-三立iNEWS,p2p://ns2.hellotvvod.com:9906/84457e76064a40529474b1c7168e1af1
-DW,p2p://ns2.hellotvvod.com:9906/00417c3a55294791a9cbf90b75b19583
-France24,p2p://ns2.hellotvvod.com:9906/68bc651ed4ad4757aef07c3a4498112c
-非凡商業台,p2p://ns2.hellotvvod.com:9906/5f2fd04f225944edb51515b08d134315
-公視3台,p2p://ns2.hellotvvod.com:9906/55d1dc141ae04633a047fd102bb9e8b4
-大愛2台,p2p://ns2.hellotvvod.com:9906/7c3e924313f3441cae4744de12f78ca4
-Baby TV,p2p://147.135.39.171:9906/60578443000aa0e9a3430054427b391c
-Boomerang,p2p://147.135.39.171:9906/5defdab700000f496ea0bdbd5c1a54bc
-ELTV生活英語台,p2p://ns2.hellotvvod.com:9906/e9c1fde614bd415db5206e8459f61248
-尼克兒童頻道,p2p://147.135.39.171:9906/5d0e403800011a4910fbd8d44f7a61bc
-靖洋卡通Nice Bingo,p2p://ns2.hellotvvod.com:9906/205a7e7a0b274da2859b656d0c6c757c
-靖天卡通台,p2p://ns2.hellotvvod.com:9906/43110d37b51f467e9b51f5835b08afff
-達文西頻道,p2p://ns2.hellotvvod.com:9906/e05157255462424a92525c34eb61ea82
-Nick Jr.,p2p://ns2.hellotvvod.com:9906/280d4f4a2a644c1d928e260a69070b6b
-國會頻道1,p2p://ns2.hellotvvod.com:9906/4da63aafd7e0479681485bc6abf13d33
-國會頻道2,p2p://ns2.hellotvvod.com:9906/9661a1ca93db4097a2033e47923c7a0a
-MTV Live,p2p://ns2.hellotvvod.com:9906/a034684d1fb746fa9951e2cd22469bf6
-Mezzo Live,p2p://ns2.hellotvvod.com:9906/5ee1957f5b764ccb92ce69c385c1206b
-CLASSICA 古典樂,p2p://ns2.hellotvvod.com:9906/00230244224c49a2a424bf476ec12d09
-CMusic,p2p://ns2.hellotvvod.com:9906/c6eba85b9b4c4cceb39aaadc77f3f82a
-ELTA體育1台,p2p://ns2.hellotvvod.com:9906/799f36347a7245c3a0309b92a7446120
-ELTA體育2台,p2p://ns2.hellotvvod.com:9906/f5b6b4a49c214f59ab15341cebbda34b
-ELTA體育3台,p2p://ns2.hellotvvod.com:9906/f5d2a255703944e1b683fe989389887a
-TRACE Sport Stars,p2p://ns2.hellotvvod.com:9906/8475a052bc054390a3b4be31388add86
-博斯高球,p2p://ns2.hellotvvod.com:9906/54a1d0208a3a4dbd8f0e6db2cceeee60
-博斯高球二台,p2p://ns2.hellotvvod.com:9906/a5b9554baf634e4ca1833aa753b08eda
-博斯網球台,p2p://ns2.hellotvvod.com:9906/b281c1e150984cbf808d9aaadfc58bb9
-博斯魅力網,p2p://ns2.hellotvvod.com:9906/0b4567d55eab4d82a3e679f095e753ae
-博斯無限台,p2p://ns2.hellotvvod.com:9906/724d8b11b6e14dc284a420df2f046341
-博斯無限二台,p2p://ns2.hellotvvod.com:9906/158b71a5c7904a4f912341d968eedfcd
-FOX SPORTS 3 ,p2p://ns2.hellotvvod.com:9906/1700e1ecdd0e43fa9605108e71981cf8
-博斯運動,p2p://ns2.hellotvvod.com:9906/d519ee6f69db4d6d962aa0889210780c
-ELEVEN體育2台,p2p://ns2.hellotvvod.com:9906/821493b7ee654bc28e3060e7414d092c
-智林體育台,p2p://ns2.hellotvvod.com:9906/f30c9f99ffcb444abe7f0eef500327ab
-博斯運動二台,p2p://ns2.hellotvvod.com:9906/e760a26fc7f34065a9aea81a224d4da0
-OUTDOOR,p2p://ns2.hellotvvod.com:9906/9b3f6ad47a164f2fa712b7a879d0035c
-HBO強檔巨獻,p2p://ns2.hellotvvod.com:9906/2e38987bdfe94c64937b7e15f624f29f
-HBO原創巨獻,p2p://ns2.hellotvvod.com:9906/e290320908a44a86988e576ff8ad3bc6
-國家地理高畫質野生頻道,p2p://ns2.hellotvvod.com:9906/a3b543bbe3164debb612042329309e00
-BBC Earth,p2p://ns2.hellotvvod.com:9906/d5f54cf7bfae4f04829d216321a18608
-Discovery Asia,p2p://ns2.hellotvvod.com:9906/7923bfa4b3674c909410b4b5ac978f22
-Discovery科學頻道,p2p://ns2.hellotvvod.com:9906/fd6dd1afdf1249d397235ad4ec171d48
-DMAX,p2p://ns2.hellotvvod.com:9906/fcf57b64c52a4ea092287c7a40dcf71a
-EVE,p2p://ns2.hellotvvod.com:9906/a183bd3e80184996bd97a08eb6a787b3
-HISTORY 2,p2p://ns2.hellotvvod.com:9906/af4f63b927d64e19975f534809b98082
-曆史頻道,p2p://ns2.hellotvvod.com:9906/44e25536fe03414c8a44286a50d79cdf
-罪案偵緝頻道,p2p://ns2.hellotvvod.com:9906/3ba7c28f770d4b4e924dd2e074451254
-BBC Lifestyle,p2p://ns2.hellotvvod.com:9906/46e61adf18104516aaaa91087dcee2c7
-國家地理高畫質悠人頻道,p2p://ns2.hellotvvod.com:9906/28a44b16d80e4aebaeac8bd9775f7380
-LUXE TV,p2p://ns2.hellotvvod.com:9906/c1117f9deaf74a5da88a332872bc3c0f
-Lifetime,p2p://ns2.hellotvvod.com:9906/19a9d74b94c64c60b57089da753b3029
-KLT-靖天國際台,p2p://ns2.hellotvvod.com:9906/d397a3ade7f642d2bc5f1bc3603fff09
-HGTV居家樂活頻道,p2p://ns2.hellotvvod.com:9906/7902dd7cb346435b87f727f4f78b7e5a
-Love Nature,p2p://ns2.hellotvvod.com:9906/837fcc2117b04275bc7d551ac1a0af39
-美食星球,p2p://ns2.hellotvvod.com:9906/1c0300e94f3b4586bd44169d165e5212
-亞洲美食頻道,p2p://ns2.hellotvvod.com:9906/2c2fc9752016409da860f31a5a098647
-Food Network,p2p://ns2.hellotvvod.com:9906/9b168e94ce10463e8a92371972280f33
-亞洲旅遊台,p2p://ns2.hellotvvod.com:9906/d2148fbd0f21489ba03115d9bc59db2e
-EYE TV旅遊台,p2p://ns2.hellotvvod.com:9906/6290b7141b1b403c8341504218627324
-Travel Channel,p2p://147.135.39.171:9906/60563719000925f79e2d93e67ebc5a59
-時尚頻道,p2p://ns2.hellotvvod.com:9906/2c29943d44a849208da39f7919ea9ba3
-好消息2台,p2p://ns2.hellotvvod.com:9906/690ec89ce0724c4da0ac12a016e8c4c5
-三立綜合台,p2p://ns2.hellotvvod.com:9906/3b6850a29fa243d89001bd2dec8bad4a
-靖天資訊台,p2p://ns2.hellotvvod.com:9906/a8806244e6364c55bec9304ea5fddcd2
-靖天綜合台,p2p://ns2.hellotvvod.com:9906/d233fb8f552d49d0bcff5a8810e3573d
-靖天育樂台,p2p://ns2.hellotvvod.com:9906/7bac0f9ecd9a4d81bbb79e30e1258ca4
-中視經典台,p2p://ns2.hellotvvod.com:9906/e945f48234c84ebb83840bc5318ecf2b
-中視菁采台,p2p://ns2.hellotvvod.com:9906/4bfd8228e24a40a5a37bde77db97e94e
-TVBS精采台,p2p://ns2.hellotvvod.com:9906/86ac9229eb594db083b4dacc4b6d87c8
-壹電視綜合,p2p://ns2.hellotvvod.com:9906/efcc1ec29b354eddacf973110e5acacf
-緯來精采,p2p://ns2.hellotvvod.com:9906/0baccc0c61ce4884bfe9d884c0e773d5
-ETtoday綜合台,p2p://ns2.hellotvvod.com:9906/05c269546f2549eda8f09ee33d073a99
-民視第一台,p2p://ns2.hellotvvod.com:9906/0055927b8f044a4eb5dab613a47949c9
-民視台灣台,p2p://ns2.hellotvvod.com:9906/821a8cc0978d4eada866a94be0370e16
-Nice TV靖天歡樂台,p2p://ns2.hellotvvod.com:9906/a1a4448db15844eda6b1d5f1ed9cba04
-新唐人亞太台,p2p://ns2.hellotvvod.com:9906/60526a2fa9cb405195e9357b15ff1377
-八大優頻道,p2p://ns2.hellotvvod.com:9906/932b2780aa274d699777a56951dd8397
-三立戲劇台,p2p://ns2.hellotvvod.com:9906/a82a5bc26387489fbbd49091414a0f4c
-龍華戲劇,p2p://ns2.hellotvvod.com:9906/3ff80a15deeb42f1a6b1f9d8637f5548
-靖天戲劇台,p2p://ns2.hellotvvod.com:9906/84ebca7a7d8d463db4274463bc0efd0c
-靖洋戲劇台,p2p://ns2.hellotvvod.com:9906/b1022fdee5d64c74a8a729d7297360d9
-靖天日本台,p2p://ns2.hellotvvod.com:9906/23e90bf47d6b4289afe469a7a2495893
-i-Fun動漫台,p2p://ns2.hellotvvod.com:9906/01487f8a1f784af4afe57f9bd0b7284c
-tvN,p2p://147.135.39.171:9906/5f25734d0009e72b5191c20a0d235030
-韓國娛樂台,p2p://ns2.hellotvvod.com:9906/1b80767272cd483aafbc6031c229a665
-星衛娛樂台,p2p://ns2.hellotvvod.com:9906/d0203d3e83ab4091bec1ae5724d9cd6b
-BLUE ANT Extreme,p2p://ns2.hellotvvod.com:9906/d6b9bc5c487c436f9bf442f77881b376
-中視新聞台,p2p://ns2.hellotvvod.com:9906/dfcf01ece48142b8a32714a87dfa6ea7
-寰宇新聞台,p2p://ns2.hellotvvod.com:9906/d788e7299302493d83db9c053a19703a
-華視新聞,p2p://ns2.hellotvvod.com:9906/02f3bd64b056438596890dca67630287
-Euronews,p2p://147.135.39.171:9906/605a016e000f2786acfbf17426312f52
-NHK新聞資訊台,p2p://ns2.hellotvvod.com:9906/b753365e3c11453587b9728084e4bf9e
-美亞電影台,p2p://ns2.hellotvvod.com:9906/07a6cee8e1ff433e99f5f135296da2f0
-龍華電影,p2p://ns2.hellotvvod.com:9906/0bd215c9d2c14addb4e117bb26805ee2
-星衛電影台,p2p://ns2.hellotvvod.com:9906/bd741c1186124048a59fdd37c2c557a2
-靖天映畫,p2p://ns2.hellotvvod.com:9906/b7cb17a79739477b833215ea844d8653
-靖天電影台,p2p://ns2.hellotvvod.com:9906/a0355ac5cb044e03bcaf13822a9a26a0
-WARNER TV,p2p://ns2.hellotvvod.com:9906/5a655a47d43448d88fc72ddf1839d053
-Star Movies ,p2p://ns2.hellotvvod.com:9906/a460e72df0a14d15b8410bfc7b5d7659
-福斯家庭電影台,p2p://ns2.hellotvvod.com:9906/002ca23bdd78475ea1caeb38d38a174a
-AMC最愛電影,p2p://ns2.hellotvvod.com:9906/5b3fe35bd78141e581e32c70afea6002
-FOX CRIME,p2p://ns2.hellotvvod.com:9906/ab20be90a1c34b82914df52efe418040
-CatchPlay電影台,p2p://ns2.hellotvvod.com:9906/8754a869b618443bb170b208eb6cedfd
-CinemaWorld,p2p://ns2.hellotvvod.com:9906/32452e2d7f044996af4aff100136bed6
-壹電視電影台,p2p://ns2.hellotvvod.com:9906/b13dfcda33c8457e91c225e3b1045cf7
-采昌影劇台,p2p://ns2.hellotvvod.com:9906/86036fd4480e431398085582de53d02c
-唯心電視台,p2p://ns2.hellotvvod.com:9906/19f65f9b1b7a489a842fcd186f11eb63
-佛衛慈悲台,p2p://ns2.hellotvvod.com:9906/34a19361e1704c1999152669f040a399
-TV5Monde,p2p://ns2.hellotvvod.com:9906/ae237e3b26724bc99f6e1d48eb26ff88
-Arirang TV,p2p://ns2.hellotvvod.com:9906/5fddbcac000687bd0953331b467833b1
-VTV4,p2p://ns2.hellotvvod.com:9906/5ff5d6b7000976be677903601edb1d03
-東風衛視,p2p://147.135.39.171:9906/5ee3894d000983f2ce65d05916fb74df
-
-中國,#genre#
-CCTV1,p2p://ns2.hellotvvod.com:9906/3e5549f505f744a2bb2006081891bafa.ts
-CCTV2,p2p://ns2.hellotvvod.com:9906/bfab65bc56ae4417b90230625c5bd6ea.ts
-CCTV3,p2p://ns2.hellotvvod.com:9906/a6970cedcaad4f6595fb7c57ecaf3c02.ts
-CCTV4,p2p://ns2.hellotvvod.com:9906/afbcb31681e240d080eff3c04dde4002.ts
-CCTV5,p2p://ns2.hellotvvod.com:9906/3f2df36be70844ffa359227cd99809fb.ts
-CCTV5+,p2p://ns2.hellotvvod.com:9906/548f5adc16e44d9eb826f1e1f32ddfb0.ts
-CCTV6,p2p://ns2.hellotvvod.com:9906/52a324368a3044ebbda1272113217d9a.ts
-CCTV7,p2p://ns2.hellotvvod.com:9906/bd86438d280f4ccd8d800d9d2da37cf4.ts
-CCTV8,p2p://ns2.hellotvvod.com:9906/bcee1b7b3c9d429bbd7cb9eba2e5f88c.ts
-CCTV9,p2p://ns2.hellotvvod.com:9906/dafb87cb5b9f45d2baa316a2a1bc4b83.ts
-CCTV10,p2p://ns2.hellotvvod.com:9906/3ff0f1fa6fab45cab2da0fa52b1e9366.ts
-CCTV11,p2p://ns2.hellotvvod.com:9906/87356c2784e84a74997bfcf8b2da1fa6.ts
-CCTV12,p2p://ns2.hellotvvod.com:9906/099f6cd42778412c8226825834074f89.ts
-CCTV13,p2p://ns2.hellotvvod.com:9906/bd20cf04b2694b7a87dd6ae3a9cec65a.ts
-CCTV14,p2p://ns2.hellotvvod.com:9906/2f558667a6ae4847ba51503a1038737d.ts
-CCTV15,p2p://ns2.hellotvvod.com:9906/596468d056ea44899cbdf554ab1b484b.ts
-北京卫视,p2p://ns2.hellotvvod.com:9906/6a5c3ca6a67249ee8c135b1433e12450.ts
-天津卫视,p2p://ns2.hellotvvod.com:9906/320a5c79d7dc47d1a68c858fa6422cea.ts
-河北卫视,p2p://ns2.hellotvvod.com:9906/4a7f923f10cd48fb836b700da8aa3e84.ts
-黑龙江卫视,p2p://ns2.hellotvvod.com:9906/f95cf5f7c29e4af98ece2106305a9701.ts
-辽宁卫视,p2p://ns2.hellotvvod.com:9906/2e4efee0301d4cefb68b762cb3f1652e.ts
-东方卫视,p2p://ns2.hellotvvod.com:9906/b40eb08f96c7474084b82dbc5ce43ffa.ts
-江苏卫视,p2p://ns2.hellotvvod.com:9906/eb8603ef04a14db0811b46fa2da9a1c8.ts
-浙江卫视,p2p://ns2.hellotvvod.com:9906/6c2378c707b24bc78c3fa00da665dcbe.ts
-江西卫视,p2p://ns2.hellotvvod.com:9906/47cc024b2678434e9ae88db8c4b078db.ts
-山东卫视,p2p://ns2.hellotvvod.com:9906/7c4e60cf52a14897a4387ed360d1b01a.ts
-东南卫视,p2p://ns2.hellotvvod.com:9906/ba738c188098493fb6e90362f2204a6b.ts
-湖北卫视,p2p://ns2.hellotvvod.com:9906/3b12532627714ebd958255e2d3a565f7.ts
-湖南卫视,p2p://ns2.hellotvvod.com:9906/10e047e8f129404b82b2289b4d1f48ab.ts
-圳卫视,p2p://ns2.hellotvvod.com:9906/f249cd1782934f63920564e336b4579a.ts
-广东卫视,p2p://ns2.hellotvvod.com:9906/d4f3492245ba464f9aba39ed6b45c512.ts
-广西卫视,p2p://ns2.hellotvvod.com:9906/105ddc187b5b4aab9c84ff778b4ec99d.ts
-重庆卫视,p2p://ns2.hellotvvod.com:9906/7116e6e9303c4258ae5b7f9dbb551ac0.ts
-云南卫视,p2p://ns2.hellotvvod.com:9906/8f7d678e65f4420dbe97ccc6bd5ced3e.ts
-星空卫视,p2p://ns2.hellotvvod.com:9906/40ef8d7eb7ec4583992ece417858b99c.ts
-广东南方卫视,p2p://ns2.hellotvvod.com:9906/be577b542ed740f1ad12ac461bcc2fed.ts
-珠江台,p2p://ns2.hellotvvod.com:9906/fbc7f413fd45490283f9e2214296adcf.ts
-金鹰卡通,p2p://ns2.hellotvvod.com:9906/7579113754bf4ac38a3c75e2e84f015f.ts
-魅力足球,p2p://ns2.hellotvvod.com:9906/2c68cb2808bc4936bee85844c75ba885.ts
-新视觉,p2p://ns2.hellotvvod.com:9906/c024d25a3e3a47c2b7d54fc27cdbd1f6.ts
-广东体育,p2p://ns2.hellotvvod.com:9906/a40eb86782664b34975db586caa1df8e.ts
-
+新加坡,#genre#
+衛視電影台,mitv://ns2.hellotvvod.com:9906/e7682ac33dfd41fc8f028f1652b6117f
+HGTV居家樂活頻道,mitv://ns2.hellotvvod.com:9906/3ae6806990ac44dbbd5a83eea77fef7e
+Thrill,mitv://ns2.hellotvvod.com:9906/70b676c4e0f9424991012e9bfcddd4e7
+TV5Monde,mitv://ns2.hellotvvod.com:9906/5a4be120d6f04d17b285e897e6204063
+Colors Hindi,mitv://ns2.hellotvvod.com:9906/dd98f44a969642fd9887c0f14c027977
+天映頻道,mitv://ns2.hellotvvod.com:9906/ec8466ba789143998fb9ed858b7c174e
+中天亞洲台,mitv://ns2.hellotvvod.com:9906/1c191cbfb24547d7be6f91d352266efa
+TVB 星河,mitv://ns2.hellotvvod.com:9906/5f99a3cfce824f6da2fd0c3b6797428a
+天映經典,mitv://ns2.hellotvvod.com:9906/4699a8c6571243a4b5387f6b3c639851
+KBS World,mitv://ns2.hellotvvod.com:9906/463939cb6a4e429db306ea47d610bbe4
+ONE,mitv://ns2.hellotvvod.com:9906/f0c748f67cd84d9bba8c52bd70270496
+Oh!K,mitv://ns2.hellotvvod.com:9906/dd451cfea1714921ab274fb40279bf2d
+CGTN,mitv://ns2.hellotvvod.com:9906/a837b60759a749d3a04991d3fbfadde3
+BBC World News,mitv://ns2.hellotvvod.com:9906/a1e038f1cfd74f758f916dc7e17572b5
+CNBC,mitv://ns2.hellotvvod.com:9906/52303054ad214adda0129d322912164d
+Bloomberg TV,mitv://ns2.hellotvvod.com:9906/3e4c9ed6b58342fbaa531f02aa120a58
+Fox News,mitv://ns2.hellotvvod.com:9906/710fa57697834a6aba081190b8aba7d3
+Euronews,mitv://ns2.hellotvvod.com:9906/9377cf53a2044566b6a808fa268e02fe
+Nat Geo Wild,mitv://ns2.hellotvvod.com:9906/3a0602f78e5e4c368fbf0d056436ee5d
+Disney Junior,mitv://ns2.hellotvvod.com:9906/e6075b2e8d544804921f5055e4871326
+Cartoon Network,mitv://ns2.hellotvvod.com:9906/44285c9480dc4d0eaa2e09f741531878
+Nickelodeon,mitv://ns2.hellotvvod.com:9906/88de2585472246749d43969d1c03257d
+Nick Jr.,mitv://ns2.hellotvvod.com:9906/0355fc81f0cf4527840ff76e185df41e
+Baby TV,mitv://ns2.hellotvvod.com:9906/86a3e0ba0bed4d6297376b8f57c5752a
+Boomerang,mitv://ns2.hellotvvod.com:9906/e80e0ea046cc4206a9935c6997310ca5
+AXN亞洲,mitv://ns2.hellotvvod.com:9906/91a1fa5c29a849cf897f93f58fd08285
+HITS,mitv://ns2.hellotvvod.com:9906/8bc2e742cb57462c924904032624a6fd
+beIN Sports,mitv://ns2.hellotvvod.com:9906/2f0a1100d8724e7c8fe7f33fef6722cc
+beIN Sports MAX,mitv://ns2.hellotvvod.com:9906/1d28c61387af4ccd847b72b1601415d7
+Fight Sports,mitv://ns2.hellotvvod.com:9906/c1bf3e92df5041a59fc1cfdd13277f39
+Mediacorp 5,mitv://ns2.hellotvvod.com:9906/6ef7d5d3391c4388a9e6ed5c2fd64a78
+Mediacorp 8,mitv://ns2.hellotvvod.com:9906/58097be7ccf245e4967f20ca5b6ce953
+Suria,mitv://ns2.hellotvvod.com:9906/a4e787acd2ff49bda7ab5bad4e32430f
+Vasantham,mitv://ns2.hellotvvod.com:9906/261378ab2f13474290a642db91f267d2
+CNA,mitv://ns2.hellotvvod.com:9906/a4e154daf0ed4848bdf59bca959dfecd
+Mediacorp U,mitv://ns2.hellotvvod.com:9906/391ec17d9d6b4a388058068361342e7f
+GEM,mitv://ns2.hellotvvod.com:9906/f1a28d8d77b24b0a953cd75850ef6bb3
+東森亞洲衛視,mitv://ns2.hellotvvod.com:9906/586cfb57fa8b4475a353a65fc712cf1e
+HUB都會,mitv://ns2.hellotvvod.com:9906/dd92eb8bcb094606800cb03e80011c54
+HUB娱家,mitv://ns2.hellotvvod.com:9906/da8e392d1e5e49e08e64e5ce00c0568e
+Horse Racing 89,mitv://ns2.hellotvvod.com:9906/c34e7bacdb5a4b879599a1b04ca55406
+Arirang,mitv://ns2.hellotvvod.com:9906/0a89887bb3604794b1fda5c3eae45021
+日本,#genre#
+NHK-G综合,mitv://ns2.hellotvvod.com:9906/eed71942476c49edadaa7df11f90446f
+NHK-E教育,mitv://ns2.hellotvvod.com:9906/506a99efe08149c79be96876b035d009
+日本テレビ,mitv://ns2.hellotvvod.com:9906/177a67e9aebc490e8f908f540614db87
+TBSテレビ,mitv://ns2.hellotvvod.com:9906/eeb153c0ce2d4747889b31d29b22cddf
+テレビ東京,mitv://ns2.hellotvvod.com:9906/4546b93b2fd64f7397ea71edb04ecc36
+フジテレビ,mitv://ns2.hellotvvod.com:9906/2b308989770f4d0dbe0f08a1b27187e7
+読売テレビ,mitv://ns2.hellotvvod.com:9906/bae63fcee6d7490b8186d530ef122670
+関西テレビ,mitv://ns2.hellotvvod.com:9906/bdf8fb3ba4de42c4b4a0663d9345a93e
+テレビ大阪,mitv://ns2.hellotvvod.com:9906/ebc0674ee50f4fb2badae1054f5ebd00
+サンテレビ,mitv://ns2.hellotvvod.com:9906/7f2f9a0e12d545f0a17e33a5b908ee3a
+abc朝日,mitv://ns2.hellotvvod.com:9906/e08cab3503f6485fa2c091b5be4e727b
+毎日放送,mitv://ns2.hellotvvod.com:9906/87fd9c9dc4974cdbb30f1c561713a540
+朝日放送,mitv://ns2.hellotvvod.com:9906/4a8a4653270e4a9ead7063b7adfd0996
+BS-1,mitv://ns2.hellotvvod.com:9906/61b17f3fbbcb403d847bc9303c8b0d8d
+BSプレミアム,mitv://ns2.hellotvvod.com:9906/36c2308e707f4db39faebd749284938f
+BS日テレ,mitv://ns2.hellotvvod.com:9906/836b15faf163430e88da2b7baba78215
+BS朝日,mitv://ns2.hellotvvod.com:9906/f389cffb91e1492da594f7ff913b1a33
+BS-TBS,mitv://ns2.hellotvvod.com:9906/aeec4b86617e4103af24b41253a660b8
+BSジャパン,mitv://ns2.hellotvvod.com:9906/2b1b9cb1d426443fa678d4f761f35818
+BSフジ,mitv://ns2.hellotvvod.com:9906/98a122e66dee46dc94cfc487f86c9f33
+WOWOWプライム,mitv://ns2.hellotvvod.com:9906/e6ce673b0be14198a369ba5dee502631
+WOWOWライブ,mitv://ns2.hellotvvod.com:9906/293ea23e322d4185b0ba09e91a386e7b
+WOWOWシネマ,mitv://ns2.hellotvvod.com:9906/2f2038026e214e41951a98ee4741a1df
+スター?チャンネル1,mitv://ns2.hellotvvod.com:9906/3a41465afae34a5487b403b6ea792be5
+スター?チャンネル2,mitv://ns2.hellotvvod.com:9906/ecfac5f0d95b42fca82f52c37c24b810
+スター?チャンネル3,mitv://ns2.hellotvvod.com:9906/7be8f9919aa443f6bae6304dd43d0cb8
+BSアニマックス,mitv://ns2.hellotvvod.com:9906/972fb28d06264a4cabe21b844b224446
+J Sports 1,mitv://ns2.hellotvvod.com:9906/8f789a849c85440d9f1447d5c5977df1
+J Sports 2,mitv://ns2.hellotvvod.com:9906/db5d1bc45f454e6f850b3a379e625e3f
+J Sports 3,mitv://ns2.hellotvvod.com:9906/eacdea4d8fdc4070ac0b94f4c57d8e30
+J Sports 4,mitv://ns2.hellotvvod.com:9906/7bd2b99f5b874e028edb6e7e9915bc33
+日テレG+ HD,mitv://ns2.hellotvvod.com:9906/5fd04bc26fb540efa6e09ffcc60bdb4c
+ゴルフネットワークHD,mitv://ns2.hellotvvod.com:9906/59ae9e5e37db46318749040cad11a5c5
+時代劇専門チャンネル,mitv://ns2.hellotvvod.com:9906/34057ee5d4584d5faeae938c2f0aed35
+Music Japan TV,mitv://ns2.hellotvvod.com:9906/16a8ff808b3649109d0f21a269682111
+キッズステーションHD,mitv://ns2.hellotvvod.com:9906/1f5cef1bb3fb4f8babb31bb79912df7d
+ディスカバリーチャンネル,mitv://ns2.hellotvvod.com:9906/ae53015a413245ba9099f3697c76a649
+ナショナル ジオグラフィッ,mitv://ns2.hellotvvod.com:9906/7c7e79fc9ba24e19907dad24d856ce9a
+日テレNEWS 24,mitv://ns2.hellotvvod.com:9906/0c2f40999c00436ab5e823a25e3d5c13
+Cartoon Network,mitv://ns2.hellotvvod.com:9906/5419e8cfbb6a496aade3406e257768a7
+韓國,#genre#
+Arirang,mitv://ns2.hellotvvod.com:9906/0a89887bb3604794b1fda5c3eae45021
+KBS1,mitv://ns2.hellotvvod.com:9906/8bce97b04ee94db6a8a4153dd4c4fe6c
+KBS2,mitv://ns2.hellotvvod.com:9906/f9dbdcd019704498bed94495d0217ca1
+KBS Drama,mitv://ns2.hellotvvod.com:9906/a32747a969fe461684322b2281b75d9b
+KBS Joy,mitv://ns2.hellotvvod.com:9906/0a17f29805544906af28f564b5315e3c
+SBS,mitv://ns2.hellotvvod.com:9906/c14208087f194e84838d16f869035265
+SBS Plus,mitv://ns2.hellotvvod.com:9906/23305ef8441342c585e7e3d2b4a4dafc
+JTBC,mitv://ns2.hellotvvod.com:9906/190c376cab1f4ef4be4b55fb26ce2f8b
+EBS,mitv://ns2.hellotvvod.com:9906/550363d1e7b34da1aab25a8ae3b5c042
+YTN,mitv://ns2.hellotvvod.com:9906/9bb01424604c408bae02263727a8ae7e
+YTN SCIENCE,mitv://ns2.hellotvvod.com:9906/69ac4b223f794ab79ba2d653847b12bc
+tvN,mitv://ns2.hellotvvod.com:9906/0a4d0d0c6e164cd093061bc31cf30ae8
+OCN,mitv://ns2.hellotvvod.com:9906/dc2b87a954c44566a3a44e8145fc9eff
+OCN Movies,mitv://ns2.hellotvvod.com:9906/10807a5b11844d279d7ef239904a02db
+CBS,mitv://ns2.hellotvvod.com:9906/3fe45552e55a4725b7927a8cb0cf7b31
+MBC,mitv://ns2.hellotvvod.com:9906/4c7b7a9d11824d7c8f480e2b3dc5602e
+MBC every1,mitv://ns2.hellotvvod.com:9906/8f4d4c484841489c9e54f684fb191ffa
+Tooniverse,mitv://ns2.hellotvvod.com:9906/e2ca82c4691d4774a214bec18d6163dc
+SPOTV,mitv://ns2.hellotvvod.com:9906/9fe403bb37504e2697892bd91a0492c7
+SPOTV 2,mitv://ns2.hellotvvod.com:9906/246d695ded73471592067991cec67aa7
+JTBC GOLF,mitv://ns2.hellotvvod.com:9906/a16d5e5357444665ae91388cfab7eaf9
+印尼,#genre#
+tvN Movies HD,mitv://ns2.hellotvvod.com:9906/93226f918c0a4231bdff4910da8fa8e1
+RCTI,mitv://ns2.hellotvvod.com:9906/38b126e9133b458fac4e7da8e246996b
+Trans TV HD,mitv://ns2.hellotvvod.com:9906/507aa59631034118b472635c85400de5
+Trans 7 HD,mitv://ns2.hellotvvod.com:9906/01a411624d3f4f90b4bbfa04620fa57a
+InsertLive,mitv://ns2.hellotvvod.com:9906/16fde4aec88843cb9809f5db72b6820d
+Galaxy Premium,mitv://ns2.hellotvvod.com:9906/1be7e8226b78418084c45319358dae76
+IMC,mitv://ns2.hellotvvod.com:9906/126bcb9fba39438dab4ba6ebe0cc1f52
+Indosiar,mitv://ns2.hellotvvod.com:9906/60bd6dc1a3024ff1a4232f08d0e1fc94
+亞洲美食頻道,mitv://ns2.hellotvvod.com:9906/0c0dc1e0b4e643a6ae2a7901a249b711
+Mola Sport,mitv://ns2.hellotvvod.com:9906/969520237daa4f5a939c890871259772
+Lingua HD,mitv://ns2.hellotvvod.com:9906/99f24de081cd4d3bad8cacc6132484a6
+泰國,#genre#
+Channel 5,mitv://ns2.hellotvvod.com:9906/28f5f261eda34cd394050fbe4b2feb48
+NBT,mitv://ns2.hellotvvod.com:9906/c086e007ee644a308fcc83bcb81c3abd
+Thai PBS,mitv://ns2.hellotvvod.com:9906/e5808de64e1c464ebf3f89bb42ac43cc
+Thai Parliament TV,mitv://ns2.hellotvvod.com:9906/0f09c53186d944ba8dfe13bada2795b5
+TNN 16,mitv://ns2.hellotvvod.com:9906/9db5e74290a04e51a576391db32587ba
+JKN 18,mitv://ns2.hellotvvod.com:9906/c9dd4f34008646499693a08d667b9a09
+Top News,mitv://ns2.hellotvvod.com:9906/15234ba313ab4758a1b4e75042ab51fb
+Voice TV,mitv://ns2.hellotvvod.com:9906/7ae49dab58dc4946a081fab8d8223149
+Nation TV,mitv://ns2.hellotvvod.com:9906/9cc060bed67147499d9fb30bfcdbe2ca
+Workpoint TV,mitv://ns2.hellotvvod.com:9906/24401dfb4ff74742ad39cdd38647cf9c
+true4U,mitv://ns2.hellotvvod.com:9906/23f817e521ff470a975a0d9193186680
+GMM 25,mitv://ns2.hellotvvod.com:9906/c543e41d3fe543ee8c79bce53465659e
+Channel 8,mitv://ns2.hellotvvod.com:9906/3b6cc98613aa4e379ad0f4ffb2e59dee
+Mono 29,mitv://ns2.hellotvvod.com:9906/ed2d0563d7224a27bd423401441d9540
+MCOT,mitv://ns2.hellotvvod.com:9906/3d600be29647475ab44a6969cc3291ad
+ONE,mitv://ns2.hellotvvod.com:9906/31e206ac69794d6b8e9953d8f623c0c7
+Thairath TV,mitv://ns2.hellotvvod.com:9906/0ee0842a12e947e19bab268b915ac994
+Channel 3,mitv://ns2.hellotvvod.com:9906/2e46441b0c394a299265bdb987a3b1bd
+Amarin TV,mitv://ns2.hellotvvod.com:9906/68ff5de5976d44b397f191911d664937
+Channel 7,mitv://ns2.hellotvvod.com:9906/d0b4b5fbef06418080f3e874eae9fd38
+PPTV,mitv://ns2.hellotvvod.com:9906/da644108b52a4cab90181917c27bd84d
+Bluesky,mitv://ns2.hellotvvod.com:9906/b19fc3782ccf446e99dbd70e9471e738
+Boomerang,mitv://ns2.hellotvvod.com:9906/17f2cdadff7545cb93ee94bdc5fd0d6d
+Jatingja,mitv://ns2.hellotvvod.com:9906/72f23afa7a2447c8802176a7e2ba8d21
+Toonee,mitv://ns2.hellotvvod.com:9906/b50d967883604ab9b0efe35839c12cad
+News 1,mitv://ns2.hellotvvod.com:9906/2a15d44201e94b3782f9637ce85fb452
+M Channel,mitv://ns2.hellotvvod.com:9906/98a38a8ec97a4548963d66cea1609f39
+Zee Nung,mitv://ns2.hellotvvod.com:9906/f684bccd353c497bb860f59b31083379
+Channel 4050,mitv://ns2.hellotvvod.com:9906/5872600c6bc244af95ffd83ed1872bd6
+TVB Thai,mitv://ns2.hellotvvod.com:9906/3219c8d39d544ceeb5989382d19f1fe3
+菲律賓,#genre#
+Cartoon Network,mitv://ns2.hellotvvod.com:9906/44285c9480dc4d0eaa2e09f741531878
+Nickelodeon,mitv://ns2.hellotvvod.com:9906/88de2585472246749d43969d1c03257d
+Nick Jr.,mitv://ns2.hellotvvod.com:9906/0355fc81f0cf4527840ff76e185df41e
+Baby TV,mitv://ns2.hellotvvod.com:9906/86a3e0ba0bed4d6297376b8f57c5752a
+Boomerang,mitv://ns2.hellotvvod.com:9906/e80e0ea046cc4206a9935c6997310ca5
+GMA,mitv://ns2.hellotvvod.com:9906/b4e98a5036df427a86ed161be44e1538
+TV5,mitv://ns2.hellotvvod.com:9906/e6027c1c26704c6b86964ae7cb0e0d0d
+Golf Channel Philippines,mitv://ns2.hellotvvod.com:9906/29bb74c6d52b42759e572b4470b20eee
+印度,#genre#
+SUN TV,mitv://ns2.hellotvvod.com:9906/7d10e9aadd1146a3b51757f45e032b5b
+Colors Tamil,mitv://ns2.hellotvvod.com:9906/fb8c72aeee884c1789e905a8da09e2fd
+CNBC Awaaz,mitv://ns2.hellotvvod.com:9906/d5f2b5f728a04933acfbfc0f63d6800f
+India TV,mitv://ns2.hellotvvod.com:9906/fdb1faa69d4f4a8e8cddd9e9040a2440
+Janam TV,mitv://ns2.hellotvvod.com:9906/84d4e01a109045f39a7f35d35c5cc9b3
+NDTV,mitv://ns2.hellotvvod.com:9906/a8a495848ac440a590dbbadd7a7f2f4b
+🛰️美國,#genre#
+Food Network,mitv://ns2.hellotvvod.com:9906/9590a6420c3d45649e9d2251f0fcf1d0
+CNN,mitv://ns2.hellotvvod.com:9906/608965b9eef84266946ad5598a892db9
+CNBC,mitv://ns2.hellotvvod.com:9906/52303054ad214adda0129d322912164d
+Bloomberg TV,mitv://ns2.hellotvvod.com:9906/3e4c9ed6b58342fbaa531f02aa120a58
+Fox News,mitv://ns2.hellotvvod.com:9906/710fa57697834a6aba081190b8aba7d3
+CBSN,mitv://ns2.hellotvvod.com:9906/8f9c3d1103124dd480b00bb645409cdc
+ESPN,mitv://ns2.hellotvvod.com:9906/9bbbfe9127d3493c9ebb4b95712222e2
+NBA,mitv://ns2.hellotvvod.com:9906/c26bb89ba7d44a83b47c52e7af180d77
+新聞,#genre#
+壹電視新聞台,mitv://ns2.hellotvvod.com:9906/c111818e11e8420aaad164543387473c
+年代新聞,mitv://ns2.hellotvvod.com:9906/a412a974b1c24427ba506b9fcd95d77b
+東森新聞台,mitv://ns2.hellotvvod.com:9906/d98879e5737d4c44b3dd85bc349775e0
+中天新聞台,mitv://ns2.hellotvvod.com:9906/f2b61bbfc05e47f8916dcd2513b3a0f5
+民視新聞台,mitv://ns2.hellotvvod.com:9906/f2f4daa81a39490396bc2eea99fd9fd9
+三立新聞台,mitv://ns2.hellotvvod.com:9906/3fc8adf766954da4bc9908ecb81184bc
+TVBS新聞台,mitv://ns2.hellotvvod.com:9906/4c700aa999594ea5893d7eab1519f187
+東森財經新聞台,mitv://ns2.hellotvvod.com:9906/e992de48ddda440ebc55984766d0ab8f
+非凡新聞台,mitv://ns2.hellotvvod.com:9906/3801d29839174353a940a8c0cfae6e47
+三立iNEWS,mitv://ns2.hellotvvod.com:9906/49035f1ad8b84fa7822c0ff660d89f09
+非凡商業台,mitv://ns2.hellotvvod.com:9906/ab4d36f3d889496a92747157c7e4c732
+國會頻道1,mitv://ns2.hellotvvod.com:9906/3b86853022324c3da4928922ba545877
+國會頻道2,mitv://ns2.hellotvvod.com:9906/7350ee5ff93341a08945bc1c8d95cd1c
+中視新聞台,mitv://ns2.hellotvvod.com:9906/7575a0153b074f2d91c69eafe28ba22d
+寰宇新聞台,mitv://ns2.hellotvvod.com:9906/7a095cbbff944242bd359bb0f32ac5f2
+寰宇新聞台灣台,mitv://ns2.hellotvvod.com:9906/b6a355771a7e4b469684732040c522f7
+台視新聞台,mitv://ns2.hellotvvod.com:9906/ec46ca942a3a4c9292c0dee902f579bf
+華視新聞,mitv://ns2.hellotvvod.com:9906/412a06626d254822954dd29b235f9366
+台視財經台,mitv://ns2.hellotvvod.com:9906/d8d1fa07f623422aae04f0e860f4bea3
+NHK新聞資訊台,mitv://ns2.hellotvvod.com:9906/8e265b23cea543799cee6ef28caee271
+無綫新聞台,mitv://ns2.hellotvvod.com:9906/977fac4b93af4ee0a190f38217d79e51
+無綫財經·資訊台,mitv://ns2.hellotvvod.com:9906/790b3d24875349d8b3118357cb9a5124
+now新聞台,mitv://ns2.hellotvvod.com:9906/f228f98bc84245ce9b4870364b82b6da
+now直播台,mitv://ns2.hellotvvod.com:9906/185dbf64ed284733a132ae9ec355f263
+HKC新聞台,mitv://ns2.hellotvvod.com:9906/a8429ecad2e446e18c362b031e3d32bf
+HKC直播新聞台,mitv://ns2.hellotvvod.com:9906/eede001be16e4991843619bb8af3f840
+HKC財經資訊台,mitv://ns2.hellotvvod.com:9906/94ecdbe381c54b58bcca74b7b88047a2
+CNBC Awaaz,mitv://ns2.hellotvvod.com:9906/d5f2b5f728a04933acfbfc0f63d6800f
+CGTN,mitv://ns2.hellotvvod.com:9906/a837b60759a749d3a04991d3fbfadde3
+CNN,mitv://ns2.hellotvvod.com:9906/608965b9eef84266946ad5598a892db9
+BBC World News,mitv://ns2.hellotvvod.com:9906/a1e038f1cfd74f758f916dc7e17572b5
+Al Jazeera English,mitv://ns2.hellotvvod.com:9906/f24308be3336455bb0f20ddcd641d725
+Sky News,mitv://ns2.hellotvvod.com:9906/9abf41880e9b4ac9a94ea8124203799a
+CNBC,mitv://ns2.hellotvvod.com:9906/52303054ad214adda0129d322912164d
+Bloomberg TV,mitv://ns2.hellotvvod.com:9906/3e4c9ed6b58342fbaa531f02aa120a58
+ABC Australia,mitv://ns2.hellotvvod.com:9906/f7003b714f114b3f8a91d6babf1f9ae2
+Fox News,mitv://ns2.hellotvvod.com:9906/710fa57697834a6aba081190b8aba7d3
+CBSN,mitv://ns2.hellotvvod.com:9906/8f9c3d1103124dd480b00bb645409cdc
+France24,mitv://ns2.hellotvvod.com:9906/4742de38085f41d5ae90b7e8f236c153
+DW,mitv://ns2.hellotvvod.com:9906/b957ef1774204c088bb084c051005717
+Euronews,mitv://ns2.hellotvvod.com:9906/9377cf53a2044566b6a808fa268e02fe
+CNA,mitv://ns2.hellotvvod.com:9906/a4e154daf0ed4848bdf59bca959dfecd
+TNN 16,mitv://ns2.hellotvvod.com:9906/9db5e74290a04e51a576391db32587ba
+JKN 18,mitv://ns2.hellotvvod.com:9906/c9dd4f34008646499693a08d667b9a09
+音樂,#genre#
+MTV,mitv://ns2.hellotvvod.com:9906/aad098bade95418a8046acceb0558aa3
+MTV Live,mitv://ns2.hellotvvod.com:9906/5b5d21a03d37495aac99f37ee515efab
+Mezzo Live,mitv://ns2.hellotvvod.com:9906/5a39267c43dd41b1821aef0622730115
+CLASSICA 古典樂,mitv://ns2.hellotvvod.com:9906/391c8cb09e224e84ab588144e0632a30
+CMusic,mitv://ns2.hellotvvod.com:9906/0914d00bdeb748778ea50ce5c008a18b
+體育,#genre#
+緯來育樂台,mitv://ns2.hellotvvod.com:9906/ed2847f9731a48e19afc2ba479a73939
+緯來體育台,mitv://ns2.hellotvvod.com:9906/cd64bcebb70d4b489bf734c5b3369002
+ELEVEN體育1台,mitv://ns2.hellotvvod.com:9906/0c9c4a9fc07c41bb8537828dd9162e81
+ELEVEN體育2台,mitv://ns2.hellotvvod.com:9906/a610acb66f3749bb953d78899b7205d2
+Z頻道,mitv://ns2.hellotvvod.com:9906/653db001ea4a4599ad4be5a98f9adf8c
+愛爾達體育1台,mitv://ns2.hellotvvod.com:9906/db6bd5a732984d83a8fdb9d0536886c8
+愛爾達體育2台,mitv://ns2.hellotvvod.com:9906/bc49344900a546d39b5083025db6243f
+愛爾達體育3台,mitv://ns2.hellotvvod.com:9906/4f3f4387a8174b8f8aaed89e2901442c
+TRACE Sport Stars,mitv://ns2.hellotvvod.com:9906/57536d1b23f34f28bb4d8c065d2e67e5
+博斯高球,mitv://ns2.hellotvvod.com:9906/9eb73e0317034672b4e2bdb0d695387f
+博斯高球二台,mitv://ns2.hellotvvod.com:9906/c612218b5c0d4349a1b4049e89913c75
+博斯網球台,mitv://ns2.hellotvvod.com:9906/47176ac49fed4e74a62d30b037ce81d3
+博斯魅力網,mitv://ns2.hellotvvod.com:9906/8f1d2f23e9964ef6b99f7b7228c199dc
+博斯無限台,mitv://ns2.hellotvvod.com:9906/91e038793b5f45f194ab304ab843b741
+博斯無限二台,mitv://ns2.hellotvvod.com:9906/3367cde8bd924944b2b7bbbaef5be87e
+博斯運動,mitv://ns2.hellotvvod.com:9906/b57a5306d5da4dcea75af2d436968097
+智林體育台,mitv://ns2.hellotvvod.com:9906/8b30925a0d704bcd8286add181bafdb9
+博斯運動二台,mitv://ns2.hellotvvod.com:9906/d4f401d6d6e144dfbb8c944a41b15772
+CCTV5,mitv://ns2.hellotvvod.com:9906/f07ab39fdf354c7cb4a34fbaaa3659c7
+CCTV5+,mitv://ns2.hellotvvod.com:9906/7a3a7027352546228475d2691cce06d8
+魅力足球,mitv://ns2.hellotvvod.com:9906/1d8773c524fa4ff0a210dd82b5442327
+新視覺,mitv://ns2.hellotvvod.com:9906/9319abc926b54236ad6215e7132c9c11
+廣東體育,mitv://ns2.hellotvvod.com:9906/3faeeb40ba624e64bb63ded82e67a601
+Golf Channel Philippines,mitv://ns2.hellotvvod.com:9906/29bb74c6d52b42759e572b4470b20eee
+Astro Arena,mitv://ns2.hellotvvod.com:9906/5854587c3f164d0bb0a66626f9ee09d0
+Astro Arena 2,mitv://ns2.hellotvvod.com:9906/ca874a7d7e614ebd832e6e1e9478525b
+Astro SuperSport,mitv://ns2.hellotvvod.com:9906/e12cfed6c3d94f27bd4f480d42b0c7b5
+Astro SuperSport 2,mitv://ns2.hellotvvod.com:9906/5aa28b0759774904a25d7fc12ea233a9
+Astro SuperSport 3,mitv://ns2.hellotvvod.com:9906/68067267b2734dd39032d08bf83db8f0
+Astro SuperSport 4,mitv://ns2.hellotvvod.com:9906/6ba21b7211494ed4ac1456d6ba8cbaa0
+Astro SuperSport 5,mitv://ns2.hellotvvod.com:9906/cc02a88163414af7b4d7479a833f1407
+SPOTV,mitv://ns2.hellotvvod.com:9906/5dedc66ef44242819ee8bf88796a9101
+beIN Sports,mitv://ns2.hellotvvod.com:9906/2f0a1100d8724e7c8fe7f33fef6722cc
+beIN Sports MAX,mitv://ns2.hellotvvod.com:9906/1d28c61387af4ccd847b72b1601415d7
+Eurosport HD,mitv://ns2.hellotvvod.com:9906/047ba1fc376a4ef88c305a659fbb236f
+WWE,mitv://ns2.hellotvvod.com:9906/591deaacdbc247c8be9fb4fc937d6a14
+Astro Cricket,mitv://ns2.hellotvvod.com:9906/d37f8e619e014decb7465d538dc17548
+RTM Sport,mitv://ns2.hellotvvod.com:9906/3b086dcc1106400b8f78e8547d2e3df8
+HKC 18,mitv://ns2.hellotvvod.com:9906/36976aef6f4f4ab2aad06b8ece5aac54
+HKC 603,mitv://ns2.hellotvvod.com:9906/bc32fd90af7d4f4aaa3bd451d9199153
+HKC体育台,mitv://ns2.hellotvvod.com:9906/1f7426398b0248708172875db037edff
+HKC Sports Plus 1,mitv://ns2.hellotvvod.com:9906/947fa69d3ee7421f83b9aae7df4c846d
+Sky Sports HD,mitv://ns2.hellotvvod.com:9906/3b236026d690439cb59f49119e3ecd74
+Sky Sports 2,mitv://ns2.hellotvvod.com:9906/9f2669b7e86644dca15545002fe98f3c
+Sky Sports 5,mitv://ns2.hellotvvod.com:9906/30aaf9a6ee9d436cb66db803a974cb63
+Sky Sports 6,mitv://ns2.hellotvvod.com:9906/f3339d9a528042b7a9080dc2dc1e6ec4
+Fight Sports,mitv://ns2.hellotvvod.com:9906/c1bf3e92df5041a59fc1cfdd13277f39
+ESPN,mitv://ns2.hellotvvod.com:9906/9bbbfe9127d3493c9ebb4b95712222e2
+NBA,mitv://ns2.hellotvvod.com:9906/c26bb89ba7d44a83b47c52e7af180d77
+J Sports 1,mitv://ns2.hellotvvod.com:9906/8f789a849c85440d9f1447d5c5977df1
+J Sports 2,mitv://ns2.hellotvvod.com:9906/db5d1bc45f454e6f850b3a379e625e3f
+J Sports 3,mitv://ns2.hellotvvod.com:9906/eacdea4d8fdc4070ac0b94f4c57d8e30
+J Sports 4,mitv://ns2.hellotvvod.com:9906/7bd2b99f5b874e028edb6e7e9915bc33
+Mola Sport,mitv://ns2.hellotvvod.com:9906/969520237daa4f5a939c890871259772
+知識,#genre#
+國家地理頻道,mitv://ns2.hellotvvod.com:9906/cbf2e0c0e1ed4e11a564047614cb962d
+探索頻道,mitv://ns2.hellotvvod.com:9906/9c0a057219044213ac643c8a8e5d50c0
+TLC旅遊生活,mitv://ns2.hellotvvod.com:9906/785e9237d2864f23b3fbf5e72b645812
+動物星球,mitv://ns2.hellotvvod.com:9906/8df6a02edb7946eebae8115ab6fd8ec7
+ELTV生活英語台,mitv://ns2.hellotvvod.com:9906/fd64478e967b43f79c151425ad75030f
+達文西頻道,mitv://ns2.hellotvvod.com:9906/191725f8a02546c1bec1bb92aab127ab
+國家地理高畫質野生頻道,mitv://ns2.hellotvvod.com:9906/56543494b4f64682b1cf6a1aa771c34c
+BBC Earth,mitv://ns2.hellotvvod.com:9906/555289b9056947f18bb9658c62299697
+Discovery Asia,mitv://ns2.hellotvvod.com:9906/8338adb9ba1541929a6106de04cfdec5
+Discovery科學頻道,mitv://ns2.hellotvvod.com:9906/29f6899f71c64f5394c865d50ea00911
+DMAX,mitv://ns2.hellotvvod.com:9906/f4a3049579cf4a109e2755cff0aae884
+EVE,mitv://ns2.hellotvvod.com:9906/1093dacfe6c3404eb67360c75cfb3ce0
+HISTORY 2,mitv://ns2.hellotvvod.com:9906/d13e7bea35dd4c01bf258f127a01b393
+歷史頻道,mitv://ns2.hellotvvod.com:9906/8282b66d64db4dd884b125ce6a43d7cf
+罪案偵緝頻道,mitv://ns2.hellotvvod.com:9906/969d3da0dc624b599160cda58bd5daa2
+BBC Lifestyle,mitv://ns2.hellotvvod.com:9906/2dcc681591d640ceb91c09b5eb7cbb83
+LUXE TV,mitv://ns2.hellotvvod.com:9906/a6a73818f9aa4fd992d966aac4b49c20
+Lifetime,mitv://ns2.hellotvvod.com:9906/698e4db64e93463a814fc462cb15b1f4
+KLT-靖天國際台,mitv://ns2.hellotvvod.com:9906/92963da196424063a1f58303dc21da2e
+HGTV居家樂活頻道,mitv://ns2.hellotvvod.com:9906/3ae6806990ac44dbbd5a83eea77fef7e
+Love Nature,mitv://ns2.hellotvvod.com:9906/5b4aa7c53c974767aad85f24fc19d550
+美食星球,mitv://ns2.hellotvvod.com:9906/045aa067f54a4a5bb2f5dc17190417cf
+亞洲美食頻道,mitv://ns2.hellotvvod.com:9906/c0c700a32db94ca281b74e44d84b5b66
+Food Network,mitv://ns2.hellotvvod.com:9906/9590a6420c3d45649e9d2251f0fcf1d0
+亞洲旅遊台,mitv://ns2.hellotvvod.com:9906/b52d03f4997a48b88d4ff3a86d2fa8de
+EYE TV旅遊台,mitv://ns2.hellotvvod.com:9906/5512ec54a1254879b4e39f92b63565ab
+時尚頻道,mitv://ns2.hellotvvod.com:9906/a6cb54e5bd294cc98064df05ad1b3fc1
+CCTV9,mitv://ns2.hellotvvod.com:9906/57cbe284a7a94ccf8621a50752c61a16
+Nat Geo Wild,mitv://ns2.hellotvvod.com:9906/3a0602f78e5e4c368fbf0d056436ee5d
+少兒,#genre#
+CN卡通頻道,mitv://ns2.hellotvvod.com:9906/51e593fae95f48968c181b6a47179526
+迪士尼頻道,mitv://ns2.hellotvvod.com:9906/d24a14f362fb47d8a603b41462ad0f9b
+MOMO親子台,mitv://ns2.hellotvvod.com:9906/d3ae733f3d61464e8f240d812c0b1516
+Animax,mitv://ns2.hellotvvod.com:9906/10d8ae908a354513b09e38e7116b7b33
+靖洋卡通Nice Bingo,mitv://ns2.hellotvvod.com:9906/f356d20c5a374fef82a196fadfe38a77
+靖天卡通台,mitv://ns2.hellotvvod.com:9906/bb214f3596dd4b1c8bae816edff835be
+Cbeebies,mitv://ns2.hellotvvod.com:9906/65758ebebbb5437cbfdb4b5c88597bf9
+達文西頻道,mitv://ns2.hellotvvod.com:9906/191725f8a02546c1bec1bb92aab127ab
+Nick Jr.,mitv://ns2.hellotvvod.com:9906/89ac75b06f7f4721be3f6a4d12eb71d3
+CCTV14,mitv://ns2.hellotvvod.com:9906/6ee2ee86a5154416880be4c97254d93a
+星空衛視,mitv://ns2.hellotvvod.com:9906/7c8f26565a5440248863081512363152
+金鷹卡通,mitv://ns2.hellotvvod.com:9906/81c74b1fdbcd469e9bd5c493f4d40e31
+Astro小太陽,mitv://ns2.hellotvvod.com:9906/0d5ecafe8f494863ac5bad999b6a1f0f
+Astro Ceria,mitv://ns2.hellotvvod.com:9906/aac054f65a244206b6f782eb3956e130
+Disney Junior,mitv://ns2.hellotvvod.com:9906/e6075b2e8d544804921f5055e4871326
+Cartoon Network,mitv://ns2.hellotvvod.com:9906/44285c9480dc4d0eaa2e09f741531878
+Nickelodeon,mitv://ns2.hellotvvod.com:9906/88de2585472246749d43969d1c03257d
+Nick Jr.,mitv://ns2.hellotvvod.com:9906/0355fc81f0cf4527840ff76e185df41e
+Baby TV,mitv://ns2.hellotvvod.com:9906/86a3e0ba0bed4d6297376b8f57c5752a
+Boomerang,mitv://ns2.hellotvvod.com:9906/e80e0ea046cc4206a9935c6997310ca5
+🛰️電影,#genre#
+衛視電影台,mitv://ns2.hellotvvod.com:9906/e7682ac33dfd41fc8f028f1652b6117f
+東森電影台,mitv://ns2.hellotvvod.com:9906/e40a4dbcfc66445a83f8c06d53ac3b53
+緯來電影台,mitv://ns2.hellotvvod.com:9906/67d49ff2fc594674a3969022f0c55ded
+龍祥電影,mitv://ns2.hellotvvod.com:9906/2c5a71766368419ca7a962ce66cf5da3
+HBO,mitv://ns2.hellotvvod.com:9906/8e83048c82a8449a93265fa063baa48d
+東森洋片台,mitv://ns2.hellotvvod.com:9906/ab1aa48cd1a34f488845642592c39418
+AXN,mitv://ns2.hellotvvod.com:9906/5c910d743fe847e8b406bf7d180130a0
+好萊塢電影台,mitv://ns2.hellotvvod.com:9906/fb9f46f4cb454b13a15aac8e025f8477
+CINEMAX,mitv://ns2.hellotvvod.com:9906/3d4d75d8f386474d8dbb84c7a3704a7f
+緯來育樂台,mitv://ns2.hellotvvod.com:9906/ed2847f9731a48e19afc2ba479a73939
+HBO Family,mitv://ns2.hellotvvod.com:9906/2230c4128071467e8e995408f20c1c3c
+HBO強檔鉅獻,mitv://ns2.hellotvvod.com:9906/670c07900c5c4e49b6df5306bc18bff0
+HBO原創鉅獻,mitv://ns2.hellotvvod.com:9906/9b18147e7f454392b7eb1d204235b314
+美亞電影台HD,mitv://ns2.hellotvvod.com:9906/1fc034defbb24a569a9bbca8b57fb5fe
+龍華電影,mitv://ns2.hellotvvod.com:9906/cda4c0d5e8df4d49bb51fa6b71b5d19b
+星衛HD電影台,mitv://ns2.hellotvvod.com:9906/bdb2a4266251451a918d42ec44667801
+靖天映畫,mitv://ns2.hellotvvod.com:9906/0a08a213ff34484ebba095598ffed323
+靖天電影台,mitv://ns2.hellotvvod.com:9906/86533153a6a741d3af531f8efa6054f6
+WARNER TV,mitv://ns2.hellotvvod.com:9906/bf10e7821b5744d3aed911a956e6cdfe
+Star Movies HD,mitv://ns2.hellotvvod.com:9906/b2c5dfbc8b6d4a7280ee39244a7678a8
+AMC最愛電影,mitv://ns2.hellotvvod.com:9906/eb5393add687434ca3f3da38ce5ec3bf
+Thrill,mitv://ns2.hellotvvod.com:9906/70b676c4e0f9424991012e9bfcddd4e7
+CatchPlay電影台,mitv://ns2.hellotvvod.com:9906/c4eeae79ede24dd3baf9226ec992dbe4
+CinemaWorld,mitv://ns2.hellotvvod.com:9906/e37bdcc69e4f403f9fc52c6817c367f6
+壹電視電影台,mitv://ns2.hellotvvod.com:9906/4726fe8fb7e748659fac6cf64370a205
+采昌影劇台,mitv://ns2.hellotvvod.com:9906/fa78b19b455148e3b2b00b5bf648c3fc
+爆谷台,mitv://ns2.hellotvvod.com:9906/1d7e379fa2f04936b9d2dce207efb097
+鳳凰電影台,mitv://ns2.hellotvvod.com:9906/06553799649b45619f5c5ff5467abe0e
+HKC電影台,mitv://ns2.hellotvvod.com:9906/6d83197a57a94c41848d3945e38a8607
+CCTV6,mitv://ns2.hellotvvod.com:9906/fcb1a15023a1447c88064e0e21c1bf4c
+天映頻道,mitv://ns2.hellotvvod.com:9906/ec8466ba789143998fb9ed858b7c174e
+天映經典,mitv://ns2.hellotvvod.com:9906/4699a8c6571243a4b5387f6b3c639851
+BOO,mitv://ns2.hellotvvod.com:9906/fd66b38ae9014f8183ac6b160b94548b
+tvN Movies HD,mitv://ns2.hellotvvod.com:9906/93226f918c0a4231bdff4910da8fa8e1
+🛰️戲劇,#genre#
+東森戲劇台,mitv://ns2.hellotvvod.com:9906/8ad6da5302064e3a8b67ccc9848614e5
+八大戲劇台,mitv://ns2.hellotvvod.com:9906/ea7f77bf68254477b2a29793cf65f55a
+緯來戲劇台,mitv://ns2.hellotvvod.com:9906/c4d3341645874d9fab6329a7f83f5121
+三立戲劇台,mitv://ns2.hellotvvod.com:9906/c5251859faa14a0b9ba00a3bbe4ec0fa
+龍華戲劇,mitv://ns2.hellotvvod.com:9906/b3fdf7edaf724fffb49a1bb3e5ba36c0
+愛爾達影劇台,mitv://ns2.hellotvvod.com:9906/7964972106564c79bee0dbe6dde23c81
+靖天戲劇台,mitv://ns2.hellotvvod.com:9906/dc313d1f150f4e32a241408a4dddb55a
+靖洋戲劇台,mitv://ns2.hellotvvod.com:9906/453a034ff3884c0f889f89332a61cb3b
+EYE TV戲劇台,mitv://ns2.hellotvvod.com:9906/446502d9b45941efb5bf52f21a282471
+香港频道,#genre#
+翡翠台（内地）,http://113.64.147.98:808:808/hls/67/index.m3u8?times=0#http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=10&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+8
+星河台.,http://gxfrg007.8800.org:8282/tsfile/live/1062_1.m3u8
+香港C+,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
+凤凰中文台,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8#http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
+凤凰香港台,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8#http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8#http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
+凤凰资讯台,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
+东森洋片,http://gxfrg007.8800.org:8282/tsfile/live/1050_1.m3u8
+东森电影台,http://gxfrg007.8800.org:8282/tsfile/live/1049_1.m3u8
+黑肥新片,#genre#
+扬名立万,https://cdn2.bzjupinhang.com:65/20211120/JzbX5A0O/index.m3u8
+梅艳芳,https://v4.cdtlas.com/20211119/WXeyqkiU/1200kb/hls/index.m3u8
+1921,https://yuncache.37581.com.cn:6688/jhyun.php?key=86fd0c346e44388adc195f5eb05215e4923c0cbe170d16617acab8007d884ab9f3be38279c11f7785e7faf0859233a56ed2cf0740079780f92015536dc6b0977ab778251d7ce4d6c86450227d126016553f11e7a5235be7d&sign=ba2d2ae92e957ed2686fec57321a8847&t=1640088749&name=jhyun.m3u8
+悬崖之上,https://hnzy6.liugecaiwu.com:65/20210715/TGV6HChF/index.m3u8
+长津湖 高清,https://m3u8.json.hfyrw.com:9502/video_cache/d5f50dcd917ce8ca746f214e05e8895d/main.m3u8
+长津湖,https://apd-39af1b03fc464685a82ecb154893ecfc.v.smtcdns.com/vipts.tc.qq.com/ALwZdysO030tlDIBe_6W9fOy3PdvHdhCa1CMXRLzwG6A/uwMROfz2r57AoaQXGdGnC2de6448_15NlFLR-6JgreBXkPz2/svp_50112/fzbuQGsRtya2ZCoR-Mh8nfG9iovwkjKgTRmW_KQMrW_4CBqiObVnqPLfyqkChkt1aml--n4ga9mIgmnYYJz1j3j3KkYLexjtw7fsNCaMIx_Yf5bSnjV_UN5GTijRmbEZDFiffGXPpuQi7N3v4TKM-OfzJUgj2iSmaIXu69G9KasOEH-qpt31Dg/0325_gzc_1000102_0b53weaaiaaaxqaj7hgnnfq4bmodas6qaaca.f321002.ts.m3u8?ver=4
+🛰️电影频道,#genre#
+贝爷影厅,http://tc-tct.douyucdn2.cn/dyliveflv1/252802rnJEvKQL5B_2000.flv?wsAuth=85cefe42317d33c5c1ee9d815edd6f3e&token=cpn-androidmpro-0-252802-536492a84fc6fe0c87a28fa2c097b482d44a093f9a279f6f&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
+欧美大片1,http://tc-tct.douyucdn2.cn/dyliveflv1/20415rnWbjg6Ex1K_2000.flv?wsAuth=ad15eff901c7afb6905771c932e0ce77&token=cpn-androidmpro-0-20415-b6774b3b3249db176c8cf8d8bcdc2ad9cec953cdec97a59a&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
+欧美大片2,http://tc-tct.douyucdn2.cn/dyliveflv3a/2793084rOv5omCuI.flv?wsAuth=7a4c047aca15acfbf90b222f663e1b49&token=cpn-androidmpro-0-2793084-3f569b7e953394a7f70456bcb25d91ce7df7e5fb6dad7c15&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play4
+粤语电影1,http://tc-tct.douyucdn2.cn/dyliveflv3a/5033502rf2fLWOXi.flv?wsAuth=3d70f9a2be367736e4ed9a4db4e44ca0&token=cpn-androidmpro-0-5033502-e87fb2e05db6d5d11888ba6f611578d5a2f42c0f2dd5a79b&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play4
+粤语电影2,http://tc-tct.douyucdn2.cn/dyliveflv3a/6566671r3rc0Mq8Q_2000.flv?wsAuth=cff8a9c9c2c6447ec64e9d81826ba1c8&token=cpn-androidmpro-0-6566671-e1f409a777b7d4961b3a5c688c9fb272affffd98f0894dcf&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play4
+粤语电影3,http://tc-tct.douyucdn2.cn/dyliveflv3/2466104rqH5uJkJw.flv?wsAuth=3c9656813c60ddf6df583541c0600163&token=cpn-androidmpro-0-2466104-09fd8b41302171bda02cb343f4239dd90d22d6cd9686b5e4&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
+粤语电影4,http://tc-tct.douyucdn2.cn/dyliveflv3a/8603174rFz8Cgzq9.flv?wsAuth=13901286334d9fdfbe3bfce0725c1378&token=cpn-androidmpro-0-8603174-8f495c66f44b1e329c7f0fd7a94eb133a9af8be186571f6a&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play4
+粤语电影5,http://tc-tct.douyucdn2.cn/dyliveflv3/1226741rd2sPdSNQ.flv?wsAuth=efd6648706d4f9a7629119025073657d&token=cpn-androidmpro-0-1226741-0dc52b22d02956890f29ede2c171752c83f3cca56764a8b5&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
+4K HDR视界,http://tc-tct.douyucdn2.cn/dyliveflv3a/9249162raOuZGmcY.flv?wsAuth=32176ba1baa7386c19047297849ea210&token=cpn-androidmpro-0-9249162-a702b1b6c2fccdd6448def149600146eb3a0075110daec77&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play4
+古天乐,http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198610
+张国荣,http://112.74.200.9:88/tv000000/m3u8.php?/migu/707689526
+郭富城,http://112.74.200.9:88/tv000000/m3u8.php?/migu/639528330
+周 润发,http://183.232.171.91/tx.hls.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1.m3u8
+邱淑贞 王祖贤张曼玉,http://183.232.171.91/tx.hls.huya.com/src/1388451591-1388451591-5963354175424167936-2777026638-10057-A-0-1-imgplus.m3u8
+五 福星,http://183.232.171.91/tx.hls.huya.com/src/1356780980-1356780980-5827329936934830080-2713685416-10057-A-0-1.m3u8
+李 连杰,http://183.232.171.91/tx.hls.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1-imgplus.m3u8
+甄 子丹,http://183.232.171.91/tx.hls.huya.com/src/1423787820-1423787820-6115122123343134720-2847699096-10057-A-0-1-imgplus.m3u8
+周 星驰,http://183.232.171.91/tx.hls.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1-imgplus.m3u8
+刘 德华,http://183.232.171.91/tx.hls.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.m3u8
+周 润发,http://183.232.171.91/tx.hls.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1-imgplus.m3u8
+林 正英,http://183.232.171.91/tx.hls.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.m3u8
+吴 京,http://183.232.171.91/tx.hls.huya.com/src/1524434090-1524434090-6547394561457520640-3048991636-10057-A-0-1.m3u8
+洪 金宝,http://183.232.171.91/tx.hls.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1-imgplus.m3u8
+广州频道,#genre#
+广州综合,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=81&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1#http://149.129.100.78/gztv.php?id=zhonghe
+广州新闻,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=11&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1#http://ye23.win/iptv/gztv.php?id=xinwen#http://149.129.100.78/gztv.php?id=xinwen
+广州法制,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=46&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1#http://149.129.100.78/gztv.php?id=fazhi
+南国都市,http://ye23.win/iptv/gztv.php?id=shenghuo#http://149.129.100.78/gztv.php?id=shenghuo#http://aplay.gztv.com/sec/shenghuos.m3u8
+广州影视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=52&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1#http://149.129.100.78/gztv.php?id=yingshi
+广州竞赛,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=0&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1#http://149.129.100.78/gztv.php?id=jingsai
+南方卫视,rtsp://183.59.70.73:554/PLTV/88888905/224/3221230001/10000100000000060000000011293289_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EiKe-NYf8wqbfEoP3btv9QA%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000006000000052020101699000001%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73225&online=1605706102
+南方购物,rtsp://183.59.70.69:554/PLTV/88888905/224/3221227224/10000100000000060000000000990026_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EiyHTl1NCEPN7KIfpYSrpPw%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000001000000050000000000000382%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73227&online=1605706569
+广东频道,#genre#
+广东高清珠江,http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=79&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=4abd1660af1babb3&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=1&Fsv_SV_PARAM1=1&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv&_res_tag_=video
+广东体育,rtsp://183.59.180.131:554/PLTV/88888905/224/3221227484/10000100000000060000000003928833_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=%7E%7EV2.0%7Ew7Bz7WWUvefO8y8c0TBseg%7EJ3gS9YToknmjfQZedpYa3OsrE4kLrNtf-netp2UkspYUIlmz9LDm0sPe6KDxcMKnThY41s67Gsfd5PtG37Y_7h2YX6XyChgUU67PSsd_dks~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2CEND&tenantId=8601
+广东体育2,rtsp://125.88.53.80:554/PLTV/88888905/224/3221227484/10000100000000060000000003928833_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7Ew7Bz7WWUvefO8y8c0TBseg%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000001000000052014052600000001%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=71604&online=1605705879
+广东体育3,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=8&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+广东影视,rtsp://183.59.70.75:554/PLTV/88888905/224/3221229939/10000100000000060000000011293286_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EF8Djf5I5I3zFotQpnhkjvw%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000006000000052020101699000002%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73226&online=1605706186
+广东综艺4K,rtsp://183.59.70.76:554/PLTV/88888905/224/3221229713/10000100000000060000000008646185_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EG5fEQeO2yT2LgijcyazKdg%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000006000000052017120499000001%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73226&online=1605706505
+广东少儿,rtsp://183.59.70.78:554/PLTV/88888905/224/3221230010/10000100000000060000000011293288_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EBncdZ3rFEXgsm3o4YCdIFQ%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000006000000052020101699000004%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73224&online=1605706384
+广东卫视,rtsp://183.59.70.76:554/PLTV/88888905/224/3221227218/10000100000000060000000000988525_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EsFZ46mFNJb4XrlnNoWuN5w%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000001000000050000000000000374%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73226&online=1605705530
+广东珠江,rtsp://183.59.70.75:554/PLTV/88888905/224/3221229811/10000100000000060000000009467087_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EQRLIDngmxvSnsGioni22UA%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000006000000052018092799000001%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73226&online=1605705683
+广东新闻,rtsp://183.59.70.75:554/PLTV/88888905/224/3221226969/00000100000000060000000000554905_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EKnBmWSC30v5Ykh7yfef9Ug%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000001000000050000000000000005%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73226&online=1605712723
+广东公共,rtsp://183.59.70.74:554/PLTV/88888905/224/3221230072/10000100000000060000000011293287_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EJfOJh8kUHwkvOQkuZOyKkA%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000006000000052020101699000003%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73225&online=1605705733
+广东国际,rtsp://125.88.53.76:554/PLTV/88888905/224/3221227230/10000100000000060000000000990032_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EYp1D7VyK2VsjV22kjcAk-Q%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000001000000050000000000000388%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73130&online=1605705954
+广东经济科教,rtsp://125.88.53.80:554/PLTV/88888905/224/3221227238/10000100000000060000000000987130_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EyU3xvT9RGErxisUE0wkmkg%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000001000000050000000000000375%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=71604&online=1605706029
+广东移动,rtsp://125.88.82.45:554/PLTV/88888905/224/3221227209/10000100000000060000000000987164_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7Egq0BYpTYPSkLaZjiStEx9Q%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000001000000050000000000000387%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=71824&online=1605706613粤TV极K影视,rtsp://125.88.53.79:554/PLTV/88888905/224/3221228037/10000100000000060000000006912177_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EnRCjjtXntY99JjdTWi5XVg%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C000000052016051399000001%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=71604&online=1605710791
+广东房产,rtsp://183.59.70.75:554/PLTV/88888905/224/3221227216/10000100000000060000000000990028_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7E1gTzC2O3etVfAsvZrSV_Vg%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000001000000050000000000000384%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73226&online=1605706846
+粤TV极K精选,rtsp://183.59.70.75:554/PLTV/88888905/224/3221228304/10000100000000060000000008188821_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7E8-1sixSy3h6EVYxRzBr1rw%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000035000000052017062399000001%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73226&online=1605710869
+嘉佳卡通,rtsp://125.88.53.76:554/PLTV/88888905/224/3221226972/00000100000000060000000000554906_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EkMyyYLpJ_82G80_6LYvKOA%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000001000000050000000000000006%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73130&online=1605706439
+普宁台,http://cdn.chxjon.cn/bolt/gdtv1.php?id=gdjypn#http://v.iisfu.top/live/puning#http://tkbunj246.nian.gfzyw.cn/touchtv.php?id=2450#http://hls333.dszbdq.cn/gdou3.php?id=puningtai_2000
+潮南1,http://cdn.chxjon.cn/bolt/gdtv1.php?id=gdstcn1#http://tkbunj246.nian.gfzyw.cn/touchtv.php?id=2444
+揭阳综合,rtsp://183.59.70.74:554/PLTV/88888905/224/3221227797/10000100000000060000000004941375_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EhDZvZ7dlDER7tcN5cH6d4g%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000004000000052014122200000033%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73225&online=1605706652
+揭阳公共,rtsp://125.88.53.80:554/PLTV/88888905/224/3221227753/10000100000000060000000004941374_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EIbAeP9v6ojKrS64ULp5BcA%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000004000000052014122200000034%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=71604&online=1605706724
+潮州综合,rtmp://pili-live-rtmp.czbtv.sobeylive.com/czbtv2019/czzhpd
+潮州公共,rtmp://pili-live-rtmp.czbtv.sobeylive.com/czbtv2019/czggpd
+岭南戏曲,rtsp://125.88.53.79:554/PLTV/88888905/224/3221227225/10000100000000060000000000990089_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EXp4YcfE69guN0d7VTTIvig%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000001000000050000000000000385%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=71604&online=1605706756
+现代教育,rtsp://125.88.53.79:554/PLTV/88888905/224/3221227233/10000100000000060000000000990060_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7E3xrotr_6YSajf0BF8YH7ow%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000001000000050000000000000381%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=71604&online=1605706892
+体育频道,#genre#
+CCTV-5,rtsp://183.59.70.72:554/PLTV/88888905/224/3221229857/10000100000000060000000009924447_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EEKh7Q4W2FxVQNRn0W0dHbA%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000006000000052019032399000002%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73228&online=1605707201,cntv-cctv5
+CCTV-5+,rtsp://183.59.70.69:554/PLTV/88888905/224/3221227192/10000100000000060000000000987131_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7Er6jF1xCjzHv7swACkj1iSQ%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000000000000050000000000000153%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73227&online=1605709551,cntv-cctv5plus
+广东体育,rtsp://183.59.180.131:554/PLTV/88888905/224/3221227484/10000100000000060000000003928833_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=%7E%7EV2.0%7Ew7Bz7WWUvefO8y8c0TBseg%7EJ3gS9YToknmjfQZedpYa3OsrE4kLrNtf-netp2UkspYUIlmz9LDm0sPe6KDxcMKnThY41s67Gsfd5PtG37Y_7h2YX6XyChgUU67PSsd_dks~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2CEND&tenantId=8601
+广东体育2,rtsp://125.88.53.80:554/PLTV/88888905/224/3221227484/10000100000000060000000003928833_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7Ew7Bz7WWUvefO8y8c0TBseg%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000001000000052014052600000001%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=71604&online=1605705879
+广东体育3,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=8&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+卫视频道,#genre#
+南方卫视,rtsp://183.59.70.73:554/PLTV/88888905/224/3221230001/10000100000000060000000011293289_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EiKe-NYf8wqbfEoP3btv9QA%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000006000000052020101699000001%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73225&online=1605706102,cntv-nanfangweishi
+湖南卫视,rtsp://125.88.53.79:554/PLTV/88888905/224/3221227325/10000100000000060000000001141345_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7ENkc6QNZEfJ1Hqm12eGaKxw%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000000000000050000000000000195%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=71604&online=1605707754,cntv-hunan
+浙江卫视,http://yd-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8,cntv-zhejiang
+浙江卫视,rtsp://183.59.70.73:554/PLTV/88888905/224/3221227296/10000100000000060000000001141335_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EBng-uKyYgdUpj01BXpVWug%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000000000000050000000000000265%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73225&online=1605707789,cntv-zhejiang
+江苏卫视,rtsp://183.59.70.76:554/PLTV/88888905/224/3221227027/10000100000000060000000000698853_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EaxGs9GVvEtywWlMV9_8zfw%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000000000000050000000000000198%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73226&online=1605707818,cntv-jiangsu
+东方卫视,rtsp://125.88.53.79:554/PLTV/88888905/224/3221227299/10000100000000060000000001141344_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7E6KTDBPHM-03Uw5OdPJsmUg%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000000000000000000000000000263%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=71604&online=1605707850,cntv-dongfang
+安徽卫视,rtsp://125.88.53.80:554/PLTV/88888905/224/3221227928/10000100000000060000000006526299_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EuOrkSwl7X_jL_XI5Lg2NiQ%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000000000000050000000000000473%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=71604&online=1605707882
+北京卫视,rtsp://183.59.70.74:554/PLTV/88888905/224/3221227018/10000100000000060000000000698843_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EMm_aUPQYUefILnxsgT-jTQ%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000000000000050000000000000194%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73225&online=1605707935
+天津卫视,rtsp://183.59.70.78:554/PLTV/88888905/224/3221227346/10000100000000060000000003100521_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7ErN-BuTVrGNWqfRpgcaeoYA%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000001000000052013120900000001%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73224&online=1605707978
+山东卫视,rtsp://183.59.70.76:554/PLTV/88888905/224/3221227215/10000100000000060000000000988473_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7Ea9_wJpZCyFNPMyJVu70lPg%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000001000000050000000000000395%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73226&online=1605708026
+江西卫视,rtsp://183.59.70.72:554/PLTV/88888905/224/3221229779/10000100000000060000000009575029_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EWZ8ggVo2loF2Lx6AD0nTog%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000006000000052018110799000004%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73228&online=1605708056
+广东卫视,rtsp://183.59.70.76:554/PLTV/88888905/224/3221227218/10000100000000060000000000988525_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EsFZ46mFNJb4XrlnNoWuN5w%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000001000000050000000000000374%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73226&online=1605705530,cntv-guangdong
+深圳卫视,rtsp://125.88.53.80:554/PLTV/88888905/224/3221227267/10000100000000060000000001141334_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7E0e6_CpdWVE14AFzBPTzwXw%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000000000000050000000000000197%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=71604&online=1605708099
+湖北卫视,rtsp://125.88.53.79:554/PLTV/88888905/224/3221227267/10000100000000060000000001141334_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7E0e6_CpdWVE14AFzBPTzwXw%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000000000000050000000000000197%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=71604&online=1605708201
+辽宁卫视,rtsp://125.88.82.37:554/PLTV/88888905/224/3221227608/10000100000000060000000004547240_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7Efb2FO4DXRVfclC948uGXUQ%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000004000000052015030200000001%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=62644&online=1605708278
+黑龙江卫视,rtsp://125.88.82.45:554/PLTV/88888905/224/3221227302/10000100000000060000000001141347_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7Emt5PkJ7RdAiZS0qHFtT_Cg%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000000000000050000000000000196%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=71824&online=1605708316
+贵州卫视,rtsp://125.88.82.37:554/PLTV/88888905/224/3221228286/10000100000000060000000007781468_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EIKugDj03eot3ijhtEwmBwg%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000006000000052017022799000002%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=62644&online=1605708353
+四川卫视,rtsp://125.88.82.45:554/PLTV/88888905/224/3221227882/10000100000000060000000006078789_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EixNpj7xZEM3lokst1bOsCA%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000004000000052016021800000003%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=71824&online=1605708398
+河南卫视,rtsp://183.59.70.72:554/PLTV/88888905/224/3221227093/10000100000000060000000000937769_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EFxOv52fTDQDCAz2QVZn9XQ%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000000000000050000000000000085%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73228&online=1605708439
+云南卫视,rtsp://125.88.53.79:554/PLTV/88888905/224/3221227140/10000100000000060000000000937812_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7Erkuuku6n2OKjxkNclqnD2Q%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000000000000050000000000000060%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=71604&online=1605708474
+重庆卫视,rtsp://183.59.70.70:554/PLTV/88888905/224/3221227897/10000100000000060000000006388228_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EtgaHrsUgJAi5sGQ5J3Grjw%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000004000000052016032800000002%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73227&online=1605708507
+河北卫视,rtsp://183.59.70.71:554/PLTV/88888905/224/3221229830/10000100000000060000000009574961_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EDyxoCpP_LG-nsJ5V4zjxbQ%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000000000000052018103099000001%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73228&online=1605708540
+东南卫视,rtsp://183.59.70.70:554/PLTV/88888905/224/3221229798/10000100000000060000000009574969_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EfJL0ZFSnBct56inJbkqSmw%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000006000000052018110799000002%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73227&online=1605708578
+广西卫视,rtsp://125.88.53.75:554/PLTV/88888905/224/3221229990/10000100000000060000000010232875_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7E5_WBXEf9DsrAEr08Jx_i0A%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000006000000052019050799000002%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73130&online=1605708610
+吉林卫视,rtsp://183.59.70.76:554/PLTV/88888905/224/3221229881/10000100000000060000000009574938_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7El9QgdTgvQ7gvk0b1n8Fs3w%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000006000000052018110799000005%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73226&online=1605708656
+陕西卫视,rtsp://125.88.53.79:554/PLTV/88888905/224/3221227090/10000100000000060000000000937749_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EAhRIvveGeqJ8cD8yCH0k5A%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000000000000050000000000000090%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=71604&online=1605708689
+山西卫视,rtsp://183.59.70.70:554/PLTV/88888905/224/3221227110/10000100000000060000000000937735_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EyeY44EBRCJKN6t3zkeeNBQ%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000000000000050000000000000099%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73227&online=1605708729
+内蒙古卫视,rtsp://125.88.82.45:554/PLTV/88888905/224/3221227133/10000100000000060000000000937736_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7E1Tbm8Hng12Tg2Euc-1NhhQ%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000000000000050000000000000098%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=71824&online=1605708779
+青海卫视,rtsp://183.59.70.76:554/PLTV/88888905/224/3221227113/10000100000000060000000000937738_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EVr5PzAUPB7WmEzDQF0pRvA%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000000000000050000000000000096%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73226&online=1605708808
+海南卫视,rtsp://183.59.70.71:554/PLTV/88888905/224/3221227119/10000100000000060000000000937750_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7E3yCkdWnRUHhokFehHIddhA%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000000000000050000000000000088%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73228&online=1605708848
+宁夏卫视,rtsp://183.59.70.74:554/PLTV/88888905/224/3221227151/10000100000000060000000000937771_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EViLj-4olL9sqL0aYHfM99Q%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000000000000050000000000000082%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73225&online=1605708881
+西藏卫视,rtsp://125.88.82.45:554/PLTV/88888905/224/3221227081/10000100000000060000000000937734_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7E6GKpGvwkobW_hd_OE7FB2w%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000000000000050000000000000100%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=71824&online=1605708922
+新疆卫视,rtsp://183.59.70.74:554/PLTV/88888905/224/3221227084/10000100000000060000000000937737_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7E0t9rM-1RappMr1UwVD1j-w%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000000000000050000000000000097%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73225&online=1605708954
+甘肃卫视,rtsp://183.59.70.69:554/PLTV/88888905/224/3221227139/10000100000000060000000000937742_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7ExVHYNUNA7BQmeKi1pd_1JA%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000000000000050000000000000094%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73227&online=1605708988
+兵团卫视,rtsp://125.88.82.45:554/PLTV/88888905/224/3221227241/10000100000000060000000000987142_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7E-URhBZerC1gKSoaA5zOz0Q%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000001000000050000000000000377%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=71824&online=1605709020
+卡酷动画,rtsp://183.59.70.70:554/PLTV/88888905/224/3221227111/10000100000000060000000000937814_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EW7LePDkHikYdHPemJx88Rg%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000000000000050000000000000150%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73227&online=1605709058
+金鹰卡通,rtsp://183.59.70.74:554/PLTV/88888905/224/3221227163/10000100000000060000000000937813_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EITReE7iRK8S-tR-p2a1LgA%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000000000000050000000000000151%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73225&online=1605709102
+哈哈炫动,rtsp://125.88.53.76:554/PLTV/88888905/224/3221227212/10000100000000060000000000987175_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EIpQbsXXQFms8F9boCfKx_w%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000001000000050000000000000392%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73130&online=1605709152
+CETV1,rtsp://183.59.70.78:554/PLTV/88888905/224/3221228289/10000100000000060000000007781467_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7Ez2AWP-zqo9KD6UbN3pARPg%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000006000000052017022799000003%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73224&online=1605709194
+CETV2,rtsp://183.59.70.69:554/PLTV/88888905/224/3221230017/10000100000000060000000010698698_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7ElPNnKqaHVq3TIFbN1GV-fA%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000006000000052020021899000001%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73227&online=1605709469
+CETV4,rtsp://183.59.70.70:554/PLTV/88888905/224/3221229908/10000100000000060000000010698699_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7ELtWYhjFbpII8KqKA9XoAmg%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000006000000052020021899000002%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73227&online=1605709514
+山东教育卫视,rtsp://183.59.70.69:554/PLTV/88888905/224/3221227244/10000100000000060000000000987144_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7ExSUO4qRP3RWu19pCAXzu6w%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000001000000050000000000000378%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73227&online=1605709229
+财富天下,rtsp://125.88.82.44:554/PLTV/88888905/224/3221227152/10000100000000060000000000937843_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EuZCofT_XX4xGCwDyCLsdyw%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000000000000050000000000000183%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=71824&online=1605709269
+厦门卫视,rtsp://125.88.82.45:554/PLTV/88888905/224/3221227312/10000100000000060000000003100522_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EW-BZOE935Srk7yYTUFeEcQ%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000001000000052013120900000002%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=71824&online=1605709312
+优漫卡通,rtsp://183.59.70.75:554/PLTV/88888905/224/3221228324/10000100000000060000000007935406_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EQN23M5nN9LP1qvicr4L92w%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000006000000052017041099000014%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73226&online=1605709349
+三沙卫视,rtsp://183.59.70.72:554/PLTV/88888905/224/3221229820/10000100000000060000000009574894_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EiCq5sgzkYe3BQKywJxOr4A%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000006000000052018110799000001%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73228&online=1605709390
+吉林延边卫视,rtsp://125.88.82.44:554/PLTV/88888905/224/3221226940/00000100000000060000000000554911_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7Ew_3hE-DOjVCRFAyIQdAvUw%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000001000000050000000000000010%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=71824&online=1605709425
+冬澳纪实,rtsp://183.59.70.72:554/PLTV/88888905/224/3221227613/10000100000000060000000004490594_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7ELDBZRMLD-JdJVibkDpeWPw%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000001000000052014102400000003%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73228&online=1605709638
+金鹰纪实,rtsp://183.59.70.78:554/PLTV/88888905/224/3221227916/10000100000000060000000006078790_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7Eo5u3j5md2oD0wr7DIdsE2A%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000004000000052016021800000001%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73224&online=1605709778
+中国交通,rtsp://125.88.82.44:554/PLTV/88888905/224/3221229880/10000100000000060000000009331996_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7ExN4JggnVP7QI6gU5xA6Blg%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000006000000052018082399000001%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=71824&online=1605709828
+纪实人物,rtsp://183.59.70.71:554/PLTV/88888905/224/3221229872/10000100000000060000000009575047_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EK7Z3v0csIIQiA8ZhV0ySEA%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000006000000052018110799000003%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73228&online=1605709890
+茶频道,rtsp://125.88.53.75:554/PLTV/88888905/224/3221229888/10000100000000060000000010323146_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EMhQ6ZyeRjk5mta22OM89Dw%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000006000000052019090499000005%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73130&online=1605710046
+快乐垂钓,rtsp://125.88.53.75:554/PLTV/88888905/224/3221229928/10000100000000060000000010323147_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7ESPI66mLUhoK6e_bTbSQQCQ%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000006000000052019090499000004%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73130&online=1605710086
+中央频道,#genre#
+CCTV-1综合,rtsp://125.88.53.80:554/PLTV/88888905/224/3221227270/10000100000000060000000001141346_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EUwOl-Gl8Z1MFFJlY1q_RCg%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000000000000050000000000000152%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=71604&online=1605706940,cntv-cctv1
+CCTV-2财经,rtsp://183.59.70.75:554/PLTV/88888905/224/3221227634/10000100000000060000000004662503_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7Ew08QX--mxmtiRia3ZBMEZA%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000004000000052015041300000001%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73226&online=1605707030,cntv-cctv2
+CCTV-3综艺,rtsp://125.88.53.76:554/PLTV/88888905/224/3221229838/10000100000000060000000009924454_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EgvH63pQiXJKEZibMVS_W8g%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000006000000052019032399000001%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73130&online=1605707086,cntv-cctv3
+CCTV-4中文国际,rtsp://183.59.70.74:554/PLTV/88888905/224/3221229981/10000100000000060000000010232874_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EWWB8_f1wHT6FqFOd9jVYYQ%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000006000000052019050799000001%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73225&online=1605707119,cntv-cctv4
+CCTV-5体育,rtsp://183.59.70.72:554/PLTV/88888905/224/3221229857/10000100000000060000000009924447_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EEKh7Q4W2FxVQNRn0W0dHbA%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000006000000052019032399000002%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73228&online=1605707201,cntv-cctv5
+CCTV-6电影,rtsp://183.59.70.74:554/PLTV/88888905/224/3221229898/10000100000000060000000009924445_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7Ed-FexEoDWH8JBMQLRWKq3w%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000006000000052019032399000003%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73225&online=1605707220,cntv-cctv6
+CCTV-7国防军事,rtsp://125.88.82.45:554/PLTV/88888905/224/3221227620/10000100000000060000000004662504_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EmBZ9vCGayUb5OiqnpyUtBg%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000004000000052015041300000002%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=71824&online=1605707261,cntv-cctv7
+CCTV-8电视机,rtsp://183.59.70.76:554/PLTV/88888905/224/3221229900/10000100000000060000000009924385_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EsIJM3FaGUlm_stwXY7o0AA%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000006000000052019032399000004%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73226&online=1605707338,cntv-cctv8
+CCTV-9记录,rtsp://125.88.82.44:554/PLTV/88888905/224/3221227617/10000100000000060000000004662501_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EdT_-cvTqkfdJ1X89SBzV5A%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000004000000052015041300000003%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=71824&online=1605707355,cntv-cctvjilu
+CCTV-10科教,rtsp://125.88.82.45:554/PLTV/88888905/224/3221227631/10000100000000060000000004662500_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EP33t7yUqS7YkT4cRFRHKTA%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000004000000052015041300000004%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=71824&online=1605707413,cntv-cctv10
+CCTV-11戏曲,rtsp://183.59.70.76:554/PLTV/88888905/224/3221229858/10000100000000060000000010595398_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7ElJjNhC1QR9nYivNY1m6PzA%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000006000000052019121799000002%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73226&online=1605707474,cntv-cctv11
+CCTV-12社会与法,rtsp://125.88.82.44:554/PLTV/88888905/224/3221227576/10000100000000060000000004662502_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EkNzDSSP1HQj9YVj3Av_NKw%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000004000000052015041300000005%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=71824&online=1605707498,cntv-cctv12
+CCTV-13新闻,http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8#rtsp://183.59.207.245/PLTV/88888905/224/3221229973/10000100000000060000000010731671_0.smil?accountinfo=AUubsVpj3e1LdfFJ6K1zdb2/UBh2rqAHtkBwgtHaY+Vw92TSOsus5BM1+PTQJgHlrGgw4EhcRtrzMN6LD+EAdB4Ia/Ar1/LMpRQwMYmVjYgO8EQldGn5qf7hZ9IGPe8lAtD9Z8smblkwpXZ5FdMJDA,END,cntv-cctv13
+CCTV-14少儿,rtsp://125.88.82.44:554/PLTV/88888905/224/3221227573/10000100000000060000000004662499_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7Eh6OEczNSNnl8ovf0ICURZg%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000004000000052015041300000006%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=71824&online=1605707634,cntv-cctvchild
+CCTV-15音乐,rtsp://183.59.70.75:554/PLTV/88888905/224/3221229902/10000100000000060000000010595397_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EG5WL2lRn6ADFf02YUwwIUg%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000006000000052019121799000001%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73226&online=1605707648,cntv-cctv15
+CCTV-17农业农村,rtsp://125.88.53.76:554/PLTV/88888905/224/3221229870/10000100000000060000000010232873_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7Ehr_lPp5U_a_DAbe9aVJFVA%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000000000000052019073099000001%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73130&online=1605707704
+CCTV5+体育赛事,rtsp://183.59.70.69:554/PLTV/88888905/224/3221227192/10000100000000060000000000987131_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7Er6jF1xCjzHv7swACkj1iSQ%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000000000000050000000000000153%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73227&online=1605709551,cntv-cctv5plus
+CHC高清电影,rtsp://125.88.53.76:554/PLTV/88888905/224/3221230008/10000100000000060000000010481261_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7E08zSQD91Uwj13p7HUFLHNw%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000006000000052019111399000001%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73130&online=1605709932#http://125.210.152.18:9090/live/CHCGQDY.m3u8
+CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8#http://125.210.152.18:9090/live/JTYYHD.m3u8
+CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8#http://125.210.152.18:9090/live/DZDYHD.m3u8
+CCTV风云音乐,rtsp://183.59.70.69:554/PLTV/88888905/224/3221230021/10000100000000060000000011039295_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EKSWHdyQNKw5UgmkIp_Gqlw%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000006000000052020061799000012%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73227&online=1605712555
+CCTV第一剧场,rtsp://183.59.70.73:554/PLTV/88888905/224/3221230007/10000100000000060000000011037430_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EpccAWCDK-1830Yc6RZWfcQ%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000006000000052020061799000011%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73225&online=1605712520
+CCTV风云剧场,rtsp://183.59.70.71:554/PLTV/88888905/224/3221229941/10000100000000060000000011037428_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7En0p5WLOuwVvGl1qIGWWf0g%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000006000000052020061799000009%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73228&online=1605712404
+CCTV怀旧剧场,rtsp://183.59.70.72:554/PLTV/88888905/224/3221230063/10000100000000060000000011037427_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EtPTBU3lbH_24WPpP3v_3NQ%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000006000000052020061799000008%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73228&online=1605712363
+CCTV世界地理,rtsp://183.59.70.70:554/PLTV/88888905/224/3221229959/10000100000000060000000011037426_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EitOVtQcPxFXPmllDB1u98w%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000006000000052020061799000007%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73227&online=1605712334
+CCTV女性时尚,rtsp://183.59.70.71:554/PLTV/88888905/224/3221229950/10000100000000060000000011037425_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EIh85H3lDd1c-09md5VaRjg%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000006000000052020061799000006%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73228&online=1605712298
+CCTV高尔夫网球,rtsp://183.59.70.77:554/PLTV/88888905/224/3221229987/10000100000000060000000011037424_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7ETwh27NLfFB5S4M6z4yiEwg%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000006000000052020061799000005%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73224&online=1605712252
+CCTV央视台球,rtsp://125.88.53.73:554/PLTV/88888905/224/3221230116/10000100000000060000000011037423_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7Egdwsh1RXp5fQuBy7_IblpA%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000006000000052020061799000004%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=51564&online=1605712219
+CCTV风云足球,rtsp://183.59.70.69:554/PLTV/88888905/224/3221229930/10000100000000060000000011037422_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7Elo3t0CkPXl-Ytuu5GGG77w%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000006000000052020061799000003%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73227&online=1605712182
+CCTV兵器科技,rtsp://183.59.70.72:554/PLTV/88888905/224/3221229974/10000100000000060000000011037420_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7E2U67mt0WVlTxn4-qKV6NZw%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000006000000052020061799000001%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73228&online=1605711398
+CCTV央视文化精品,rtsp://183.59.70.75:554/PLTV/88888905/224/3221230012/10000100000000060000000011037429_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7Ebwc4e8DirJRb8Zg3L8Qr4A%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000006000000052020061799000010%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73226&online=1605712441
+CCTV电视指南,rtsp://183.59.70.71:554/PLTV/88888905/224/3221230003/10000100000000060000000011037421_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EBHePkGqjYN4rI8ecgMjDIg%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000006000000052020061799000002%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73228&online=1605712142
+CCTV老故事,rtsp://183.59.70.78:554/PLTV/88888905/224/3221228321/10000100000000060000000007935393_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7Eks-gUSt0a0RR0tr7mxgJ2g%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000006000000052017041099000012%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73224&online=1605711183
+CCTV中学生,rtsp://125.88.82.40:554/PLTV/88888905/224/3221228327/10000100000000060000000007935405_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7Edtl680CV-f68SqH7XyUWKg%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000006000000052017041099000015%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=62664&online=160571124
+国学频道,rtsp://183.59.70.72:554/PLTV/88888905/224/3221228336/10000100000000060000000007935402_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7Ex35rkQmEFUWuTKWstv-NBQ%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000006000000052017041099000018%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73228&online=1605711318
+环球奇观,rtsp://125.88.82.44:554/PLTV/88888905/224/3221228330/10000100000000060000000007935404_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7Eh6fYhqa7UMzS7qE83Jg_pQ%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000006000000052017041099000016%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=71824&online=1605711278
+文物宝库,rtsp://183.59.70.69:554/PLTV/88888905/224/3221228339/10000100000000060000000007935401_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EgZXfK8DeOnmX25Oh9v88YA%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000006000000052017041099000019%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73227&online=1605711351
+中甲联赛,rtsp://183.59.70.77:554/PLTV/88888905/224/3221228156/10000100000000060000000007500384_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EW9UtD7EgsumYdPxtV5orTg%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000004000000052015102200000001%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73224&online=1605712588
