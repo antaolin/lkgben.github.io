@@ -188,10 +188,10 @@ AEC-5,http://iptv.tvmalaysia.cc:80/297340/297340/6701#https://my.odtv.uk/live/94
 AEC-6,http://iptv.tvmalaysia.cc:80/100375/100375/6701?WithCaption#P2p://ns2.hellotvvod.com:9906/672202f697ea4e77943f6898754f0c1e#P2p://ns2.hellotvvod.com:9906/ba54a1fee32c4b159e953cc9f2632857#mitv://51.79.41.138:18912/5d65046a0003ac63de8da01b1a833dcb.ts.ts#mitv://51.79.41.138:18912/5b909942000bb565abbe327008ae1550.ts.ts
 歡喜臺333-1,mitv://51.81.90.178:9906/d3f47d1dbb174a9abea701a048928bfb#mitv://51.81.90.178:9906/d3f47d1dbb174a9abea701a048928bfb
 歡喜臺333-2,P2p://ns2.hellotvvod.com:9906/d3f47d1dbb174a9abea701a048928bfb#P2p://ns2.hellotvvod.com:9906/d3f47d1dbb174a9abea701a048928bfb
-歡喜臺333-3,tvbus://6Gv4wn3XhVm449Z2Qc9Dip7j2WQYWW1ZjWoGGKiv9NRQNpGKgDEYEYtWmJJC6#tvbus://5v8tSLF5YnYKZAucZVHLGbkMhgMm55D65iT3RtEVGojVqkHT96bezX8c3HJsG
+歡喜臺333-3,P2p://860969650:9906/d3f47d1dbb174a9abea701a048928bfb#tvbus://6Gv4wn3XhVm449Z2Qc9Dip7j2WQYWW1ZjWoGGKiv9NRQNpGKgDEYEYtWmJJC6#tvbus://5v8tSLF5YnYKZAucZVHLGbkMhgMm55D65iT3RtEVGojVqkHT96bezX8c3HJsG
 歡喜臺333-4,P2p://ns2.hellotvvod.com:9906/d3f47d1dbb174a9abea701a048928bfb#P2p://ns2.hellotvvod.com:9906/d3f47d1dbb174a9abea701a048928bfb
 欢喜台333-1,mitv://ns2.hellotvvod.com:9906/d3f47d1dbb174a9abea701a048928bfb#mitv://ns2.hellotvvod.com:9906/d3f47d1dbb174a9abea701a048928bfb
-欢喜台333-2,mitv://51.81.90.178:9906/d3f47d1dbb174a9abea701a048928bfb#P2p://sdgdklwos.finetv.tv:9906/5b04f9f5000224816bfbe48c31ca641f#P2p://ns2.hellotvvod.com:9906/d3f47d1dbb174a9abea701a048928bfb#tvbus://6Gv4wn3XhVm449Z2Qc9Dip7j2WQYWW1ZjWoGGKiv9NRQNpGKgDEYEYtWmJJC6
+欢喜台333-2,P2p://860969650:9906/d3f47d1dbb174a9abea701a048928bfb#P2p://ns2.hellotvvod.com:9906/d3f47d1dbb174a9abea701a048928bfb#tvbus://6Gv4wn3XhVm449Z2Qc9Dip7j2WQYWW1ZjWoGGKiv9NRQNpGKgDEYEYtWmJJC6
 欢喜台333-3,p5p://0198.02686.cc:16871/5ecfb90800040601969837e0aa1efa5c.ts#p5p://0198.02686.cc:16871/5ecfb90800040601969837e0aa1efa5c.ts
 StingrayMusic70,https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/115/master.m3u8#https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/101/master.m3u8#tvbus://6hceEo3SMnTG5m7CG2ZakyWbfgG1ZmtNukkaE8mSpCNrnmf3EVovACCdyEUN3
 91 NRJ MUSIC,http://tv.nrg91.gr:1935/onweb/live/master.m3u8
