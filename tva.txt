@@ -1,10 +1,11 @@
 $c_start大马$c_end
 Astro全佳,mitv://ns2.hellotvvod.com:9906/bda13a24baf24436ae722275cbb85345#mitv://ns2.hellotvvod.com:9906/bda13a24baf24436ae722275cbb85345
 翡翠台(華麗台),mitv://ns2.hellotvvod.com:9906/b1b2d6da00de42efa4fe6051d35650d9#mitv://ns2.hellotvvod.com:9906/b1b2d6da00de42efa4fe6051d35650d9
-Astro AEC,mitv://ns2.hellotvvod.com:9906/672202f697ea4e77943f6898754f0c1e#mitv://ns2.hellotvvod.com:9906/672202f697ea4e77943f6898754f0c1e
-Astro AEC(備),mitv://ns2.hellotvvod.com:9906/ba54a1fee32c4b159e953cc9f2632857#mitv://ns2.hellotvvod.com:9906/ba54a1fee32c4b159e953cc9f2632857
+Astro AEC,http://shareext@urtv.cc:80/live/297340/297340/6701.ts?shareext.ts#mitv://ns2.hellotvvod.com:9906/672202f697ea4e77943f6898754f0c1e#mitv://ns2.hellotvvod.com:9906/672202f697ea4e77943f6898754f0c1e
+Astro AEC(備),http://iptv.tvmalaysia.cc:80/422072/422072/6701#mitv://ns2.hellotvvod.com:9906/ba54a1fee32c4b159e953cc9f2632857#mitv://ns2.hellotvvod.com:9906/ba54a1fee32c4b159e953cc9f2632857
 Astro雙星,mitv://ns2.hellotvvod.com:9906/7872926c51f9451fb86342414e0d32f5#mitv://ns2.hellotvvod.com:9906/7872926c51f9451fb86342414e0d32f5
 Astro歡喜台,mitv://ns2.hellotvvod.com:9906/d3f47d1dbb174a9abea701a048928bfb#mitv://ns2.hellotvvod.com:9906/d3f47d1dbb174a9abea701a048928bfb
+Astro歡喜台備),mitv://51.81.90.178:9906/d3f47d1dbb174a9abea701a048928bfb#P2p://ns2.hellotvvod.com:9906/d3f47d1dbb174a9abea701a048928bfb
 愛奇藝,mitv://ns2.hellotvvod.com:9906/68ef448264ff4275b99f322996e3469a#mitv://ns2.hellotvvod.com:9906/68ef448264ff4275b99f322996e3469a
 TVB經典台,mitv://ns2.hellotvvod.com:9906/1c0d8aefa5cd4d009cecff61ebc3e18b#mitv://ns2.hellotvvod.com:9906/1c0d8aefa5cd4d009cecff61ebc3e18b
 Astro小太陽,mitv://ns2.hellotvvod.com:9906/0d5ecafe8f494863ac5bad999b6a1f0f
