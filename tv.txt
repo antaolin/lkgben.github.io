@@ -174,7 +174,7 @@ SET新闻,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH34/
 非凡新闻,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH37/37
 年代新闻,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH38/38
 
-港澳#genre#
+港澳,#genre#
 Thrill,mitv://ns2.hellotvvod.com:9906/70b676c4e0f9424991012e9bfcddd4e7
 鳳凰中文台,mitv://ns2.hellotvvod.com:9906/1cca583ce33142c9840bcf53b030e47c
 鳳凰資訊台,mitv://ns2.hellotvvod.com:9906/c94bbe8b3f9044eaa6ef8a2aaba873d4
@@ -223,7 +223,7 @@ TVB翡翠海外版(粤语),http://iptv.tvfix.org/hls/jadenhk.m3u8
 TVB明珠台,http://iptv.tvfix.org/hls/pearl2.m3u8
 无线新闻,http://iptv.tvfix.org/hls/inews.m3u8
 
-澳门#genre#
+澳门,#genre#
 澳视澳门,http://103.233.191.133:1935/ch1/ch1.live/playlist.m3u8
 澳视澳门,http://103.233.191.134:1935/ch1/ch1.live/playlist.m3u8
 澳视葡文,http://103.233.191.132:1935/ch2/ch2.live/playlist.m3u8
@@ -259,7 +259,7 @@ TVB明珠台,http://iptv.tvfix.org/hls/pearl2.m3u8
 港开电视,https://cdn.hkdtmb.com/hls/77/index.m3u8
 国际财经,https://cdn.hkdtmb.com/hls/76/index.m3u8
 
-台湾#genre#
+台湾,#genre#
 民視,mitv://ns2.hellotvvod.com:9906/44cf4d1e73cc4c34843382f2bf89d49f
 人間衛視,mitv://ns2.hellotvvod.com:9906/eec8f95a22de4a0ea2907a53ad0e62d2
 台視,mitv://ns2.hellotvvod.com:9906/0cde14d20638479189443549d1b1005f
@@ -363,7 +363,7 @@ HBO原創鉅獻,mitv://ns2.hellotvvod.com:9906/9b18147e7f454392b7eb1d204235b314
 BBC Earth,mitv://ns2.hellotvvod.com:9906/555289b9056947f18bb9658c62299697
 Discovery Asia,mitv://ns2.hellotvvod.com:9906/8338adb9ba1541929a6106de04cfdec5
 
-中國频道#genre#
+中國频道,#genre#
 CCTV1,mitv://ns2.hellotvvod.com:9906/916670281cae4113bd5b2dfd948e138f
 CCTV2,mitv://ns2.hellotvvod.com:9906/ac9600048e3a4ca2acc668ed58a9a17e
 CCTV3,mitv://ns2.hellotvvod.com:9906/b4c58672af364a3786e2223e19762069
@@ -448,7 +448,7 @@ Music Japan TV,mitv://ns2.hellotvvod.com:9906/16a8ff808b3649109d0f21a269682111
 日テレNEWS 24,mitv://ns2.hellotvvod.com:9906/0c2f40999c00436ab5e823a25e3d5c13
 Cartoon Network,mitv://ns2.hellotvvod.com:9906/5419e8cfbb6a496aade3406e257768a7
 
-韓國#genre#
+韓國,#genre#
 Arirang,mitv://ns2.hellotvvod.com:9906/0a89887bb3604794b1fda5c3eae45021
 KBS1,mitv://ns2.hellotvvod.com:9906/8bce97b04ee94db6a8a4153dd4c4fe6c
 KBS2,mitv://ns2.hellotvvod.com:9906/f9dbdcd019704498bed94495d0217ca1
@@ -484,7 +484,7 @@ Indosiar,mitv://ns2.hellotvvod.com:9906/60bd6dc1a3024ff1a4232f08d0e1fc94
 Mola Sport,mitv://ns2.hellotvvod.com:9906/969520237daa4f5a939c890871259772
 Lingua HD,mitv://ns2.hellotvvod.com:9906/99f24de081cd4d3bad8cacc6132484a6
 
-泰國#genre#
+泰國,#genre#
 Channel 5,mitv://ns2.hellotvvod.com:9906/28f5f261eda34cd394050fbe4b2feb48
 NBT,mitv://ns2.hellotvvod.com:9906/c086e007ee644a308fcc83bcb81c3abd
 Thai PBS,mitv://ns2.hellotvvod.com:9906/e5808de64e1c464ebf3f89bb42ac43cc
@@ -516,7 +516,7 @@ Zee Nung,mitv://ns2.hellotvvod.com:9906/f684bccd353c497bb860f59b31083379
 Channel 4050,mitv://ns2.hellotvvod.com:9906/5872600c6bc244af95ffd83ed1872bd6
 TVB Thai,mitv://ns2.hellotvvod.com:9906/3219c8d39d544ceeb5989382d19f1fe3
 
-菲律賓#genre#
+菲律賓,#genre#
 Cartoon Network,mitv://ns2.hellotvvod.com:9906/44285c9480dc4d0eaa2e09f741531878
 Nickelodeon,mitv://ns2.hellotvvod.com:9906/88de2585472246749d43969d1c03257d
 Nick Jr.,mitv://ns2.hellotvvod.com:9906/0355fc81f0cf4527840ff76e185df41e
@@ -534,7 +534,7 @@ India TV,mitv://ns2.hellotvvod.com:9906/fdb1faa69d4f4a8e8cddd9e9040a2440
 Janam TV,mitv://ns2.hellotvvod.com:9906/84d4e01a109045f39a7f35d35c5cc9b3
 NDTV,mitv://ns2.hellotvvod.com:9906/a8a495848ac440a590dbbadd7a7f2f4b
 
-🛰️美國#genre#
+🛰️美國,#genre#
 Food Network,mitv://ns2.hellotvvod.com:9906/9590a6420c3d45649e9d2251f0fcf1d0
 CNN,mitv://ns2.hellotvvod.com:9906/608965b9eef84266946ad5598a892db9
 CNBC,mitv://ns2.hellotvvod.com:9906/52303054ad214adda0129d322912164d
