@@ -13,31 +13,31 @@ Supersport-2,http://iptv12k.com:35461/8022022301/468985/655
 Supersport-3,http://iptv12k.com:35461/8022022301/468985/654
 Supersport-4,http://iptv12k.com:35461/8022022301/468985/653
 Supersport-5,
-SuperSport Action,http://iptvstream.xyz:8080/Mcnsi/7210db0d/194354
-SuperSport Blitz,http://iptvstream.xyz:8080/Mcnsi/7210db0d/281536
-SuperSport Football,http://iptvstream.xyz:8080/Mcnsi/7210db0d/38575
-SuperSport Golf,http://shareext@urtv.cc:80/live/297340/297340/7145.ts?shareext.ts#http://iptvstream.xyz:8080/Mcnsi/7210db0d/11641
-SuperSport Grandstand,http://iptvstream.xyz:8080/Mcnsi/7210db0d/194353
-SuperSport LaLiga,http://iptvstream.xyz:8080/Mcnsi/7210db0d/194358
-SuperSport Maximo-1,http://iptvstream.xyz:8080/Mcnsi/7210db0d/38572
-SuperSport Motorsport,http://iptvstream.xyz:8080/Mcnsi/7210db0d/11638
-SuperSport Premier League,http://iptvstream.xyz:8080/Mcnsi/7210db0d/11642
-SuperSport PSL,http://iptvstream.xyz:8080/Mcnsi/7210db0d/11643
-SuperSport Rugby,http://iptvstream.xyz:8080/Mcnsi/7210db0d/15200
-SuperSport Variety-1,http://iptvstream.xyz:8080/Mcnsi/7210db0d/11633
-SuperSport Variety-2,http://iptvstream.xyz:8080/Mcnsi/7210db0d/11634
-SuperSport Variety-3,http://iptvstream.xyz:8080/Mcnsi/7210db0d/11635
-SuperSport Variety-4,http://iptvstream.xyz:8080/Mcnsi/7210db0d/11636
-Arena-1,hthttp://iptv12k.com:35461/8022022301/468985/688#http://iptv12k.com:35461/8022022301/468985/966#http://178.128.107.149:5080/WebRTCApp/streams/arena.m3u8#https://my.odtv.uk/live/9486331171/7860879594/124.ts#http://iptv.tvmalaysia.cc:80/titi3/titi3/6707#http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8#http://iptv.tvmalaysia.cc:80/kl570/kl570/8926#http://iptv.tvmalaysia.cc:80/penang174/penang174/8926#http://iptv.tvmalaysia.cc:80/penang189/penang189/9028#P2p://ns2.hellotvvod.com:9906/ca874a7d7e614ebd832e6e1e9478525b#mitv://ns2.hellotvvod.com:9906/5854587c3f164d0bb0a66626f9ee09d0
-Arena-2,http://iptv12k.com:35461/8022022301/468985/965#http://178.128.107.149:5080/WebRTCApp/streams/arena2.m3u8#http://139.99.90.11/live/1159189903/4938860969/1913.ts#http://iptv.tvmalaysia.cc:80/jalan8/jalan8/9028#http://iptv.tvmalaysia.cc:80/kl570/kl570/9028#mitv://ns2.hellotvvod.com:9906/ca874a7d7e614ebd832e6e1e9478525b
-RTMsport,http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8#P2p://ns2.hellotvvod.com:9906/3b086dcc1106400b8f78e8547d2e3df8#https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd#mitv://ns2.hellotvvod.com:9906/3b086dcc1106400b8f78e8547d2e3df8
+SuperSport Action,
+SuperSport Blitz,
+SuperSport Football,
+SuperSport Golf,
+SuperSport Grandstand,
+SuperSport LaLiga
+SuperSport Maximo-1,
+SuperSport Motorsport,
+SuperSport Premier League,
+SuperSport PSL,
+SuperSport Rugby,
+SuperSport Variety-1,
+SuperSport Variety-2,
+SuperSport Variety-3
+SuperSport Variety-4,
+Arena-1,http://iptv12k.com:35461/8022022301/468985/688#http://iptv12k.com:35461/8022022301/468985/966
+Arena-2,http://iptv12k.com:35461/8022022301/468985/965
+RTMsport,
 PremierSports,http://iptv12k.com:35461/8022022301/468985/687
 Now Sport Prime,http://livetv.dnsfor.me/channel.12.m3u8
-Sport Smart,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99233
-TraceSports,http://tw.hstv.pro/litv/litvts.php?ts=hi/vod/BtzAuzArKtY/4gtv-4gtv077-avc1_2000000=1-mp4a_135000_zho=2.m3u8
-爱尔达体育-1,rtmp://59.124.75.157/sat/md011#rtmp://59.124.75.138/sat/md011#http://iptv5.phoves.com.cn/api/wantv.php?id=59#tmp://59.124.75.138/sat/tv731#http://50.7.61.148:30080/Entry/eltasport1#mitv://ns2.hellotvvod.com:9906/db6bd5a732984d83a8fdb9d0536886c8#http://212.95.133.2/tv/js.php?id=57
-爱尔达体育-2,rtmp://59.124.75.157/sat/md021#rtmp://59.124.75.138/sat/tv741#http://iptv5.phoves.com.cn/api/wantv.php?id=60#rtmp://59.124.75.157/sat/md041#mitv://51.81.90.178:9906/bc49344900a546d39b5083025db6243f#http://50.7.61.147:30080/Entry/eltasport2#http://50.7.61.148:30080/Entry/eltasport2#http://50.7.61.149:30080/Entry/eltasport2#rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH69/69#http://212.95.133.2/tv/js.php?id=58
-爱尔达体育-3,rtmp://59.124.75.157/sat/md031#rtmp://59.124.75.138/sat/md031#http://iptv5.phoves.com.cn/api/wantv.php?id=61#http://50.7.61.148:30080/Entry/eltasport3
+Sport Smart,
+TraceSports,
+爱尔达体育-1,rtmp://59.124.75.157/sat/md011#rtmp://59.124.75.138/sat/md011#rtmp://59.124.75.138/sat/tv731
+爱尔达体育-2,rtmp://59.124.75.157/sat/md021#rtmp://59.124.75.138/sat/tv741
+爱尔达体育-3,rtmp://59.124.75.157/sat/md031#rtmp://59.124.75.138/sat/md031
 爱尔达体育+,rtmp://59.124.75.157/sat/md051#rtmp://59.124.75.138/sat/md051
 纬来体育台-1,rtmp://59.124.75.157/sat/tv721
 纬来体育台-2,rtmp://59.124.75.138/sat/tv721
@@ -45,122 +45,120 @@ TraceSports,http://tw.hstv.pro/litv/litvts.php?ts=hi/vod/BtzAuzArKtY/4gtv-4gtv07
 纬来体育台-4,
 纬来体育台-5,
 ELEVEN-1,rtmp://59.124.75.157/sat/tv731
-ELEVEN-2,rtmp://59.124.75.157/sat/tv741
+ELEVEN-2,rtmp://59.124.75.157/sat/tv741#rtmp://59.124.75.157/sat/md041
 智林体育台,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
-博斯高球1,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn05#http://iptv5.phoves.com.cn/api/wantv.php?id=62#mitv://ns2.hellotvvod.com:9906/9eb73e0317034672b4e2bdb0d695387f
-博斯高球2,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn06#http://iptv5.phoves.com.cn/api/wantv.php?id=63#mitv://ns2.hellotvvod.com:9906/c612218b5c0d4349a1b4049e89913c75#http://212.95.133.2/tv/js.php?id=61
-博斯运动1台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn07#mitv://ns2.hellotvvod.com:9906/b57a5306d5da4dcea75af2d436968097#http://206.119.163.4/apitv/gtlive.php?id=14152&cid=14312
-博斯运动2台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn08#http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8#mitv://ns2.hellotvvod.com:9906/d4f401d6d6e144dfbb8c944a41b15772#http://212.95.133.2/tv/js.php?id=60#http://206.119.163.4/apitv/gtlive.php?id=14126&cid=14286
-博斯网球,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn09#,mitv://ns2.hellotvvod.com:9906/47176ac49fed4e74a62d30b037ce81d3#http://212.95.133.2/tv/js.php?id=62
-博斯無限,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn10#mitv://ns2.hellotvvod.com:9906/91e038793b5f45f194ab304ab843b741
-博斯无限2,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn13#mitv://ns2.hellotvvod.com:9906/3367cde8bd924944b2b7bbbaef5be87e#http://212.95.133.2/tv/js.php?id=63
-博斯魅力,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn04#mitv://ns2.hellotvvod.com:9906/8f1d2f23e9964ef6b99f7b7228c199dc
+博斯高球1,
+博斯高球2,
+博斯运动1台,
+博斯运动2台,
+博斯网球,
+博斯無限,
+博斯无限2,
+博斯魅力,
 NBA-1,http://84.22.33.214:80/nbatv/index.m3u8
 NBA-2,
 NBA-3,
 NBA-4,
-Sony Six,http://live.flixhub.net/hls/sonysix.m3u8?shareext.m3u8#http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3404
-Sony Ten-1,http://live.flixhub.net/hls/sonyten1.m3u8?shareext.m3u8#http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/171
-Sony Ten-2,http://live.flixhub.net/hls/sonyten2.m3u8?shareext.m3u8#http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/172
-Sony Ten-3,http://live.flixhub.net/hls/sonyten3.m3u8?shareext.m3u8#http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/173
-Sony Ten-4,http://jo123.biz/jweb/m3u8.php?c=Ten_4_HD_Tamil&q=800&e=junk.m3u8
-TSN-1,http://shareext@urtv.cc:80/live/297340/297340/8923.ts?shareext.ts#http://iptv.tvmalaysia.cc:80/penang174/penang174/8923
-TSN-2,http://shareext@urtv.cc:80/live/297340/297340/8924.ts?shareext.ts
+Sony Six,http://live.flixhub.net/hls/sonysix.m3u8?shareext.m3u8
+Sony Ten-1,http://live.flixhub.net/hls/sonyten1.m3u8?shareext.m3u8
+Sony Ten-2,http://live.flixhub.net/hls/sonyten2.m3u8?shareext.m3u8
+Sony Ten-3,http://live.flixhub.net/hls/sonyten3.m3u8?shareext.m3u8
+Sony Ten-4,
+TSN-1,
+TSN-2,
 TSN-3,
-TSN-4,http://shareext@urtv.cc:80/live/297340/297340/8926.ts?shareext.ts
+TSN-4,
 TSN-5,
-True Sport HD1,https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
-True Sport HD2,https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
-True Sport HD3,https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
-TRUE SPORT 5,https://www.livedoomovie.com/02_sport5_480p/chunklist.m3u8
-TRUE SPORT 6,https://www.livedoomovie.com/02_sport6_480p/chunklist.m3u8
-TRUE SPORT 7,https://www.livedoomovie.com/02_sport7_480p/chunklist.m3u8
+True Sport HD1,
+True Sport HD2,
+True Sport HD3,
+TRUE SPORT 5,
+TRUE SPORT 6,
+TRUE SPORT 7,
 Fox Sport-Aus,https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
-Fox Sports 1,http://shareext@urtv.cc:80/live/297340/297340/6793.ts?shareext.ts#http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31156#https://nonton.site:8443/Athayamanja/SHFTZRKFrF/51
-Fox Sports 2,http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13350#https://nonton.site:8443/IGRKg9OA4w/jshjbmd4567fg/102
-Fox Sports 3,https://nonton.site:8443/IGRKg9OA4w/jshjbmd4567fg/101
-Fox Sports 2 BR,https://my.odtv.uk/live/9486331171/7860879594/131.ts
-Golf Tahiland,https://master.server-cdn-streaming.com/api/live-player/35/live.m3u8
-PGA TOUR,http://iptv12k.com:35461/8022022301/468985/651#http://jlwmedia.xyz:2052/vandoorne/vandoorne123/3151566
-Golf,http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/chunklist.m3u8#http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8?checkedby:iptvcat.com
-Golf-Channel,http://shareext@urtv.cc:80/live/297340/297340/6796.ts?shareext.ts#https://nonton.site:8443/Athayamanja/SHFTZRKFrF/561#http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31246#http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/chunklist.m3u8
-ONE GOLF,http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8#http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-Golf Japan,mitv://fccsovh.pvbox.live:18912/5ef1e4ac000a28968cce3fe70ddf116a.ts#mitv://fccseuro.pvbox.live:18912/5ef1e4ac000a28968cce3fe70ddf116a.ts#p2p://fccsovh.pvbox.live:18912/5ef1e4ac000a28968cce3fe70ddf116a#p2p://fccseuro.pvbox.live:18912/5ef1e4ac000a28968cce3fe70ddf116a
-JTBC GOLF-SPORTS,p2p://fccsovh.pvbox.live:18912/5f9f82670003f3fa32fdbe1160607204#p2p://fccseuro.pvbox.live:18912/5f9f82670003f3fa32fdbe1160607204#mitv://fccseuro.pvbox.live:18912/5b1289d500043f916bf82167cc871897.ts#mitv://fccsovh.pvbox.live:18912/5b1289d500043f916bf82167cc871897.ts
-sbs golf,p2p://fccsovh.pvbox.live:18912/5f9f841c0004e24e33046957088c67e2#p2p://fccseuro.pvbox.live:18912/5f9f841c0004e24e33046957088c67e2
-Sky Sports Golf,p2p://fccseuro.pvbox.live:18912/5bee5088000b42fd2d3d4107b2c45904#p2p://fccsovh.pvbox.live:18912/5bee5088000b42fd2d3d4107b2c45904
-Fox Golf-1,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn05
-Fox Golf-2,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn06
-Sporting TV,p2p://fccseuro.pvbox.live:18912/5bee55e300077df95ff96199666b8d94#p2p://fccsovh.pvbox.live:18912/5bee55e300077df95ff96199666b8d94
-Fight Sports,https://nonton.site:8443/IGRKg9OA4w/jshjbmd4567fg/784
-WWE,http://iptv12k.com:35461/8022022301/468985/652#http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
+Fox Sports 1,
+Fox Sports 2,
+Fox Sports 3,
+Fox Sports 2 BR,
+Golf Tahiland,
+PGA TOUR,http://iptv12k.com:35461/8022022301/468985/651
+Golf,
+Golf-Channel,
+ONE GOLF,http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8#http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8##http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8?checkedby:iptvcat.com
+Golf Japan,
+JTBC GOLF-SPORTS,
+sbs golf,
+Sky Sports Golf,
+Fox Golf-1,
+Fox Golf-2,
+Sporting TV,
+Fight Sports,
+WWE,http://iptv12k.com:35461/8022022301/468985/652
 RedBull TV,https://i.mjh.nz/au/Canberra/tv.redbull.tv.m3u8#https://i.mjh.nz/au/Sydney/tv.redbull.tv.m3u8#https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-CCTV-5体育,http://39.135.138.58:18890/PLTV/88888888/224/3221225633/index.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225507/index.m3u8#http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv5/HD-8000k-1080P-cctv5#http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8#http://223.110.241.137:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/?type=.m3u8
-CCTV-5+体育赛事,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv05plus/HD-8000k-1080P-cctv05plus#http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227631/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8#http://117.148.179.136/PLTV/88888888/224/3221231459/index.m3u8
+CCTV-5体育,http://39.135.138.58:18890/PLTV/88888888/224/3221225633/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
+CCTV-5+体育赛事,http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8#http://117.148.179.136/PLTV/88888888/224/3221231459/index.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225507/index.m3u8
 PP体育,http://117.148.179.172/PLTV/88888888/224/3221231778/index.m3u8
 咪咕视频·PP体育1,http://39.134.65.162/PLTV/88888888/224/3221225611/index.m3u8
-咪咕视频4K,http://117.136.154.98/PLTV/88888888/224/3221225724/index.m3u8
-北京冬奥纪实,http://39.135.138.58:18890/PLTV/88888910/224/3221225676/index.m3u8#http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s6/index.m3u8
-广东体育,http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=8&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-芒果TV直播,http://117.148.179.160/PLTV/88888888/224/3221231276/index.m3u8
-澳门体育,http://live3.tdm.com.mo:1935/ch4/sport_ch4.live/playlist.m3u8#http://61.244.22.5/ch4/sport_ch4.live/playlist.m3u8#http://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
-劲爆体育,http://111.26.225.22/PLTV/2/224/3221225658/index.m3u8#http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8#http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8
-魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8#http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8#http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
-五星体育,http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8#http://111.26.225.22/PLTV/2/224/3221225857/index.m3u8#http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
-新视觉,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8
-风云足球,p2p://fccsovh.pvbox.live:18912/5b1409f2000b29c0c561f6d760e300ae#p2p://fccsovh.pvbox.live:18912/5b1409f2000b29c0c561f6d760e300ae#p2p://fccseuro.pvbox.live:18912/5b1409f2000b29c0c561f6d760e300ae
-高尔夫网球,p2p://fccsovh.pvbox.live:18912/5b1409530005ae3a05fa63a33bbf907c#p2p://fccseuro.pvbox.live:18912/5b1409530005ae3a05fa63a33bbf907c
-超级体育ᴴᴰ,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226232/1.m3u8#http://39.134.155.137/PLTV/88888888/224/3221225653/index.m3u8#http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225925/index.m3u8#http://39.134.155.153/PLTV/88888888/224/3221225576/index.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226348/1.m3u8
-吉林篮球,http://player.ioioz.com/hogejump/jilin.php?id=36
-智林体育台,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8#http://tw.hstv.pro/litv/litvts.php?ts=hi/vod/Qwk6kbESEd0/4gtv-4gtv101-avc1_2000000=1-mp4a_131000_zho=2.m3u8
+咪咕视频4K,
+北京冬奥纪实,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s6/index.m3u8#http://39.135.138.58:18890/PLTV/88888910/224/3221225676/index.m3u8
+广东体育,
+芒果TV直播,
+劲爆体育,
+魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8#http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
+五星体育,http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
+新视觉,
+风云足球
+高尔夫网球,
+超级体育ᴴᴰ,
+吉林篮球,
 All Sports,https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8?checkedby#https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8?checkedby&checkedby
-Bein sport Live-1,https://nonton.site:8443/IGRKg9OA4w/jshjbmd4567fg/728
-Bein Sport 01,http://yassooo.com:8080/Manaf/Manaf123/80095#http://172.107.226.94:25461/live/upvckuzx/rgdfdh1/4.ts#http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8#p2p://fccseuro.pvbox.live:18912/5bee51100008b6be32731370c1f6e7ec#p2p://fccsovh.pvbox.live:18912/5bee51100008b6be32731370c1f6e7ec#http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/27083#http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/5020.ts
-Bein Sport 02,http://yassooo.com:8080/Manaf/Manaf123/80094#https://nonton.site:8443/IGRKg9OA4w/jshjbmd4567fg/729#http://172.107.226.94:25461/live/upvckuzx/rgdfdh1/5.ts#http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6868
-BeIN Sport 03,http://yassooo.com:8080/Manaf/Manaf123/80093#http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6870
-Bein Sport Max-1,http://yassooo.com:8080/Manaf/Manaf123/120806#http://iptv.tvmalaysia.cc:80/penang062/penang062/6748
-Bein Sport Max-2,http://yassooo.com:8080/Manaf/Manaf123/120805
-beIN Sports Premium 1,http://88.barouhn.xyz.global.prod.fastly.net/live/6161655/index.m3u8
-beIN Sports Premium 2,http://88.barouhn.xyz.global.prod.fastly.net/live/616194987/index.m3u8
-beIN Sports Premium 3,http://dud.mawanroud.xyz/live/6151278887/index.m3u8
-SonyTen-1,https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
-SonyTen-2,https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
-SonyTen-3,https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
+Bein sport Live-1,
+Bein Sport 01,
+Bein Sport 02,
+BeIN Sport 03,
+Bein Sport Max-1,
+Bein Sport Max-2,
+beIN Sports Premium 1,
+beIN Sports Premium 2,
+beIN Sports Premium 3,
+SonyTen-1,
+SonyTen-2,
+SonyTen-3,
 Ten-1,
 Ten-3,
 F1,http://iptv12k.com:35461/8022022301/468985/968
 ELEVEN Sport+,rtmp://59.124.75.157/sat/md051
-Eleven Sport-1 Fr,http://ipalytvsuda.russtv.net/iptv/S3ZDD8GRPVNTPV/6083/index.m3u8#http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/tracks-v1a1/mono.m3u8
-Eleven Sport-1,http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8#http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31243#http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8#http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/229433
-Eleven Sport-2,http://ipalytvsuda.russtv.net/iptv/S3ZDD8GRPVNTPV/6082/index.m3u8#http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8#http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
-Eleven Sport-4,http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/229434
-SNWL,http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170832
+Eleven Sport-1 Fr,
+Eleven Sport-1,
+Eleven Sport-2,
+Eleven Sport-4,
+SNWL,
 RCTI,
-TVRI Sports,http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8#http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8
+TVRI Sports,http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 SPOTV,http://iptv12k.com:35461/8022022301/468985/967
-ESPN1,http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31148#http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31149
-ESPN2,http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31150#http://38.131.11.34:1080/play/a02l
-ESPN BRASIL,http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31143#http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31144
-ESPN Extra,http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31147
-K Sport-1,http://93.157.62.180/KSport1/index.m3u8
-K Sport-2,http://93.157.62.180/KSport2/index.m3u8
-K Sport-3,http://93.157.62.180/KSport3/index.m3u8
-K Sport-4,http://93.157.62.180/KSport4/index.m3u8
-Look Sport +,https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=&checkedby:iptvcat.com
-Look Sport-1,https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=&checkedby:iptvcat.com
-Look Sport-2,https://stream1.1616.ro:1945/looksport2/livestream/chunklist_w1538106197.m3u8
-Look Sport-3,https://stream1.1616.ro:1945/looksport3/livestream/chunklist_w64015557.m3u8
+ESPN1,
+ESPN2,
+ESPN BRASIL,
+ESPN Extra,
+K Sport-1,
+K Sport-2,
+K Sport-3,
+K Sport-4,
+Look Sport +,
+Look Sport-1,
+Look Sport-2,
+Look Sport-3,
 Tennis-Channel,
 Euro Sport News,
-Euro Sport 1,http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/26571
-Euro Sport 2,http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/26570
+Euro Sport 1,
+Euro Sport 2,
 Euro Sport 2-IT,
 Sport TV +,
-Sport TV 1,https://www.livedoomovie.com:4432/02_SPORTTV_1_720p/chunklist.m3u8?shareext.ts
-Sport TV 2,https://www.livedoomovie.com:4432/02_SPORTTV_2_720p/chunklist.m3u8?shareext.ts
-Sport TV 3,https://www.livedoomovie.com:4432/02_SPORTTV_3_720p/chunklist.m3u8?shareext.ts
-Sport TV 4,https://www.livedoomovie.com:4432/02_SPORTTV_4_720p/chunklist.m3u8?shareext.ts
-Sport TV 5,https://www.livedoomovie.com:4432/02_SPORTTV_5_720p/chunklist.m3u8?shareext.ts
+Sport TV 1,
+Sport TV 2,
+Sport TV 3,
+Sport TV 4,
+Sport TV 5,
 Sky Sport 1,
 Sky Sport 2,
 Sky Sport 3,
@@ -178,17 +176,17 @@ Claro Sports,
 Benfica TV 2,
 Star Sports 1,
 Star Sports 2,
-BT SPORT 1,https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+BT SPORT 1,
 BT Sport 2,
 BT Sport 3,
 BT Espn,
 CBS Sport,
 SBS sports,
-RTVE OL,http://91.126.141.13:1935/live/41/1800-def.m3u8
+RTVE OL,
 Super sport Premier,
-Canal + Sport,http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
+Canal + Sport,
 ru sport tv,https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-EDGEsport,https://csm-e-stv.tls1.yospace.com/csm/live/195300285.m3u8#https://dai2.xumo.com/amagi_hls_data_xumo1212A-edgesportxumo/CDN/master.m3u8#https://edgesport-samsungus.amagi.tv/playlist.m3u8
+EDGEsport,
 
 $c_start马新/MalSin$c_end
 AEC-1,http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/1723
