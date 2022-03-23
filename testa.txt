@@ -66,7 +66,6 @@ NBA-1,http://84.22.33.214:80/nbatv/index.m3u8
 博斯無限,
 博斯无限2,
 博斯魅力,
-
 Sony Six,http://live.flixhub.net/hls/sonysix.m3u8?shareext.m3u8
 Sony Ten-1,http://live.flixhub.net/hls/sonyten1.m3u8?shareext.m3u8
 Sony Ten-2,http://live.flixhub.net/hls/sonyten2.m3u8?shareext.m3u8
@@ -277,13 +276,11 @@ Ch-U,http://iptv12k.com:35461/8022022301/468985/330#https://tglmp03.akamaized.ne
 CNN,http://iptv12k.com:35461/8022022301/468985/594#https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8#http://93.190.139.35:8278/streams/d/cnn_antik/playlist.m3u8#http://stream.tvtap.live:8081/live/us-cnn.stream/playlist.m3u8#http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/112#http://gcs2.xyz:2052/anh/123/1109703#p5p://fccs.123178.top:9906/61303c280001e288131eac7e0db9e362
 
 $c_start 香港/HK$c_end
-"鳳凰中文台,http://stream.guihet.com/t/ifeng2.php?id=2#https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8#http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8#http://stream.guihet.com/t/ifeng2.php?id=2#http://59.44.10.116:9901/tsfile/live/1022_1.m3u8
-"
+鳳凰中文台,http://stream.guihet.com/t/ifeng2.php?id=2#https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8#http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8#http://stream.guihet.com/t/ifeng2.php?id=2#http://59.44.10.116:9901/tsfile/live/1022_1.m3u8
 鳳凰資訊台,http://stream.guihet.com/t/ifeng2.php?id=1#https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8#http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8#http://59.44.10.116:9901/tsfile/live/1021_1.m3u8
-"鳳凰香港台,http://stream.guihet.com/t/ifeng2.php?id=3#P2p://860969650:9906/1e2d62497f71486cb6f1d6bbe1bbdb4f#http://59.44.10.116:9901/tsfile/live/1023_1.m3u8
-"
+鳳凰香港台,http://stream.guihet.com/t/ifeng2.php?id=3#P2p://860969650:9906/1e2d62497f71486cb6f1d6bbe1bbdb4f#http://59.44.10.116:9901/tsfile/live/1023_1.m3u8
 無綫新聞台,http://ye23.win/iptv/tvb.php?id=1#https://dm1133.kglink.xyz/live/01#http://iptv.tvfix.org/hls/inews.m3u8#https://nettvpro.live/hls/tvb.php?id=1#http://ye23.win/iptv/tvb.php?id=1#http://185.207.176.189:8080/channels/tv-83/playlist.m3u8#http://livetv.dnsfor.me/channel.10.m3u8#http://kkmix1.f3322.net:762/hls/ch2/s.m3u8
-有線新聞台,https://dm1133.kglink.xyz/live/03#https://dm1133.kglink.xyz/live/03P2p://860969650:9906/a8429ecad2e446e18c362b031e3d32bf
+有線新聞台,https://dm1133.kglink.xyz/live/03#https://dm1133.kglink.xyz/live/03#P2p://860969650:9906/a8429ecad2e446e18c362b031e3d32bf
 有線直播新聞台,P2p://860969650:9906/eede001be16e4991843619bb8af3f840
 Now新聞,https://dm1133.kglink.xyz/live/05#http://iptv12k.com:35461/8022022301/468985/691#mitv://51.81.90.178:9906/f228f98bc84245ce9b4870364b82b6da#http://iptv5.phoves.com.cn/api/wantv.php?id=6#http://livetv.dnsfor.me/channel.4.m3u8#http://livetv.dnsfor.me/channel.3.m3u8#tvbus://8ZmAhsQuXiawwzH9WSTxkS34cdmLShs44nrCAC7EABPSqRvUwm#tvbus://5z9iVBi34FWnh4bXn1obe87mAfpgATGrBfv8Vx3LNtvAH8EqGH5x3h7xbuzeM#tvbus://6Uu3mFJymqNSbL2ZHkXN1mouj5DTg75fK3d8hs6q8569hoNFFCgAKcac3obtW#http://43.129.29.150:84/pls/tv/NOWxwt/4a8e2449f42407702a3acb4eafa2d2bd.m3u8#http://livetv.dnsfor.me:80/channel.4.m3u8#https://www.navchina.cf/IPTV/now.php?id=332#p8p://0198.02686.cc:16871/5e565c070000cb6f2d78cad5c040fa7b.ts#mitv://ns2.hellotvvod.com:9906/f228f98bc84245ce9b4870364b82b6da#rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH22/22#http://212.95.133.2/tv/js.php?id=20
 Now直播新聞台,http://livetv.dnsfor.me:80/channel.3.m3u8#https://www.navchina.cf/IPTV/now.php?id=331
